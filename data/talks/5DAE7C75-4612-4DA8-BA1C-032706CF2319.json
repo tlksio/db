@@ -1,0 +1,22 @@
+{
+    "_id": "54c580b3689206a3028b4567",
+    "id": "5DAE7C75-4612-4DA8-BA1C-032706CF2319",
+    "code": "3MvKLOecT1I",
+    "title": "Why The Cool Kids Don't Use Erlang",
+    "speaker": null,
+    "description": "Erlang is ideally suited building scalable, fault tolerant systems with minimal investment. It can be used for any conceivable application - not just telecom. It has a multi-decade track record of success. So why does it remain a niche technology?",
+    "author": {
+        "id": 13088482,
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "views": 9,
+    "votes": 0,
+    "likes": 0,
+    "tags": [
+        "erlang",
+        "cool",
+        "kids",
+        "scalable"
+    ]
+}
