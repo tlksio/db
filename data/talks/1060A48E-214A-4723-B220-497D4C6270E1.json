@@ -5,14 +5,12 @@
     "title": "Douglas Crockford: The Better Parts - JSConfUY 2014",
     "speaker": null,
     "author": {
-        "id": 13088482,
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
     "description": "Douglas Crockford is known as The JavaScript Guy. He’s famous not only for his O’Reilly book JavaScript: The Good Parts but even more so as the visionary behind the JSON data format as well as the JSLint tool.",
-    "views": 8,
-    "votes": 0,
-    "likes": 0,
+    "votes": [],
     "tags": [
         "javascript",
         "best",
@@ -21,5 +19,9 @@
         "jslint"
     ],
     "created": 1423328738850,
-    "updated": 1423328738850
+    "updated": 1423346058469,
+    "viewCount": 8,
+    "voteCount": 0,
+    "favoriteCount": 0,
+    "favorites": []
 }

@@ -5,12 +5,11 @@
     "title": "Google I/O 2012 - Go Concurrency Patterns",
     "description": "Concurrency is the key to designing high performance network services. Go's concurrency primitives (goroutines and channels) provide a simple and efficient means of expressing concurrent execution. In this talk we see how tricky concurrency problems can be solved gracefully with simple Go code.",
     "author": {
-        "id": 13088482,
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
-    "views": 2,
-    "votes": 0,
+    "votes": [],
     "likes": 0,
     "tags": [
         "google",
@@ -22,5 +21,9 @@
         "channel"
     ],
     "created": 1423328738854,
-    "updated": 1423328738854
+    "updated": 1423346058473,
+    "viewCount": 2,
+    "voteCount": 0,
+    "favoriteCount": 0,
+    "favorites": []
 }

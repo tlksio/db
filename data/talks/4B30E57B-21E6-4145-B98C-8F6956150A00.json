@@ -6,17 +6,19 @@
     "speaker": null,
     "description": "Go is a new experimental systems programming language intended to make software development fast. Our goal is that a major Google binary should be buildable in a few seconds on a single machine. The language is concurrent, garbage-collected, and requires explicit declaration of dependencies. Simple syntax and a clean type system support a number of programming styles.",
     "author": {
-        "id": 13088482,
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
-    "views": 10,
-    "votes": 0,
-    "likes": 0,
+    "votes": [],
     "tags": [
         "golang",
         "google"
     ],
     "created": 1423328738850,
-    "updated": 1423328738850
+    "updated": 1423346058470,
+    "viewCount": 10,
+    "voteCount": 0,
+    "favoriteCount": 0,
+    "favorites": []
 }

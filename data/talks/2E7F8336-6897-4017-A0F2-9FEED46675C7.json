@@ -5,13 +5,11 @@
     "title": "RabbitMQ: An Open Source Messaging Broker That Just Works",
     "description": "RabbitMQ implements AMQP, the emerging standard internet protocol for business messaging. It also support numerous bridges to other messaging and internet protocols so is highly adaptable to many use cases. The core server is implemented in Erlang which is well known for delivering a highly scalable and stable environment for applications that involve messaging. When JP Morgan Chase introduced AMQP, Erlang seemed an obvious implementation choice. This talk will explain the rationale of this decision in detail and describe the technology and architecture of the server. Today RabbitMQ is used in solutions across multiple platforms and client languages such as Java, C#/.NET, Ruby, Python and Erlang.",
     "author": {
-        "id": 13088482,
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
-    "views": 1,
-    "votes": 0,
-    "likes": 0,
+    "votes": [],
     "tags": [
         "rabbitmq",
         "amqp",
@@ -20,5 +18,9 @@
         "erlang"
     ],
     "created": 1423328738853,
-    "updated": 1423328738853
+    "updated": 1423346058471,
+    "viewCount": 1,
+    "voteCount": 0,
+    "favoriteCount": 0,
+    "favorites": []
 }

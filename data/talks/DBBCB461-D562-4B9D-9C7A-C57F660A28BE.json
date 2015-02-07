@@ -5,19 +5,21 @@
     "title": "JavaScript: The Good Parts",
     "speaker": "Douglas Crockford",
     "author": {
-        "id": 13088482,
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
     "description": "JavaScript is a language with more than its share of bad parts. It went from non-existence to global adoption in an alarmingly short period of time. It never had an interval in the lab when it could be tried out and polished. JavaScript has some extraordinarily good parts.",
-    "views": 39,
-    "votes": 0,
-    "likes": 0,
+    "votes": [],
     "tags": [
         "javascript",
         "good",
         "parts"
     ],
     "created": 1423328738847,
-    "updated": 1423328738847
+    "updated": 1423346058466,
+    "viewCount": 39,
+    "voteCount": 0,
+    "favoriteCount": 0,
+    "favorites": []
 }

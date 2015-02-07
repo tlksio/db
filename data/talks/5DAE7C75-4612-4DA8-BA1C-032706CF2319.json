@@ -6,13 +6,11 @@
     "speaker": null,
     "description": "Erlang is ideally suited building scalable, fault tolerant systems with minimal investment. It can be used for any conceivable application - not just telecom. It has a multi-decade track record of success. So why does it remain a niche technology?",
     "author": {
-        "id": 13088482,
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
-    "views": 10,
-    "votes": 0,
-    "likes": 0,
+    "votes": [],
     "tags": [
         "erlang",
         "cool",
@@ -20,5 +18,9 @@
         "scalable"
     ],
     "created": 1423328738851,
-    "updated": 1423328738851
+    "updated": 1423346058470,
+    "viewCount": 10,
+    "voteCount": 0,
+    "favoriteCount": 0,
+    "favorites": []
 }

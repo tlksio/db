@@ -4,14 +4,12 @@
     "code": "IkU8JsxdCAM",
     "title": "Realtime Distributed Message Processing at Scale with NSQ",
     "author": {
-        "id": 13088482,
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
     "description": "NSQ is a realtime message processing system designed to operate at bitly's scale, handling billions of messages per day. It promotes distributed and decentralized topologies without single points of failure, enabling fault tolerance and high availability coupled with a reliable message delivery guarantee. It is the backbone of bitly's infrastructure, powering realtime data analysis and feeding offline batch processes.",
-    "views": 18,
-    "votes": 0,
-    "likes": 0,
+    "votes": [],
     "tags": [
         "nsq",
         "golang",
@@ -20,5 +18,9 @@
         "realtime"
     ],
     "created": 1423328738852,
-    "updated": 1423328738852
+    "updated": 1423346058471,
+    "viewCount": 18,
+    "voteCount": 0,
+    "favoriteCount": 0,
+    "favorites": []
 }

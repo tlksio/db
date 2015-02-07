@@ -8,6 +8,9 @@ function updateTalk(talk) {
         talk.created = Date.now();
     }
     talk.updated = Date.now();
+
+    talk.author.id = "19DF9868-2538-4A51-9263-642129DE57C4";
+
     return talk;
 }
 
