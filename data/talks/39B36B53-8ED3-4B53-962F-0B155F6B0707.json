@@ -1,0 +1,21 @@
+{
+    "_id": "54d56869b1f13a1055925918",
+    "id": "39B36B53-8ED3-4B53-962F-0B155F6B0707",
+    "code": "i9MHigUZKEM",
+    "title": "AngularJS Fundamentals In 60-ish Minutes",
+    "description": "In this video you'll learn how to get started with the AngularJS SPA framework. First you'll be introduced to what a SPA is and AngularJS features that simplify building SPAs. From there you'll see how to use directives, filters and data binding techniques. Next up is views, controllers and scope and the role they play followed by a discussion of modules, routes and factories/services. At the end a sample application built using AngularJS is shown.",
+    "author": {
+        "id": 13088482,
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "views": 2,
+    "votes": 0,
+    "likes": 0,
+    "tags": [
+        "angularjs",
+        "spa",
+        "framework",
+        "fundamentals"
+    ]
+}
