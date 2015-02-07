@@ -1,4 +1,5 @@
 var fs = require('fs');
+var slug = require('slug');
 var MongoClient = require('mongodb').MongoClient;
 
 var config = require('../front/config.json');
@@ -9,7 +10,7 @@ function updateTalk(talk) {
     }
     talk.updated = Date.now();
 
-    talk.author.id = "19DF9868-2538-4A51-9263-642129DE57C4";
+    talk.slug = slug(talk.title).toLowerCase();
 
     return talk;
 }

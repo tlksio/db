@@ -18,9 +18,10 @@
         "erlang"
     ],
     "created": 1423328738853,
-    "updated": 1423346058471,
+    "updated": 1423347870505,
     "viewCount": 1,
     "voteCount": 0,
     "favoriteCount": 0,
-    "favorites": []
+    "favorites": [],
+    "slug": "rabbitmq-an-open-source-messaging-broker-that-just-works"
 }
