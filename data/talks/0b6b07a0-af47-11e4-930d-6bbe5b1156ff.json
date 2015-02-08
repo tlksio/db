@@ -1,0 +1,31 @@
+{
+    "_id": "54d6df6817291fda3264861f",
+    "id": "0b6b07a0-af47-11e4-930d-6bbe5b1156ff",
+    "code": "WktC6vc4WQs",
+    "title": "Jack Moffitt: The Real Time Web with XMPP",
+    "slug": "jack-moffitt-the-real-time-web-with-xmpp",
+    "description": "Grown tired of the AJAX buzzword blues? Jack Moffitt takes us on a whirlwind tour of Strophe for building beautiful XMPP based applications in pure JavaScript using Bidirectional-streams Over Synchronous HTTP (BOSH) which will most likely be the next evolution of web technologies. The focus concept is the \"Real Time Web\" and how to actually accomplish low latency rich data applications that put AJAX to shame. With Strophe you can leverage all the goodness of XMPP at the client side. It is a very exciting technology and great deep tech talk from the one of the geniuses behind the brand new Collecta.",
+    "author": {
+        "id": "2fce3c50-af35-11e4-b774-c199d71ca8d3",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "jack moffitt",
+        " real time",
+        " web",
+        " xmpp",
+        " bosh",
+        " ajax",
+        " collecta",
+        " stream",
+        " javascript"
+    ],
+    "created": 1423368039707,
+    "updated": 1423368039707
+}
