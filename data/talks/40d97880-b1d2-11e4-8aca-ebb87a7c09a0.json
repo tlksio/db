@@ -1,0 +1,28 @@
+{
+    "_id": "54db23f4fb1397b138d3bbe3",
+    "id": "40d97880-b1d2-11e4-8aca-ebb87a7c09a0",
+    "code": "7gtGCtsc9F8",
+    "title": "Roman Numerals Kata in PHP",
+    "slug": "roman-numerals-kata-in-php",
+    "description": "Roman Numerals Kata in PHP with PHPSpec https://github.com/sergigp/katas-php/tree/master/kata-roman-numerals",
+    "author": {
+        "id": "2fce3c50-af35-11e4-b774-c199d71ca8d3",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "roman",
+        " numerals",
+        " kata",
+        " php",
+        " phpstorm",
+        " phpspec"
+    ],
+    "created": 1423647731725,
+    "updated": 1423654626305
+}

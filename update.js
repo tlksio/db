@@ -9,22 +9,26 @@ function updateTalk(talk) {
         talk.created = Date.now();
     }
     talk.updated = Date.now();
-
     talk.slug = slug(talk.title).toLowerCase();
-
     return talk;
 }
 
 MongoClient.connect(config.mongodb, function (err, db) {
-    if (err) { throw new Error(err); }
+    if (err) { 
+        throw new Error(err);
+    }
     var talks = db.collection('talks');
     talks.find({}).toArray(function (err, docs) {
-        if (err) { throw new Error(err); }
+        if (err) {
+            throw new Error(err);
+        }
         docs.forEach(function (talk) {
-            console.log("Updated talk "+talk.id);
-            talk = updateTalk(talk);
+            var talk = updateTalk(talk);
             talks.update({id: talk.id}, talk, function (error) {
-                if (err) { throw new Error(err); }
+                if (err) {
+                    throw new Error(err);
+                }
+                console.log("Updated talk "+talk.id);
                 db.close();
             });
         });

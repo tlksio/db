@@ -1,11 +1,8 @@
 {
   "name": "db",
   "version": "0.0.1",
-  "description": "techtalks.io db",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "description": "tlks.io db",
+  "author": "Raül Pérez <repejota@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "mongodb": "^1.4.30",

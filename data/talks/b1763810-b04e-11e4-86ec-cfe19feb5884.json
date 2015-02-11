@@ -1,0 +1,32 @@
+{
+    "_id": "54d899bc93b381cc19e43418",
+    "id": "b1763810-b04e-11e4-86ec-cfe19feb5884",
+    "code": "R6hJ8Nqjgv8",
+    "title": "2012 UTOSC - Zsh: A high-level overview of shell-use and scripting - Seth House",
+    "slug": "2012-utosc-zsh-a-high-level-overview-of-shell-use-and-scripting-seth-house",
+    "description": "See firsthand why the power and flexibility of Zsh both for daily command-line use and for scripting leaves the competition in the dust. Globbing.; completion; arrays; parsing arguments — Zsh excels at all. Or just come to see how many bash fans show up to heckle me for making wild, hyperbolic statements about two differing implementations of a Unix shell.",
+    "author": {
+        "id": "2fce3c50-af35-11e4-b774-c199d71ca8d3",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "zsh",
+        " high-level",
+        " shell",
+        " script",
+        " utosc",
+        " 2012",
+        " unix",
+        " globbing",
+        " competion",
+        " array"
+    ],
+    "created": 1423481275922,
+    "updated": 1423588950426
+}

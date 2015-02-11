@@ -1,0 +1,31 @@
+{
+    "_id": "54d8e3172f57e48d225b32b5",
+    "id": "6af160a0-b07a-11e4-972e-b1b86478b051",
+    "code": "l8itUalxsDY",
+    "title": " Gamers do REST",
+    "slug": "gamers-do-rest",
+    "description": "An overview (sprinkled with implementation details and solutions to issues we encountered) of how Demonware uses Python and Django to build RESTful APIs and how we manage to reliably serve millions of gamers all over the world that play Activision-Blizzard's successful franchises Call of Duty and Skylanders.",
+    "author": {
+        "id": "2fce3c50-af35-11e4-b774-c199d71ca8d3",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 2,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "api",
+        " rest",
+        " restful",
+        " demonware",
+        " activision",
+        " blizzard",
+        " call of duty",
+        " skylanders",
+        " game"
+    ],
+    "created": 1423500055468,
+    "updated": 1423588945326
+}

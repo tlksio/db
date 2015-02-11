@@ -1,0 +1,28 @@
+{
+    "_id": "54d8d8bc2f57e48d225b32b4",
+    "id": "3ea4a530-b074-11e4-972e-b1b86478b051",
+    "code": "csyL9EC0S0c",
+    "title": "Programming is terrible—Lessons learned from a life wasted. EMF2012",
+    "slug": "programming-is-terriblelessons-learned-from-a-life-wasted-emf2012",
+    "description": "http://programmingisterrible.com/ A bad programmer talks about bad programming.",
+    "author": {
+        "id": "2fce3c50-af35-11e4-b774-c199d71ca8d3",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "emf",
+        "2012",
+        "programming",
+        "terrible",
+        "lessons",
+        "life wasted"
+    ],
+    "created": 1423497404164,
+    "updated": 1423588935133
+}
