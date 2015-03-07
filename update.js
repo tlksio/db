@@ -9,7 +9,6 @@ function updateTalk(talk) {
         talk.created = Date.now();
     }
     talk.updated = Date.now();
-    talk.slug = slug(talk.title).toLowerCase();
     return talk;
 }
 
