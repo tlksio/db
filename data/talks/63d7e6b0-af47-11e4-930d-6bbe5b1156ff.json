@@ -17,12 +17,12 @@
     "favorites": [],
     "tags": [
         "servo",
-        " rust",
-        " mozilla",
-        " browser",
-        " engine",
-        " multi-core"
+        "rust",
+        "mozilla",
+        "browser",
+        "engine",
+        "multi-core"
     ],
     "created": 1423368188060,
-    "updated": 1425747709567
+    "updated": 1425747970718
 }

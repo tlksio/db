@@ -9,6 +9,7 @@ function updateTalk(talk) {
         talk.created = Date.now();
     }
     talk.updated = Date.now();
+    talk.tags = talk.tags.map(function (el) { return el.trim(); });
     return talk;
 }
 
