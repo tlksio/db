@@ -1,0 +1,38 @@
+{
+    "_id": "54fb36fcae6f118a55a59045",
+    "id": "682ef320-c4f0-11e4-ad92-f90550e296a1",
+    "code": "yJDv-zdhzMY",
+    "title": "The Mother of All Demos, presented by Douglas Engelbart (1968)",
+    "slug": "the-mother-of-all-demos-presented-by-douglas-engelbart-1968",
+    "description": "The Mother of All Demos is a name given retrospectively to Douglas Engelbart's December 9, 1968, demonstration of experimental computer technologies that are now commonplace. The live demonstration featured the introduction of the computer mouse, video conferencing, teleconferencing, hypertext, word processing, hypermedia, object addressing and dynamic file linking, bootstrapping, and a collaborative real-time editor.",
+    "author": {
+        "id": "2fce3c50-af35-11e4-b774-c199d71ca8d3",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 2,
+    "voteCount": 1,
+    "votes": [
+        "2fce3c50-af35-11e4-b774-c199d71ca8d3"
+    ],
+    "favoriteCount": 1,
+    "favorites": [
+        "2fce3c50-af35-11e4-b774-c199d71ca8d3"
+    ],
+    "tags": [
+        "mother",
+        "demo",
+        "douglas engelbart",
+        "demostration",
+        "computer",
+        "technology",
+        "mouse",
+        "video",
+        "conference",
+        "hypertext",
+        "word",
+        "hypermedia"
+    ],
+    "created": 1425749754708,
+    "updated": 1425769718694
+}

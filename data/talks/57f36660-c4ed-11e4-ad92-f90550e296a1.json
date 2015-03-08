@@ -1,0 +1,33 @@
+{
+    "_id": "54fb31d8ae6f118a55a59044",
+    "id": "57f36660-c4ed-11e4-ad92-f90550e296a1",
+    "code": "cidchWg74Y4",
+    "title": "Simplicity Ain't Easy - Stuart Halloway",
+    "slug": "simplicity-aint-easy-stuart-halloway",
+    "description": "A quick review of what programmers have to say about simplicity might lead you to the following (incorrect!) conclusions: every language/design approach/tool under the sun lays claim to simplicity, usually as a key virtuesimplicity means many different things and is so subjective as to be worthless In fact, simplicity is objective. It has a definition, and an etymology, that are very useful to software developers. In this talk, we will: cut through the noise to the definition of simplicitydemonstrate how simplicity informs the design of Clojure, and Clojure programshelp you make your programs simpler, and explain to others what this means, and why.",
+    "author": {
+        "id": "2fce3c50-af35-11e4-b774-c199d71ca8d3",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 1,
+    "favorites": [
+        "2fce3c50-af35-11e4-b774-c199d71ca8d3"
+    ],
+    "tags": [
+        "simplicity",
+        "not easy",
+        "stuart halloway",
+        "clojure",
+        "programmers",
+        "language",
+        "design",
+        "definition",
+        "etymology"
+    ],
+    "created": 1425748438983,
+    "updated": 1425765415342
+}
