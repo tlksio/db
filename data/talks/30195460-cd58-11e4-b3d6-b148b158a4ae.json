@@ -1,0 +1,36 @@
+{
+    "_id": "55095112ceb9c46e77e8a11b",
+    "id": "30195460-cd58-11e4-b3d6-b148b158a4ae",
+    "code": "PN8Eg1K9xjE",
+    "title": "Stuart Memo: JavaScript is the new Punk Rock",
+    "slug": "stuart-memo-javascript-is-the-new-punk-rock",
+    "description": "On 4th June 1976, the Sex Pistols played Manchester's Lesser Free Trade Hall. It was an event that changed the world forever. There were only about 40 people there, but those who attended were inspired to form their own bands, creating Joy Division, The Buzzcocks, The Fall and The Smiths. As these bands fade away, we're long overdue for another such event. Programmers are artists, and JavaScript is the new Punk Rock.",
+    "author": {
+        "id": "41356f60-cd56-11e4-b3d6-b148b158a4ae",
+        "username": "tlksio",
+        "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
+    },
+    "viewCount": 0,
+    "voteCount": 1,
+    "votes": [
+        "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7"
+    ],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "stuart memo",
+        "javascript",
+        "new",
+        "punk",
+        "rock",
+        "sex pistols",
+        "joy division",
+        "buzzcocks",
+        "the smiths",
+        "the fall",
+        "programmers",
+        "artists"
+    ],
+    "created": 1426673937575,
+    "updated": 1426673937575
+}
