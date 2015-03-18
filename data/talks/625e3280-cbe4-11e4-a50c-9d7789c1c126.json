@@ -1,0 +1,25 @@
+{
+    "_id": "5506e1491543dc2414437828",
+    "id": "625e3280-cbe4-11e4-a50c-9d7789c1c126",
+    "code": "0zZ9Poyywq4",
+    "title": "Construyendo la API de MercadoLibre",
+    "slug": "construyendo-la-api-de-mercadolibre",
+    "description": "Charla sobre la construcción de la API de mercado libre.",
+    "author": {
+        "id": "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7",
+        "username": "josgilmo",
+        "avatar": "http://pbs.twimg.com/profile_images/3183563149/f3b8241c3e620583214361b4a55cdc54_normal.jpeg"
+    },
+    "viewCount": 3,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "php",
+        "phpconference",
+        "mercadolibre"
+    ],
+    "created": 1426514249129,
+    "updated": 1426628640311
+}

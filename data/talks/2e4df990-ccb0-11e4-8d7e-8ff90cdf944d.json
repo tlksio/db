@@ -1,0 +1,29 @@
+{
+    "_id": "5508373482bbc040411a0cdb",
+    "id": "2e4df990-ccb0-11e4-8d7e-8ff90cdf944d",
+    "code": "f7AU2Ozu8eo",
+    "title": " Paul Irish, \"JavaScript Development Workflow of 2013\"",
+    "slug": "paul-irish-javascript-development-workflow-of-2013",
+    "description": "From the Fluent 2012 conference: The past two years have given us a wealth of tools and editor innovation that makes developing web apps more fun and certainly more productive. Learn what a modern development workflow looks like, from editors and plugins, to authoring abstractions, testing and DVCS integration.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "paul irish",
+        "javascript",
+        "development",
+        "workflow",
+        "2013",
+        "dvcs",
+        "integration"
+    ],
+    "created": 1426601779115,
+    "updated": 1426628567200
+}

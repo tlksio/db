@@ -1,0 +1,28 @@
+{
+    "_id": "5508384182bbc040411a0cdd",
+    "id": "cf6439c0-ccb0-11e4-8d7e-8ff90cdf944d",
+    "code": "8bZh5LMaSmE",
+    "title": "RailsConf 2014 - All the Little Things by Sandi Metz",
+    "slug": "railsconf-2014-all-the-little-things-by-sandi-metz",
+    "description": "Theory tells us to build applications out of small, interchangeable objects but reality often supplies the exact opposite. Many apps contain huge classes of long methods and hair-raising conditionals; they're hard to understand, difficult to reuse and costly to change. This talk takes an ugly section of conditional code and converts it into a few simple objects. It bridges the gap between OO theory and practice and teaches straightforward strategies that all can use to improve their code.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "railsconf",
+        "2014",
+        "sandi metz",
+        "ruby",
+        "rails",
+        "object oriented"
+    ],
+    "created": 1426602049373,
+    "updated": 1426603394916
+}

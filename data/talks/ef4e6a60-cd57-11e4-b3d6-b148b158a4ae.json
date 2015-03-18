@@ -1,0 +1,27 @@
+{
+    "_id": "550950a5ceb9c46e77e8a11a",
+    "id": "ef4e6a60-cd57-11e4-b3d6-b148b158a4ae",
+    "code": "RTxtiLp1C8Y",
+    "title": "Martin Kleppe: 1024+ Seconds of JS Wizardry -- JSConf EU 2013",
+    "slug": "martin-kleppe-1024-seconds-of-js-wizardry-jsconf-eu-2013",
+    "description": "We spend our days creating large-scale applications byte by byte. But what happens at night when we get rid of bloated libraries and browser dependencies? What will we discover deep under the surface if we dissect the language of the web into its atomic parts? In this talk we will hack tweet-sized games, write code in only six characters and create the self-modifying \"Hello World\" in less than 1024 bytes of JavaScript. All just for fun and without asking \"Why?\".",
+    "author": {
+        "id": "41356f60-cd56-11e4-b3d6-b148b158a4ae",
+        "username": "tlksio",
+        "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "martin kleppe",
+        "javascript",
+        "wizardry",
+        "2013",
+        "jsconf"
+    ],
+    "created": 1426673828870,
+    "updated": 1426673828870
+}

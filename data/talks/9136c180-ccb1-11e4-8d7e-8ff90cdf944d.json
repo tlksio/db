@@ -1,0 +1,34 @@
+{
+    "_id": "5508398682bbc040411a0ce0",
+    "id": "9136c180-ccb1-11e4-8d7e-8ff90cdf944d",
+    "code": "-i0hat7pdpk",
+    "title": "Google I/O 2011: Writing Web Apps in Go",
+    "slug": "google-io-2011-writing-web-apps-in-go",
+    "description": "Web back-end languages tend to be a matter of \"Speed, reliability, or simplicity: pick one.\" Not any more. The Go Programming Language is a rock-solid, productive, and high-performance platform for building web applications (and other types of software). Join the Go team for an entertaining, in-depth look at the development and deployment of a Go web application.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 1,
+    "voteCount": 1,
+    "votes": [
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "google io",
+        "2011",
+        "golang",
+        "web",
+        "app",
+        "rob pike",
+        "Andrew Gerrand",
+        "speed",
+        "reliability",
+        "simplicity"
+    ],
+    "created": 1426602374552,
+    "updated": 1426603013779
+}

@@ -1,0 +1,29 @@
+{
+    "_id": "5505fbc90e211e9669a26bcc",
+    "id": "96db1480-cb5b-11e4-a422-65e056d9bd9b",
+    "code": "QnYN2CTb1hM",
+    "title": "i3 - An Improved Tiling Window Manager",
+    "slug": "i3-an-improved-tiling-window-manager",
+    "description": "An introduction (with practical examples) to i3, a window manager explicitly targeted at power users (http://i3wm.org/)\r\nAlternative window managers such as i3 provide a way to either make the traditional desktop environments (GNOME, KDE, Xfce) usable or escape them altogether.",
+    "author": {
+        "id": "2fce3c50-af35-11e4-b774-c199d71ca8d3",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 3,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "tiling",
+        "window manager",
+        "i3",
+        "power users",
+        "gnome",
+        "kde",
+        "xfce"
+    ],
+    "created": 1426455496138,
+    "updated": 1426628986222
+}

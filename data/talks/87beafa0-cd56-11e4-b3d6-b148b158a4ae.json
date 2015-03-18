@@ -1,0 +1,31 @@
+{
+    "_id": "55094e4aceb9c46e77e8a119",
+    "id": "87beafa0-cd56-11e4-b3d6-b148b158a4ae",
+    "code": "UzyoT4DziQ4",
+    "title": "Scott Hanselman, \"Virtual Machines, JavaScript and Assembler\" - Fluent 2014 Keynote",
+    "slug": "scott-hanselman-virtual-machines-javascript-and-assembler-fluent-2014-keynote",
+    "description": "How does the pervasiveness of JavaScript on the client change how we architect applications? We can create hundreds virtual machines in the cloud, but we are using the millions of visual machines that visit our sites every day? Suddenly we are scripting against thousands of Virtual Machines from the command line while creating things today with JavaScript in the browser that were impossible yesterday. LiveScript becomes JavaScript becomes ES6 and now we're compiling C++ to JavaScript. Join Scott Hanselman as he explores the relationship between the Cloud and the Browser, many Languages and one Language, how it might all fit together and what comes next.",
+    "author": {
+        "id": "41356f60-cd56-11e4-b3d6-b148b158a4ae",
+        "username": "tlksio",
+        "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "scott hanselman",
+        "virtual",
+        "machine",
+        "vm",
+        "javascript",
+        "assembler",
+        "fluent",
+        "2014",
+        "keynote"
+    ],
+    "created": 1426673225627,
+    "updated": 1426673432328
+}
