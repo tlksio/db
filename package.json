@@ -7,5 +7,8 @@
   "dependencies": {
     "mongodb": "^1.4.30",
     "slug": "^0.8.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11"
   }
 }
