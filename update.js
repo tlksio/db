@@ -22,7 +22,7 @@ MongoClient.connect(config.mongodb, function (err, db) {
             throw new Error(err);
         }
         docs.forEach(function (talk) {
-            var talk = updateTalk(talk);
+            talk = updateTalk(talk);
             talks.update({id: talk.id}, talk, function (error) {
                 if (err) {
                     throw new Error(err);
