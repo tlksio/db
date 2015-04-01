@@ -1,15 +1,19 @@
 {
-  "name": "db",
-  "version": "0.0.4",
-  "description": "tlks.io db",
-  "author": "Raül Pérez <repejota@gmail.com>",
-  "license": "MIT",
-  "dependencies": {
-    "mongodb": "^1.4.30",
-    "slug": "^0.8.0"
-  },
-  "devDependencies": {
-    "gulp": "^3.8.11",
-    "gulp-jshint": "^1.9.4"
-  }
+    "name": "db",
+    "version": "0.0.4",
+    "description": "tlks.io db",
+    "author": "Raül Pérez <repejota@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "mongodb": "^1.4.30",
+        "slug": "^0.8.0"
+    },
+    "devDependencies": {
+        "gulp": "^3.8.11",
+        "gulp-jshint": "^1.9.4"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tlksio/db.git"
+    }
 }
