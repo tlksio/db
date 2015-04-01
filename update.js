@@ -8,8 +8,7 @@ function updateTalk(talk) {
     if (talk.created === undefined) {
         talk.created = Date.now();
     }
-    talk.updated = Date.now();
-    talk.tags = talk.tags.map(function (el) { return el.trim(); });
+    //talk.updated = Date.now();
     return talk;
 }
 
