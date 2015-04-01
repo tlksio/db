@@ -10,7 +10,9 @@
     },
     "description": "NSQ is a realtime message processing system designed to operate at bitly's scale, handling billions of messages per day. It promotes distributed and decentralized topologies without single points of failure, enabling fault tolerance and high availability coupled with a reliable message delivery guarantee. It is the backbone of bitly's infrastructure, powering realtime data analysis and feeding offline batch processes.",
     "votes": [
-        "19DF9868-2538-4A51-9263-642129DE57C4"
+        "19DF9868-2538-4A51-9263-642129DE57C4",
+        "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7",
+        "098e0ba0-d1b4-11e4-8faf-8d4748d78495"
     ],
     "tags": [
         "nsq",
@@ -20,12 +22,14 @@
         "realtime"
     ],
     "created": 1423328738852,
-    "updated": 1426600702449,
-    "viewCount": 42,
-    "voteCount": 1,
-    "favoriteCount": 1,
+    "updated": 1427604053498,
+    "viewCount": 54,
+    "voteCount": 3,
+    "favoriteCount": 3,
     "favorites": [
-        "19DF9868-2538-4A51-9263-642129DE57C4"
+        "19DF9868-2538-4A51-9263-642129DE57C4",
+        "098e0ba0-d1b4-11e4-8faf-8d4748d78495",
+        "95b7ac30-d3f8-11e4-bbc3-d1d70859b2cd"
     ],
     "slug": "realtime-distributed-message-processing-at-scale-with-nsq"
 }

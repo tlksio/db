@@ -1,0 +1,26 @@
+{
+    "_id": "5519b9579885f7b708b12f59",
+    "id": "be49e7b0-d71f-11e4-a135-1b9b40c76899",
+    "code": "KXqrBySgX-s",
+    "title": "CQRS/DDD by Greg Young",
+    "slug": "cqrsddd-by-greg-young",
+    "description": "CQRS and Domain Driven Design by Greg Young at Professional.NET 2011 in Vienna.\r\n\r\nThis talk is followed by \"Practical CQRS in Cloud\" by Rinat Abdullin\r\n\r\nThe awesome event was kindly hosted and recorded by Austrian .NET community",
+    "author": {
+        "id": "df4da170-cdbc-11e4-bb0d-bfceb313c1f0",
+        "username": "octante",
+        "avatar": "http://pbs.twimg.com/profile_images/1129032572/android-logo1_normal.png"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "sqrs",
+        "ddd",
+        "greg young",
+        "cqrs in cloud"
+    ],
+    "created": 1427749206444,
+    "updated": 1427817681566
+}

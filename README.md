@@ -1,24 +1,19 @@
-tlks.io : db
-============
+# tlks.io : db
+
+0. [Quick Start](#quick-start)
+1. [Bugs and feature requests](#bugs-and-feature-requests)
+2. [Contributing](#contributing)
+3. [Versioning](#versioning)
+4. [Creators](#creators)
+5. [Copyright and license](#copyright-and-license)
 
 tlks.io database backup / import project.
-
-## Table of contents
-
-- [Quick Start](#quick-start)
-- [Documentation](#documentation)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [TODO](#todo)
-- [Contributing](#contributing)
-- [Versioning](#versioning)
-- [Creators](#creators)
-- [Copyright and license](#copyright-and-license)
 
 ## Quick Start
 
 You need *node.js* installed:
 
-```
+```bash
 $ git clone https://github.com/tlksio/db
 $ cd db
 $ npm install
@@ -29,11 +24,6 @@ $ # imports a database
 $ node ./import.js
 ```
 
-## Documentation
-
-Please check the whole Project Documentation repo at:
-[tlks.io documentation](https://github.com/tlksio/docs)
-
 ## Bugs and feature requests
 
 Have a bug or a feature request? Please first read the
@@ -42,21 +32,10 @@ and search for existing and closed issues. If your problem or idea is not
 addressed yet,
 [please open a new issue](https://github.com/tlksio/db/issues/new).
 
-## TODO
+## Documentation
 
-In order of precendence always work on existing
-[issues](https://github.com/tlksio/db/issues) before spending hours on
-new things.
-
-If you have an idea for the future and it is not planed on the global
-[roadmap](http://github.com/tlksio/docs/roadmap.md) please check the
-[TODO list of ideas] on every project repo and add your idea there to be
-discussed.
-
-If you already added a new idea to one of the existing projects, go and ping
-to a developer and ask him to disscuss it. Good luck! ;)
-
-This project TODO idea list is here: [TODO.md](todo.md).
+Please check the whole Project Documentation repo at:
+[tlks.io documentation](https://github.com/tlksio/docs)
 
 ## Contributing
 

@@ -8,8 +8,7 @@ function updateTalk(talk) {
     if (talk.created === undefined) {
         talk.created = Date.now();
     }
-    talk.updated = Date.now();
-    talk.tags = talk.tags.map(function (el) { return el.trim(); });
+    //talk.updated = Date.now();
     return talk;
 }
 
@@ -23,7 +22,7 @@ MongoClient.connect(config.mongodb, function (err, db) {
             throw new Error(err);
         }
         docs.forEach(function (talk) {
-            var talk = updateTalk(talk);
+            talk = updateTalk(talk);
             talks.update({id: talk.id}, talk, function (error) {
                 if (err) {
                     throw new Error(err);

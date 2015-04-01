@@ -1,0 +1,32 @@
+{
+    "_id": "551207eb7ae27a8b1749d90b",
+    "id": "e0a06cc0-d289-11e4-8693-d10e50550ee9",
+    "code": "b69vwMIphic",
+    "title": "Anders Hejlsberg Tech Talk on Typescript",
+    "slug": "anders-hejlsberg-tech-talk-on-typescript",
+    "description": "Anders Hejlsberg, author of Turbo Pascal and lead architect of C# at Microsoft, gave a tech talk on Typescript at Square. Typescript is a strict superset of Javascript that adds optional static typing and object-oriented constructs.\r\n",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 5,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "anders hejlsberg",
+        "turbo pascal",
+        "c#",
+        "microsoft",
+        "typescript",
+        "square",
+        "javascript",
+        "oop",
+        "static typing",
+        "2014"
+    ],
+    "created": 1427245034893,
+    "updated": 1427555434273
+}

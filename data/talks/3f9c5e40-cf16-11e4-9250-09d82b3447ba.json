@@ -1,0 +1,30 @@
+{
+    "_id": "550c3d701f4148a205961c8d",
+    "id": "3f9c5e40-cf16-11e4-9250-09d82b3447ba",
+    "code": "zDEpeWQHtFU",
+    "title": "Glenn Vanderburg of LivingSocial on why software development is an engineering discipline ",
+    "slug": "glenn-vanderburg-of-livingsocial-on-why-software-development-is-an-engineering-discipline",
+    "description": "This talk makes the case for software as engineering, and shows that it fits comfortably into the spectrum of engineering disciplines. The talk also explains why the software engineering field spent so long going down an incorrect path, and how we might correct that.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 6,
+    "voteCount": 1,
+    "votes": [
+        "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7"
+    ],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "glenn vanderburg",
+        "livingsocial",
+        "software",
+        "development",
+        "engineering",
+        "discipline"
+    ],
+    "created": 1426865519141,
+    "updated": 1427740143612
+}

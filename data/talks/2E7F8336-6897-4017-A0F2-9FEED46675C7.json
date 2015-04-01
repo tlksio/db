@@ -9,7 +9,9 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
-    "votes": [],
+    "votes": [
+        "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7"
+    ],
     "tags": [
         "rabbitmq",
         "amqp",
@@ -18,9 +20,9 @@
         "erlang"
     ],
     "created": 1423328738853,
-    "updated": 1426678728897,
-    "viewCount": 14,
-    "voteCount": 0,
+    "updated": 1427619223832,
+    "viewCount": 16,
+    "voteCount": 1,
     "favoriteCount": 0,
     "favorites": [],
     "slug": "rabbitmq-an-open-source-messaging-broker-that-just-works"

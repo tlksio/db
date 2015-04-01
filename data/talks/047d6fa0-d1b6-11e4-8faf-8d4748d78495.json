@@ -1,0 +1,32 @@
+{
+    "_id": "5510a47a1396be8134dbe21c",
+    "id": "047d6fa0-d1b6-11e4-8faf-8d4748d78495",
+    "code": "6rQROhVeIQE",
+    "title": "Gabe Hollombe: Let's Make a Game With Phaser",
+    "slug": "gabe-hollombe-lets-make-a-game-with-phaser",
+    "description": "These days, we’re spoiled for choice when it comes to HTML5 game frameworks. But with so many frameworks out there, it’s easy to feel like you might be picking the wrong one for your next (or first) project. Each framework has their own way of doing things, and it can feel like a big commitment to spend time learning a framework before you know everything it’s capable of and if you like its API enough to stick with it. \r\n\r\nI’ve used many of the popular HTML5 frameworks over the last few years, and Phaser is my favorite. It’s got everything you’re likely to need (sprites, tilemaps, sound, animation, canvas/webgl, mobile support), a very active community and an extensive suite of online examples (over 320 playable demos). \r\nA conference talk isn’t enough time to show off everything, but I’ll give you a tour of Phaser’s features that you’re most likely to care about. I’ll give you enough familiarity that you’ll feel comfortable getting started with Phaser, and excited by the possibilities.\r\n\r\nGabe is a full-stack senior engineer at Neo Innovation, with a thirst for knowledge and a passion for sharing what he’s learned. He has spoken in on four different continents on topics including JavaScript, Ruby, Vim, and HTML5 Game development.",
+    "author": {
+        "id": "098e0ba0-d1b4-11e4-8faf-8d4748d78495",
+        "username": "_dawnangel_",
+        "avatar": "http://pbs.twimg.com/profile_images/551060818146492418/6jWE1xoC_normal.jpeg"
+    },
+    "viewCount": 3,
+    "voteCount": 1,
+    "votes": [
+        "098e0ba0-d1b4-11e4-8faf-8d4748d78495"
+    ],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "gabe hollombe",
+        "javascript",
+        "html5",
+        "game development",
+        "phaserjs",
+        "jsconf",
+        "asia",
+        "2014"
+    ],
+    "created": 1427154041757,
+    "updated": 1427538045981
+}

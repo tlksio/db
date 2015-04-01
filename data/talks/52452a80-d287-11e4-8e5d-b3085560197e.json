@@ -1,0 +1,29 @@
+{
+    "_id": "551203a1dd84825613460edb",
+    "id": "52452a80-d287-11e4-8e5d-b3085560197e",
+    "code": "l3nPJ-yK-LU",
+    "title": "Jon Skeet - \"Back to basics: the mess we've made of our fundamental data types\"",
+    "slug": "jon-skeet-back-to-basics-the-mess-weve-made-of-our-fundamental-data-types",
+    "description": "When it comes down to it, all our data is just made of 1s and 0s. But data in the real world is obviously much more complex than that, so we impose extra meaning on top of it. We take it for granted that we can represent numbers, text and date/time information in our programs... indeed, these are three of the core building blocks which are used in just about every data model imaginable.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "jon skeet",
+        "back",
+        "basics",
+        "mess",
+        "fundamental",
+        "data types",
+        "stack overflow"
+    ],
+    "created": 1427243937065,
+    "updated": 1427266907085
+}

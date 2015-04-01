@@ -1,0 +1,29 @@
+{
+    "_id": "55197127ef514b907c454737",
+    "id": "b786da30-d6f4-11e4-809f-a3067c237388",
+    "code": "C-SbXvXi7Og",
+    "title": "Rod Vagg: A Real Database Rethink: \"Introducing LevelDB and Node.JS\" NodeconfEU2013",
+    "slug": "rod-vagg-a-real-database-rethink-introducing-leveldb-and-nodejs-nodeconfeu2013",
+    "description": "The term \"database\" has a lot of baggage but it essentially refers to a tool, external to our applications, that we use for persistence, performance and shared access. \r\nThis talk introduces the new and vibrant ecosystem of Node Databases, inspired by \"LevelDB\". \r\nTaking a cue from \"Node.js\" philosophy, Node Databases are built around a small, extensible core of storage primitives with a rapidly growing list of extensions that provide more complex functionality.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "nodeconfeu",
+        "2013",
+        "rod vagg",
+        "database",
+        "leveldb",
+        "nodejs",
+        "levelup"
+    ],
+    "created": 1427730726741,
+    "updated": 1427817514483
+}

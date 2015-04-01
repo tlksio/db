@@ -1,11 +1,35 @@
 {
   "name": "db",
-  "version": "0.0.4",
-  "description": "tlks.io db",
+  "version": "0.0.5",
+  "description": "tlks.io database backup and inmport",
+  "main": "backup.js",
+  "scripts": {
+    "test": "make coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tlksio/db.git"
+  },
+  "keywords": [
+    "tlksio",
+    "db",
+    "import",
+    "export",
+    "backup",
+    "update"
+  ],
   "author": "Raül Pérez <repejota@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "mongodb": "^1.4.30",
-    "slug": "^0.8.0"
+  "bugs": {
+    "url": "https://github.com/tlksio/db/issues"
+  },
+  "homepage": "https://github.com/tlksio/db",
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-coveralls": "^0.1.3",
+    "gulp-jshint": "^1.9.4",
+    "mocha": "^2.2.1",
+    "should": "^5.2.0"
   }
 }

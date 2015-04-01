@@ -1,0 +1,29 @@
+{
+    "_id": "550afb78ce13f3201a9c216c",
+    "id": "57495310-ce56-11e4-a7b9-a7c91efa0a69",
+    "code": "gpNbmEnRLBU",
+    "title": "dotScale 2014 - Fabien Potencier - My Take on PHP",
+    "slug": "dotscale-2014-fabien-potencier-my-take-on-php",
+    "description": "Fabien is the creator of Symfony\r\n",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 5,
+    "voteCount": 1,
+    "votes": [
+        "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7"
+    ],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "fabien potencier",
+        "take",
+        "php",
+        "dotscale",
+        "2014"
+    ],
+    "created": 1426783095491,
+    "updated": 1427675267848
+}

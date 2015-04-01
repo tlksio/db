@@ -1,0 +1,29 @@
+{
+    "_id": "551208627ae27a8b1749d90c",
+    "id": "27ce7880-d28a-11e4-8693-d10e50550ee9",
+    "code": "dsMKJKTOte0",
+    "title": "Systems Architecture, Design, Engineering, and Verification",
+    "slug": "systems-architecture-design-engineering-and-verification",
+    "description": "More than any other area in computer science, the interaction and boundary between science and engineering is blurred in the systems area, with cross fertilization from both directions. The systems panel will explore the past, present and future relationship between systems research and engineering practice.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 7,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "ken thompson",
+        "systems",
+        "architecture",
+        "design",
+        "engineering",
+        "verification",
+        "2013"
+    ],
+    "created": 1427245154312,
+    "updated": 1427830943772
+}

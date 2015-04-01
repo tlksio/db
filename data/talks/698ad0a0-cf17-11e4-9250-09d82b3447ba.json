@@ -1,0 +1,34 @@
+{
+    "_id": "550c3f641f4148a205961c8e",
+    "id": "698ad0a0-cf17-11e4-9250-09d82b3447ba",
+    "code": "qI_g07C_Q5I",
+    "title": " Introduction to NoSQL by Martin Fowler",
+    "slug": "introduction-to-nosql-by-martin-fowler",
+    "description": "Martin gives a rapid introduction to NoSQL databases: where they came from, the nature of the data models they use, and the different way you have to think about consistency. From this he outlines what kinds of circumstances you should consider using them, why they will not make relational databases obsolete, and the important consequence of polyglot persistence.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 9,
+    "voteCount": 1,
+    "votes": [
+        "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7"
+    ],
+    "favoriteCount": 2,
+    "favorites": [
+        "19DF9868-2538-4A51-9263-642129DE57C4",
+        "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7"
+    ],
+    "tags": [
+        "introduction",
+        "nosql",
+        "martin fowler",
+        "nosql",
+        "database",
+        "data model",
+        "persistence"
+    ],
+    "created": 1426866018988,
+    "updated": 1427834743628
+}

@@ -1,0 +1,27 @@
+{
+    "_id": "5510992c973c28911026de96",
+    "id": "470aa740-d1af-11e4-9be3-c9e75b5c9125",
+    "code": "4XpnKHJAok8",
+    "title": "Tech Talk: Linus Torvalds on git",
+    "slug": "tech-talk-linus-torvalds-on-git",
+    "description": "Linus Torvalds visits Google to share his thoughts on git, the source control management system he created two years ago.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 3,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "linus torvalds",
+        "google",
+        "git",
+        "scm",
+        "dvcs"
+    ],
+    "created": 1427151146933,
+    "updated": 1427612924383
+}

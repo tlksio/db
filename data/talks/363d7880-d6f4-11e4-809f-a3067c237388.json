@@ -1,0 +1,31 @@
+{
+    "_id": "5519704eef514b907c454736",
+    "id": "363d7880-d6f4-11e4-809f-a3067c237388",
+    "code": "TzT1lMjo9DM",
+    "title": "RICON 2014: Peter Cline, Comcast, Building Robust Distributed Systems When You're Not...An Expert",
+    "slug": "ricon-2014-peter-cline-comcast-building-robust-distributed-systems-when-youre-notan-expert",
+    "description": "Starting in February 2012, we began building a distributed systems library, Sirius, that included an implementation of Paxos. The team working on it did not have extensive distributed systems experience, yet a working implementation was in production just a few short months later. Along the way, we employed some useful tactics and learned some lessons about building, deploying, and evolving distributed systems. In this talk we'll share several specific techniques we used (and production errors we encountered) that should generalize well to lots of particular implementation scenarios.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "peter cline",
+        "comcast",
+        "robust",
+        "distributed",
+        "systems",
+        "paxos",
+        "sirius",
+        "2014",
+        "ricon"
+    ],
+    "created": 1427730509833,
+    "updated": 1427806965764
+}

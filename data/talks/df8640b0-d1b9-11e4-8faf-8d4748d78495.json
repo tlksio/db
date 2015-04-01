@@ -1,0 +1,25 @@
+{
+    "_id": "5510aaf21396be8134dbe21e",
+    "id": "df8640b0-d1b9-11e4-8faf-8d4748d78495",
+    "code": "lE6Hxz4yomA",
+    "title": "Eric Evans: What I've learned about DDD since the book",
+    "slug": "eric-evans-what-ive-learned-about-ddd-since-the-book",
+    "description": "In this talk, first presented at QCon London 2009, Eric Evans describes what he'd learned about DDD since the book was published. The talk was recorded at the May meeting of DDD-NYC SIG.\r\n\r\nBecause the talk goes over what has changed since the book, it assumes some knowledge of DDD. If you need a quick refresher, please watch the introduction part first.",
+    "author": {
+        "id": "df4da170-cdbc-11e4-bb0d-bfceb313c1f0",
+        "username": "octante",
+        "avatar": "http://pbs.twimg.com/profile_images/1129032572/android-logo1_normal.png"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "eric evans",
+        "ddd",
+        "domain driven design"
+    ],
+    "created": 1427155697723,
+    "updated": 1427250302427
+}

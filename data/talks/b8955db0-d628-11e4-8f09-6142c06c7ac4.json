@@ -1,0 +1,31 @@
+{
+    "_id": "55181ae75620099e1f6bcc66",
+    "id": "b8955db0-d628-11e4-8f09-6142c06c7ac4",
+    "code": "cN_DpYBzKso",
+    "title": "Rob Pike - 'Concurrency Is Not Parallelism' ",
+    "slug": "rob-pike-concurrency-is-not-parallelism",
+    "description": "Rob (@rob_pike) is a software pioneer. His influence is everywhere: Unix, Plan 9 OS, The Unix Programming Environment book, UTF-8, and most recently the Go programming language.",
+    "author": {
+        "id": "41356f60-cd56-11e4-b3d6-b148b158a4ae",
+        "username": "tlksio",
+        "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "rob pike",
+        "concurrency",
+        "parallelism",
+        "unix",
+        "plan 9",
+        "utf-8",
+        "golang",
+        "google",
+        "patterns"
+    ],
+    "created": 1427643111179,
+    "updated": 1427709152997
+}

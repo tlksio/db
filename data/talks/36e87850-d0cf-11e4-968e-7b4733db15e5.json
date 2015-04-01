@@ -1,0 +1,30 @@
+{
+    "_id": "550f2141dd5455a074c58fd0",
+    "id": "36e87850-d0cf-11e4-968e-7b4733db15e5",
+    "code": "Sd8ie5R4CVE",
+    "title": "Getting Started with Linux Game Development",
+    "slug": "getting-started-with-linux-game-development",
+    "description": "This talk is targeted at Windows Steam developers that are interested in preparing their games to run on Linux. It will cover available tools, the basic porting flowchart, and common problems and their solutions.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 4,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "start",
+        "linux",
+        "game",
+        "development",
+        "icculus",
+        "tools",
+        "porting",
+        "steam"
+    ],
+    "created": 1427054912598,
+    "updated": 1427602254165
+}

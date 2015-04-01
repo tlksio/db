@@ -1,0 +1,30 @@
+{
+    "_id": "55109a32973c28911026de97",
+    "id": "e312ce60-d1af-11e4-9be3-c9e75b5c9125",
+    "code": "UNAmAxT7-qs",
+    "title": "2015 GDC - Carmack on Mobile VR",
+    "slug": "2015-gdc-carmack-on-mobile-vr",
+    "description": "John Carmack discusses the current state and future of mobile VR.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 5,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "john carmack",
+        "current",
+        "state",
+        "mobile",
+        "vr",
+        "oculus",
+        "gdc",
+        "2015"
+    ],
+    "created": 1427151408710,
+    "updated": 1427829138925
+}

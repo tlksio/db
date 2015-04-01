@@ -1,0 +1,29 @@
+{
+    "_id": "55181a745620099e1f6bcc65",
+    "id": "73e8f3c0-d628-11e4-8f09-6142c06c7ac4",
+    "code": "ddhU3NMrhX4",
+    "title": "3 hours to Docker fundamentals: Jumpstart your Docker knowledge",
+    "slug": "3-hours-to-docker-fundamentals-jumpstart-your-docker-knowledge",
+    "description": "Docker, the new trending containerization technique, is gaining interest from organizations of all sizes with its lightweight, portable, “build once, configure once and run anywhere” functionalities. Docker skills are expected to be in high-demand because of its ability to streamline workflow and reduce the need for hardware investment. ",
+    "author": {
+        "id": "41356f60-cd56-11e4-b3d6-b148b158a4ae",
+        "username": "tlksio",
+        "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "docker",
+        "fundamentals",
+        "container",
+        "virtual machine",
+        "light",
+        "portable",
+        "2014"
+    ],
+    "created": 1427642995966,
+    "updated": 1427742784928
+}

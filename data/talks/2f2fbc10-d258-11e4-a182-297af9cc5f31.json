@@ -1,0 +1,30 @@
+{
+    "_id": "5511b48c63ffaa1b7eaa184e",
+    "id": "2f2fbc10-d258-11e4-a182-297af9cc5f31",
+    "code": "CDokMxVtB3k",
+    "title": "Donald Knuth - All Questions Answered",
+    "slug": "donald-knuth-all-questions-answered",
+    "description": "Donald Knuth, in this Stanford Engineering Hero Lecture, answers questions from the audience--from his opinion of Wikipedia to the next great discovery in computer science to his most memorable mistake.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "donal knuth",
+        "stanford",
+        "engineering",
+        "answer",
+        "question",
+        "wikipedia",
+        "computer",
+        "science"
+    ],
+    "created": 1427223691859,
+    "updated": 1427266884251
+}

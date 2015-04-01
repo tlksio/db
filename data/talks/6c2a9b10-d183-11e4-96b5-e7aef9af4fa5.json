@@ -1,0 +1,27 @@
+{
+    "_id": "55104f98744f2f1c08f9b62c",
+    "id": "6c2a9b10-d183-11e4-96b5-e7aef9af4fa5",
+    "code": "agzf6ftEsLU",
+    "title": "Intro to the Rust programming language",
+    "slug": "intro-to-the-rust-programming-language",
+    "description": "Alex Crichton presents an introduction to the Rust programming language.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 2,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "alex crichton",
+        "introduction",
+        "rustlang",
+        "rust",
+        "language"
+    ],
+    "created": 1427132311362,
+    "updated": 1427468108766
+}

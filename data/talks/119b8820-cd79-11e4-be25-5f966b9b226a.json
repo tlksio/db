@@ -1,0 +1,31 @@
+{
+    "_id": "5509883c56e5b0907bb3ef86",
+    "id": "119b8820-cd79-11e4-be25-5f966b9b226a",
+    "code": "FpeAPnmFs_w",
+    "title": "PHP UK Conference 2014 - Ricard Clau - Scaling with Symfony2",
+    "slug": "php-uk-conference-2014-ricard-clau-scaling-with-symfony2",
+    "description": "Lots of people think that using Symfony2 is an overkill for small websites and also that it is too slow for big projects. I will try to demonstrate that it is just not true. The talk will cover all those tips and tricks which are necessary to maximize performance and achieve scalability in big traffic applications using Symfony2. From system configurations (both in PHP/Opcode caches and Symfony2), autoload optimization, some easy quick wins, how to profile properly with xDebug/XHProf, SQL vs NoSQL to even some war stories (and solutions) from Hailo, Privalia, Ulabox, Emagister and SocialPoint which are high traffic environments I've worked for.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 10,
+    "voteCount": 1,
+    "votes": [
+        "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7"
+    ],
+    "favoriteCount": 1,
+    "favorites": [
+        "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7"
+    ],
+    "tags": [
+        "symfony2",
+        "php",
+        "opcode",
+        "phpuk",
+        "ricard clau"
+    ],
+    "created": 1426688059812,
+    "updated": 1427848622143
+}

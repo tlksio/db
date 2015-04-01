@@ -1,0 +1,29 @@
+{
+    "_id": "55193ca5753a76f471e2d424",
+    "id": "6bc49160-d6d5-11e4-b357-c38bf1fa1543",
+    "code": "DGhlQomeqKc",
+    "title": "ArrrrCamp 2014- Unicorn Unix Magic Tricks",
+    "slug": "arrrrcamp-2014-unicorn-unix-magic-tricks",
+    "description": "A couple of years ago, when I set out to really understand Unix from a developer's perspective, I found one invaluable resource for my Unix studies: the source code of the Unicorn web server. When I first encountered Unicorn, it seemed like magic to me: just by sending different signals to the server I could control important runtime settings. Unicorn allows me to scale the number of worker processes simply by sending a signal. Reloading configuration files and reopening log files is possible by sending signals. It even allows me to hot reload code once deployed. Again, all I need to do is send it a signal. But how does it do all that? Magic? This talk answers exactly this question.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "thorsten ball",
+        "arrrrcamp",
+        "2014",
+        "unicorn",
+        "unix",
+        "magic",
+        "trick"
+    ],
+    "created": 1427717285239,
+    "updated": 1427720547644
+}
