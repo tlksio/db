@@ -1,0 +1,31 @@
+{
+    "_id": "55147379951311061bead9f6",
+    "id": "28228340-d3fb-11e4-bbc3-d1d70859b2cd",
+    "code": "mS264h8KGwk",
+    "title": "David Nolen: Immutability, interactivity & JavaScript - FutureJS 2014",
+    "slug": "david-nolen-immutability-interactivity-and-javascript-futurejs-2014",
+    "description": "This is a talk from Barcelona FutureJS 2014\r\n\r\nSurprisingly the high performance mutation available in modern JavaScript engines is a great foundation for building high performance immutable collections. Even more surprisingly efficient immutable collections permit new ways of approaching user interface programming. While the details will be in Om, an immutable user interface toolkit written in ClojureScript over Facebook's React, the talk will be primarily focused on high level concepts easily ported to JavaScript. We'll dive in and see how trees of JavaScript arrays can permit building these efficient immutable collections. Then we'll see how embracing immutable values dramatically simplifies some classic hard problems in client side programming including but not limited to undo, error playback, and online/offline synchronization.",
+    "author": {
+        "id": "098e0ba0-d1b4-11e4-8faf-8d4748d78495",
+        "username": "_dawnangel_",
+        "avatar": "http://pbs.twimg.com/profile_images/551060818146492418/6jWE1xoC_normal.jpeg"
+    },
+    "viewCount": 5,
+    "voteCount": 1,
+    "votes": [
+        "098e0ba0-d1b4-11e4-8faf-8d4748d78495"
+    ],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "david nolen",
+        "javascript",
+        "futurejs",
+        "2014",
+        "barcelona",
+        "clojure script",
+        "reactjs"
+    ],
+    "created": 1427403639157,
+    "updated": 1427493762719
+}

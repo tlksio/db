@@ -1,0 +1,28 @@
+{
+    "_id": "551204c6dd84825613460edc",
+    "id": "00cc4610-d288-11e4-8e5d-b3085560197e",
+    "code": "modXC5IWTJI",
+    "title": "Building Software Systems At Google and Lessons Learned",
+    "slug": "building-software-systems-at-google-and-lessons-learned",
+    "description": "Speaker Jeffrey Dean describes some of his experiences at Google and the types of technology being used today. He talks about how their technology has evolved over time and how their technological infrastructure has allowed them to be so successful.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 4,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "google",
+        "jeffrey dean",
+        "infrastructure",
+        "large systems",
+        "2009",
+        "stanford"
+    ],
+    "created": 1427244229874,
+    "updated": 1427795487608
+}

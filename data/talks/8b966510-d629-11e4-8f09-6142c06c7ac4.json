@@ -1,0 +1,30 @@
+{
+    "_id": "55181c495620099e1f6bcc68",
+    "id": "8b966510-d629-11e4-8f09-6142c06c7ac4",
+    "code": "JUUvq48Gb3w",
+    "title": "RailsConf 09: Chris Wanstrath, \"How to become a famous Rails Developer, Ruby Rockstar or Code Ninja\" ",
+    "slug": "railsconf-09-chris-wanstrath-how-to-become-a-famous-rails-developer-ruby-rockstar-or-code-ninja",
+    "description": "How to become a famous Rails Developer, Ruby Rockstar or Code Ninja",
+    "author": {
+        "id": "41356f60-cd56-11e4-b3d6-b148b158a4ae",
+        "username": "tlksio",
+        "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "railsconf",
+        "2009",
+        "chris wanstrath",
+        "famous",
+        "rockstar",
+        "ninja",
+        "ruby",
+        "ruby on rails"
+    ],
+    "created": 1427643465186,
+    "updated": 1427743070868
+}

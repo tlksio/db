@@ -1,0 +1,29 @@
+{
+    "_id": "55193d80753a76f471e2d426",
+    "id": "ee7e4bf0-d6d5-11e4-b357-c38bf1fa1543",
+    "code": "ZhuHCtR3xq8",
+    "title": "Brian Beckman: Don't fear the Monad",
+    "slug": "brian-beckman-dont-fear-the-monad",
+    "description": "Functional programming is increasing in popularity these days given the inherent problems with shared mutable state that is rife in the imperative world. As we march on to a world of multi and many-core chipsets, software engineering must evolve to better equip software engineers with the tools to exploit the vast power of multiple core processors as it won't come for free as it did in the recent past which was predictably based on Moore's law.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "brian beckman",
+        "fear",
+        "monad",
+        "functional programming",
+        "imperative programming",
+        "multi-core",
+        "moore's law"
+    ],
+    "created": 1427717504559,
+    "updated": 1427720539439
+}

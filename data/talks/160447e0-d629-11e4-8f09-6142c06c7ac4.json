@@ -1,0 +1,28 @@
+{
+    "_id": "55181b845620099e1f6bcc67",
+    "id": "160447e0-d629-11e4-8f09-6142c06c7ac4",
+    "code": "nesCaocNjtQ",
+    "title": "CppCon 2014: Bjarne Stroustrup \"Make Simple Tasks Simple!\" ",
+    "slug": "cppcon-2014-bjarne-stroustrup-make-simple-tasks-simple",
+    "description": "C++ faces two challenges: Helping programmers address the most demanding tasks in terms of performance, scale, and dependability. It must also help programmers be productive writing ordinary maintainable code. There is much more \"ordinary code\" than there is performance-critical code. Thus, C++ must make simple tasks simple while not getting in the way of tuning software for the last byte and last cycle where that's necessary. This talk focuses on what C++11 and C++14 offers to simplify programming: auto, range-for loops, move semantics, futures, concepts, and more.",
+    "author": {
+        "id": "41356f60-cd56-11e4-b3d6-b148b158a4ae",
+        "username": "tlksio",
+        "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "cppcon",
+        "2014",
+        "bjarne stroustrup",
+        "simple",
+        "c++",
+        "maintanable code"
+    ],
+    "created": 1427643267939,
+    "updated": 1427709171892
+}

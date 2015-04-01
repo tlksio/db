@@ -1,0 +1,26 @@
+{
+    "_id": "5510aaa71396be8134dbe21d",
+    "id": "b3085460-d1b9-11e4-8faf-8d4748d78495",
+    "code": "ZJ63ltuwMaE",
+    "title": "PHP UK Conference 2014 - Mathias Verraes - Unbreakable Domain Models",
+    "slug": "php-uk-conference-2014-mathias-verraes-unbreakable-domain-models",
+    "description": "Data Mappers (like Doctrine2) help us a lot to persist data. Yet many projects are still struggling with tough questions.",
+    "author": {
+        "id": "df4da170-cdbc-11e4-bb0d-bfceb313c1f0",
+        "username": "octante",
+        "avatar": "http://pbs.twimg.com/profile_images/1129032572/android-logo1_normal.png"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "php",
+        "mathias verraes",
+        "domain models",
+        "php uk conference 2014"
+    ],
+    "created": 1427155623079,
+    "updated": 1427250450406
+}

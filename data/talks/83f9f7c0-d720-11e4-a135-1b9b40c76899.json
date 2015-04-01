@@ -1,0 +1,27 @@
+{
+    "_id": "5519baa29885f7b708b12f5a",
+    "id": "83f9f7c0-d720-11e4-a135-1b9b40c76899",
+    "code": "wgdBVIX9ifA",
+    "title": "Keynote: Microservices by Martin Fowler",
+    "slug": "keynote-microservices-by-martin-fowler",
+    "description": "This presentation was recorded at GOTO Berlin 2014\r\n\r\nMartin Fowler - Author, Speaker, Consultant & General Loud-mouth on Software Development\r\n\r\nABSTRACT\r\nPart 1 of 2: Microservices\r\nIn the last decade or so we've seen a number of new ideas added to the mix to help us effectively design our software. Patterns help us capture the solutions and rationale for using them.",
+    "author": {
+        "id": "df4da170-cdbc-11e4-bb0d-bfceb313c1f0",
+        "username": "octante",
+        "avatar": "http://pbs.twimg.com/profile_images/1129032572/android-logo1_normal.png"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "microservices",
+        "martin fowler",
+        "keynote",
+        "architecture",
+        "application design"
+    ],
+    "created": 1427749538109,
+    "updated": 1427817690232
+}

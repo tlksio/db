@@ -1,0 +1,29 @@
+{
+    "_id": "55193e1b753a76f471e2d427",
+    "id": "4add73d0-d6d6-11e4-b357-c38bf1fa1543",
+    "code": "7erJ1DV_Tlo",
+    "title": "Hewitt, Meijer and Szyperski: The Actor Model (everything you wanted to know...)",
+    "slug": "hewitt-meijer-and-szyperski-the-actor-model-everything-you-wanted-to-know",
+    "description": "At Lang.NEXT 2012, several conversations happened in the \"social room\", which was right next to the room where sessions took place. Our dear friend, Erik Meijer, led many interesting conversations, some of which we are fortunate enough to have caught on camera for C9. We'll begin with these Expert to Expert episodes with a \"standing\" conversation (participants stand comfortably close to the whiteboard) with computer scientists Carl Hewitt, Visiting Professor at Stanford University, creator of the Planner programming language, inventor of the Actor Model (the topic of this conversation), Clemens Szyperski, an MSR scientist working in the Connected Systems Group and Erik.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "lang.next",
+        "2012",
+        "carl hewitt",
+        "erik meijer",
+        "clemens szyperski",
+        "actor model",
+        "everything"
+    ],
+    "created": 1427717659534,
+    "updated": 1427720573892
+}

@@ -1,0 +1,32 @@
+{
+    "_id": "5519845dc7cbe4861d2bf6ad",
+    "id": "2a8971e0-d700-11e4-85be-31df71817358",
+    "code": "b0EF0VTs9Dc",
+    "title": "Monads and Gonads",
+    "slug": "monads-and-gonads",
+    "description": "The wonders of monads are finally revealed without resorting to Category Theory or Haskell. It turns out that monads are trivially expressed in JavaScript, and are one of the key enablers of Ajax. Monads are amazing. They are simple things, almost trivially implemented, with enormous power to manage complexity. But understanding them is surprisingly difficult, and most people, once they have that ah-ha moment, seem to lose the ability to explain them to others.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "category",
+        "theory",
+        "monads",
+        "gonads",
+        "haskell",
+        "ajax",
+        "javascript",
+        "google",
+        "douglas crockford",
+        "2013"
+    ],
+    "created": 1427735644159,
+    "updated": 1427817672265
+}

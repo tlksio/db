@@ -1,0 +1,30 @@
+{
+    "_id": "55109712973c28911026de93",
+    "id": "062a7d00-d1ae-11e4-9be3-c9e75b5c9125",
+    "code": "ugqu10JV7dk",
+    "title": "Guido van Rossum on the History of Python",
+    "slug": "guido-van-rossum-on-the-history-of-python",
+    "description": "Guido van Rossum created the Python language - http://www.python.org/ - and is Benevolent Dictator for Life of the Python community. He has taken Python from a hobby into one of the most popular languages today, powering internet giants like Google (and Dropbox :-). He is currently employed by Google, where he spends half his time on Python. On October 20th, 2011, he spoke at Dropbox Headquarters on the roots of the language and its evolution over the last 21 years",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 6,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "guido van rossum",
+        "python",
+        "language",
+        "benevolent",
+        "dictator",
+        "google",
+        "dropbox",
+        "2011"
+    ],
+    "created": 1427150608593,
+    "updated": 1427832725071
+}

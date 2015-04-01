@@ -1,0 +1,28 @@
+{
+    "_id": "5511b5ae63ffaa1b7eaa184f",
+    "id": "dbdc4b40-d258-11e4-a182-297af9cc5f31",
+    "code": "x4Ep0VKa_ZI",
+    "title": "Larry Wall - What Does Your Code Smell Like?",
+    "slug": "larry-wall-what-does-your-code-smell-like",
+    "description": "We all know that people make many decisions intuitively, not rationally, but if you look carefully at those intuitions, they are often based on deeply rational reasons. Over the 25 years of Perl's history, my tastes have changed in some ways but not in others. So this talk will be about how I now think about code smells when I'm coding, and design smells when I'm designing a programming language.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 2,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "larry wall",
+        "code",
+        "smell",
+        "perl",
+        "programming",
+        "language"
+    ],
+    "created": 1427223981558,
+    "updated": 1427468119675
+}

@@ -1,0 +1,31 @@
+{
+    "_id": "551474c1951311061bead9f7",
+    "id": "ebdf27c0-d3fb-11e4-bbc3-d1d70859b2cd",
+    "code": "z5e7kWSHWTg",
+    "title": "Ryan Florence: Hype! - React.js Conf 2015",
+    "slug": "ryan-florence-hype-reactjs-conf-2015",
+    "description": "Most of the time, I simply find React to make me more productive with the work-a-day tasks of building a UI in the browser. Other times, when I'm asked by fellow developers or designers if, and how, we could do some kind of crazy sounding thing, I find that React saw it coming.\r\n\r\nLets push the boundaries of what React lets you do with some of the most interesting use-cases I've come across and implemented.",
+    "author": {
+        "id": "098e0ba0-d1b4-11e4-8faf-8d4748d78495",
+        "username": "_dawnangel_",
+        "avatar": "http://pbs.twimg.com/profile_images/551060818146492418/6jWE1xoC_normal.jpeg"
+    },
+    "viewCount": 4,
+    "voteCount": 1,
+    "votes": [
+        "098e0ba0-d1b4-11e4-8faf-8d4748d78495"
+    ],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "ryan florence",
+        "facebook",
+        "hype",
+        "reactjs conf",
+        "2015",
+        "javasript",
+        "reactjs"
+    ],
+    "created": 1427403967549,
+    "updated": 1427832739551
+}

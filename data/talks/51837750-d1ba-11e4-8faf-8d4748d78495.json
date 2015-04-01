@@ -1,0 +1,27 @@
+{
+    "_id": "5510abb11396be8134dbe21f",
+    "id": "51837750-d1ba-11e4-8faf-8d4748d78495",
+    "code": "GrdzX9BNfkg",
+    "title": "Introduction and Demo to the Elasticsearch, Logstash and Kibana",
+    "slug": "introduction-and-demo-to-the-elasticsearch-logstash-and-kibana",
+    "description": "By combining the massively popular Elasticsearch, Logstash and Kibana, Elasticsearch Inc has created an end-to-end stack that delivers actionable insights in real-time from almost any type of structured and unstructured data source. Built and supported by the engineers behind each of these open source products, the Elasticsearch ELK stack makes searching and analyzing data easier than ever before. Thousands of organizations worldwide use these products for an endless variety of business critical functions.",
+    "author": {
+        "id": "df4da170-cdbc-11e4-bb0d-bfceb313c1f0",
+        "username": "octante",
+        "avatar": "http://pbs.twimg.com/profile_images/1129032572/android-logo1_normal.png"
+    },
+    "viewCount": 2,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "elasticsearch",
+        "logstash",
+        "kibana",
+        "logs",
+        "bigdata"
+    ],
+    "created": 1427155888965,
+    "updated": 1427471876778
+}

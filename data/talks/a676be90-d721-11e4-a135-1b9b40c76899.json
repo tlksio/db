@@ -1,0 +1,27 @@
+{
+    "_id": "5519bc899885f7b708b12f5b",
+    "id": "a676be90-d721-11e4-a135-1b9b40c76899",
+    "code": "X0_d0ci8UcY",
+    "title": "Overview of Node.js Microservices Architectures",
+    "slug": "overview-of-nodejs-microservices-architectures",
+    "description": "Overview of Node.js Microservices Architectures\r\n\r\nIn this video recorded on Feb 3, 2015 at the BayNode Meetup in Mountain View, Tony Pujals highlights how the convergence of Node.js, microservice architecture and container technology helps you build scalable distributed systems while avoiding the pitfalls of classic monolithic application architecture.",
+    "author": {
+        "id": "df4da170-cdbc-11e4-bb0d-bfceb313c1f0",
+        "username": "octante",
+        "avatar": "http://pbs.twimg.com/profile_images/1129032572/android-logo1_normal.png"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "microservices architecture",
+        "microservices",
+        "node.js",
+        "application design",
+        "tony pujals"
+    ],
+    "created": 1427750025466,
+    "updated": 1427817699456
+}
