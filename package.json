@@ -1,6 +1,6 @@
 {
   "name": "db",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "tlks.io database backup and inmport",
   "main": "backup.js",
   "scripts": {
@@ -32,5 +32,9 @@
     "istanbul": "^0.3.13",
     "mocha": "^2.2.1",
     "should": "^5.2.0"
+  },
+  "dependencies": {
+    "librank": "file:../../../../../tmp/npm-32245-3e8d0044/git-cache-8575461851c6/2617be1e21e7a554eaef2087b4748d50bb184f01",
+    "moment": "^2.9.0"
   }
 }
