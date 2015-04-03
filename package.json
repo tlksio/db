@@ -1,6 +1,6 @@
 {
   "name": "db",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "tlks.io database backup and inmport",
   "main": "backup.js",
   "scripts": {
@@ -34,7 +34,7 @@
     "should": "^5.2.0"
   },
   "dependencies": {
-    "librank": "file:../../../../../tmp/npm-19774-94914094/git-cache-89d3c747a18e/d6604a415cb4b57ed301d1158628020b1ca17c5c",
+    "librank": "git://github.com/tlksio/librank#develop",
     "moment": "^2.9.0"
   }
 }
