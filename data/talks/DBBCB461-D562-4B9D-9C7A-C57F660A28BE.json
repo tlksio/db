@@ -11,6 +11,7 @@
     },
     "description": "JavaScript is a language with more than its share of bad parts. It went from non-existence to global adoption in an alarmingly short period of time. It never had an interval in the lab when it could be tried out and polished. JavaScript has some extraordinarily good parts.",
     "votes": [
+        "19DF9868-2538-4A51-9263-642129DE57C4",
         "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7",
         "098e0ba0-d1b4-11e4-8faf-8d4748d78495"
     ],
@@ -20,9 +21,9 @@
         "parts"
     ],
     "created": 1423328738847,
-    "updated": 1427861835438,
-    "viewCount": 68,
-    "voteCount": 2,
+    "updated": 1428166458576,
+    "viewCount": 69,
+    "voteCount": 3,
     "favoriteCount": 1,
     "favorites": [
         "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7"

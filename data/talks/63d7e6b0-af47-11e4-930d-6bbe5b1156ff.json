@@ -6,13 +6,15 @@
     "slug": "servo-building-a-parallel-browser",
     "description": "Servo is an experimental browser engine for modern multi-core hardware written in an experimental memory safe language called Rust. Current browsers were designed over a decade ago when phones were not smart, clock speeds were still increasing, and web pages were still static. Taking advantage of modern amenities requires a new approach.",
     "author": {
-        "id": "2fce3c50-af35-11e4-b774-c199d71ca8d3",
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
     "viewCount": 15,
-    "voteCount": 0,
-    "votes": [],
+    "voteCount": 1,
+    "votes": [
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
     "favoriteCount": 0,
     "favorites": [],
     "tags": [

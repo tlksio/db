@@ -11,6 +11,7 @@
     },
     "description": "Douglas Crockford is known as The JavaScript Guy. He’s famous not only for his O’Reilly book JavaScript: The Good Parts but even more so as the visionary behind the JSON data format as well as the JSLint tool.",
     "votes": [
+        "19DF9868-2538-4A51-9263-642129DE57C4",
         "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7",
         "098e0ba0-d1b4-11e4-8faf-8d4748d78495"
     ],
@@ -24,7 +25,7 @@
     "created": 1423328738850,
     "updated": 1427684089580,
     "viewCount": 26,
-    "voteCount": 2,
+    "voteCount": 3,
     "favoriteCount": 0,
     "favorites": [],
     "slug": "douglas-crockford-the-better-parts-jsconfuy-2014"
