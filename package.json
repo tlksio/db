@@ -4,7 +4,7 @@
   "description": "tlks.io database backup and inmport",
   "main": "backup.js",
   "scripts": {
-    "test": "make coverage"
+    "test": "make cover"
   },
   "repository": {
     "type": "git",
