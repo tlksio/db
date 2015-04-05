@@ -1,10 +1,10 @@
 {
   "name": "db",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "tlks.io database backup and inmport",
   "main": "backup.js",
   "scripts": {
-    "test": "make coverage"
+    "test": "make cover"
   },
   "repository": {
     "type": "git",
