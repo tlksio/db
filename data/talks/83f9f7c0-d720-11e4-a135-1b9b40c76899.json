@@ -10,7 +10,7 @@
         "username": "octante",
         "avatar": "http://pbs.twimg.com/profile_images/1129032572/android-logo1_normal.png"
     },
-    "viewCount": 2,
+    "viewCount": 3,
     "voteCount": 0,
     "votes": [],
     "favoriteCount": 0,
@@ -23,5 +23,6 @@
         "application design"
     ],
     "created": 1427749538109,
-    "updated": 1427901462455
+    "updated": 1428274120909,
+    "ranking": 0
 }
