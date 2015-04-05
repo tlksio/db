@@ -8,11 +8,6 @@ function updateTalk(talk) {
     if (talk.created === undefined) {
         talk.created = Date.now();
     }
-    if (talk.voteCount===0) {
-        talk.votes.push(talk.author.id);
-        talk.voteCount++;
-        talk.updated = Date.now();
-    }
     return talk;
 }
 
@@ -27,20 +22,16 @@ MongoClient.connect(config.mongodb, function (err, db) {
         }
         docs.forEach(function (talk) {
             talk = updateTalk(talk);
+            /*
             talks.update({
                 "id": talk.id
-            }, {
-                $set: {
-                    "updated": talk.updated,
-                    "votes": talk.votes,
-                    "voteCount": talk.voteCount
-                }
-            }, function (error) {
+            }, talk, function (error) {
                 if (err) {
                     throw new Error(err);
                 }
                 db.close();
             });
+            */
         });
     });
 });
