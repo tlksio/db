@@ -1,0 +1,26 @@
+{
+    "_id": "5522e0bc1ac868ab415843af",
+    "id": "840ccf20-dc94-11e4-81fd-7f1d78d2acb4",
+    "code": "hzf3hTUKk8U",
+    "title": "Functional Programming is Terrible",
+    "slug": "functional-programming-is-terrible",
+    "description": "Rúnar Bjarnason loves functional programming, but here he plays devil's advocate and addresses some of its shortcomings. (Don't worry, there's a happy ending).",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "rúnar bjarnason",
+        "functional programming",
+        "terrible",
+        "devil advocate"
+    ],
+    "created": 1428349115667,
+    "updated": 1428349115667
+}

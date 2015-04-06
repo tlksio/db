@@ -1,0 +1,29 @@
+{
+    "_id": "5522e26d1ac868ab415843b1",
+    "id": "86250b50-dc95-11e4-81fd-7f1d78d2acb4",
+    "code": "MeMPCSqQ-34",
+    "title": "Game Development with SDL 2.0",
+    "slug": "game-development-with-sdl-20",
+    "description": "This talk will offer a high-level overview of Simple Directmedia Layer 2.0. It will cover the features of the library and how it can make your game easier to build, port, improve and maintain.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "game",
+        "development",
+        "sdl",
+        "directmedia",
+        "icculus",
+        "ryan gordon",
+        "2014"
+    ],
+    "created": 1428349548678,
+    "updated": 1428349548678
+}

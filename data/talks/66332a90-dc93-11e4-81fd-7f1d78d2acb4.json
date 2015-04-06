@@ -1,0 +1,33 @@
+{
+    "_id": "5522dedc1ac868ab415843ad",
+    "id": "66332a90-dc93-11e4-81fd-7f1d78d2acb4",
+    "code": "ztspvPYybIY",
+    "title": "Ryan Dahl: Original Node.js presentation",
+    "slug": "ryan-dahl-original-nodejs-presentation",
+    "description": "The first presentation on Node.js from Ryan Dahl at JSConf 2009",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 4,
+    "voteCount": 2,
+    "votes": [
+        "41356f60-cd56-11e4-b3d6-b148b158a4ae",
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "favoriteCount": 2,
+    "favorites": [
+        "41356f60-cd56-11e4-b3d6-b148b158a4ae",
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "tags": [
+        "ryan dahl",
+        "nodejs",
+        "presentation",
+        "jsconf",
+        "2009"
+    ],
+    "created": 1428348636090,
+    "updated": 1428349780480
+}
