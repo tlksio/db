@@ -1,0 +1,34 @@
+{
+    "_id": "5524ee3c944ac501294cb6eb",
+    "id": "bcdecdf0-ddcd-11e4-9ef8-07cea082c923",
+    "code": "W-D6W7EA8gw",
+    "title": " Compose Conference - The F# Path to Relaxation",
+    "slug": "compose-conference-the-f-path-to-relaxation",
+    "description": "Earlier, Don created generics in the .NET Common Language Runtime, including the initial design of generics for the C# programming language, along with others including Andrew Kennedy and later Anders Hejlsberg. He holds a Ph.D. from the University of Cambridge and is a member of the WG2.8 working group on functional programming. He is a co-author on the book Expert F#",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "compose",
+        "f#",
+        "relaxation",
+        "dotnet",
+        "clr",
+        "generics",
+        "c#",
+        "functional",
+        "andrew kennedy",
+        "anders hejlsberg",
+        "don syme"
+    ],
+    "created": 1428483643474,
+    "updated": 1428483643474,
+    "ranking": 0
+}

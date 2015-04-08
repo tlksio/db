@@ -1,0 +1,32 @@
+{
+    "_id": "55249a07adf67b633664d481",
+    "id": "8c073730-dd9b-11e4-ab6f-3fbf18de9c2a",
+    "code": "VBHXmqB4i_s",
+    "title": "CppCon 2014: Jeff Garland \"Rebuilding Boost Date-Time for C++11\"",
+    "slug": "cppcon-2014-jeff-garland-rebuilding-boost-date-time-for-c11",
+    "description": "The lecture describes in detail the design decisions and changes to the library for C++11. More generally it describes elements of design for a small valuetype library. Many of these considerations involve new features of C++11 and how they should be used. This includes noexcept, move construction/assignment (R-values), constexpr, enum classes, and user defined literals.",
+    "author": {
+        "id": "41356f60-cd56-11e4-b3d6-b148b158a4ae",
+        "username": "tlksio",
+        "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "cppcon",
+        "2014",
+        "jeff garland",
+        "rebuild",
+        "boost",
+        "datetime",
+        "c++ 11",
+        "valuetype",
+        "library"
+    ],
+    "created": 1428462086693,
+    "updated": 1428462086693,
+    "ranking": 0
+}
