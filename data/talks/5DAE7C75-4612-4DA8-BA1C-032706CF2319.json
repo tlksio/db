@@ -12,7 +12,8 @@
     },
     "votes": [
         "19DF9868-2538-4A51-9263-642129DE57C4",
-        "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7"
+        "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7",
+        "41356f60-cd56-11e4-b3d6-b148b158a4ae"
     ],
     "tags": [
         "erlang",
@@ -21,11 +22,11 @@
         "scalable"
     ],
     "created": 1423328738851,
-    "updated": 1428467658400,
-    "viewCount": 48,
-    "voteCount": 2,
+    "updated": 1428782280398,
+    "viewCount": 53,
+    "voteCount": 3,
     "favoriteCount": 0,
     "favorites": [],
     "slug": "why-the-cool-kids-dont-use-erlang",
-    "ranking": 0.0000041555005813204696
+    "ranking": 0.000005953976788364314
 }

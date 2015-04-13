@@ -1,0 +1,26 @@
+{
+    "_id": "552ab15f1c7fed752d7a9f76",
+    "id": "fcea2c10-e13c-11e4-90ac-a5954ed327f5",
+    "code": "84j61_aI0q8",
+    "title": "Composer, Autoloading, Namespacing, and PHPUnit",
+    "slug": "composer-autoloading-namespacing-and-phpunit",
+    "description": "In introduction of Composer, Autoloading, Namespacing and PHPUnit.\r\nAs it's said in the description of the video:\r\nIn this lesson, we'll again focus on workflow. Specifically, we'll use Composer's built-in autoloading capabilities, along with namespacing, to make for an elegant testing experience. We'll also review a variety of PHPUnit best practices in the process.",
+    "author": {
+        "id": "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7",
+        "username": "josgilmo",
+        "avatar": "http://pbs.twimg.com/profile_images/3183563149/f3b8241c3e620583214361b4a55cdc54_normal.jpeg"
+    },
+    "viewCount": 3,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "composer",
+        "autoloading",
+        "namespacing",
+        "phpunit"
+    ],
+    "created": 1428861278547,
+    "updated": 1428910069870
+}

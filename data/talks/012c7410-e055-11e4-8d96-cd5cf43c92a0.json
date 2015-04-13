@@ -1,0 +1,27 @@
+{
+    "_id": "55292c2b6bdf737f38c20732",
+    "id": "012c7410-e055-11e4-8d96-cd5cf43c92a0",
+    "code": "ieIu9eT-KzI",
+    "title": "Tobias Mueller - GNOME 3.6 - Design decisions, Main Changes, Future Visions",
+    "slug": "tobias-mueller-gnome-36-design-decisions-main-changes-future-visions",
+    "description": "With the GNOME 3.6 release on September 26th 2012 many visible improvements were delivered to users around the world. While many people already excitedly use GNOME 3, Linux distributions have just started to provide the brand new user experience to their users. Hence, the new and elegant desktop with features like distraction-free notifications or redesigned system settings is not yet wildly known.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 3,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "tobias mueller",
+        "2012",
+        "gnome",
+        "design",
+        "desktop"
+    ],
+    "created": 1428761642450,
+    "updated": 1428795873274
+}

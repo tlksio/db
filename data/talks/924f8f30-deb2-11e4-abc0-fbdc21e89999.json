@@ -1,0 +1,28 @@
+{
+    "_id": "55266e27d80d29270e5a9e09",
+    "id": "924f8f30-deb2-11e4-abc0-fbdc21e89999",
+    "code": "OCDbLcCB-uA",
+    "title": "Craig de Stigter: Intro to Metaclasses",
+    "slug": "craig-de-stigter-intro-to-metaclasses",
+    "description": "Metaprogramming is a valuable technique for putting complexity where it belongs: behind a clean, friendly API. This talk goes over the basics of metaclasses and introspection in Python, and covers how and when you should use them to make your code more approachable.",
+    "author": {
+        "id": "41356f60-cd56-11e4-b3d6-b148b158a4ae",
+        "username": "tlksio",
+        "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
+    },
+    "viewCount": 2,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "craig de stigter",
+        "metaclasses",
+        "instrospection",
+        "python",
+        "2013"
+    ],
+    "created": 1428581926820,
+    "updated": 1428837109424,
+    "ranking": 0
+}

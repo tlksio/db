@@ -1,0 +1,31 @@
+{
+    "_id": "55271e15868d5bd06ed3a794",
+    "id": "6ea16720-df1b-11e4-a2d8-bb71b9ce910e",
+    "code": "0GzzFeS5cMc",
+    "title": "Zach Oakes - Making Games at Runtime with Clojure",
+    "slug": "zach-oakes-making-games-at-runtime-with-clojure",
+    "description": "Games are a modern art form, and like other artists, game designers need to experience their work as they create it. This talk will explore the benefits of making games \"at runtime\". Through both abstract discussion and concrete demonstration, we will see why Clojure is uniquely suited to the task.\r\nZach is an independent programmer and tutor in the Pittsburgh area. He made Nightcode, a Clojure IDE for beginners, and is working to make Clojure games a reality with the play-clj library and Nightmod, a game creation tool. Previously, he was a programmer at the National Security Agency in Maryland.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 3,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "zach oakes",
+        "games",
+        "runtime",
+        "clojure",
+        "2014",
+        "nightcore",
+        "clojure ide",
+        "play-clj"
+    ],
+    "created": 1428626964116,
+    "updated": 1428882337261,
+    "ranking": 0
+}

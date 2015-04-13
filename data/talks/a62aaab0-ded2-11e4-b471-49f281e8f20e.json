@@ -1,0 +1,29 @@
+{
+    "_id": "5526a3f8323c41ec167f9c30",
+    "id": "a62aaab0-ded2-11e4-b471-49f281e8f20e",
+    "code": "tx5gdoNpcZM",
+    "title": "Google I/O 2008 - App Engine Datastore Under the Covers",
+    "slug": "google-io-2008-app-engine-datastore-under-the-covers",
+    "description": "Ever wonder why you can't do joins in the Google App Engine datastore? Why your app is seeing deadlines so often? Why it's so hard to tell whether a query will need an index? Why we offer both parent/child relationships and reference properties? Or why list properties don't seem to make any sense at all? This talk will explain how the datastore itself works, why these seeming peculiarities (and many others!) exist, and what you can do about them.",
+    "author": {
+        "id": "41356f60-cd56-11e4-b3d6-b148b158a4ae",
+        "username": "tlksio",
+        "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
+    },
+    "viewCount": 2,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "google",
+        "googleio",
+        "2008",
+        "app engine",
+        "datastore",
+        "ryan barrett"
+    ],
+    "created": 1428595704029,
+    "updated": 1428851739866,
+    "ranking": 0
+}

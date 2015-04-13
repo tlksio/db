@@ -1,0 +1,27 @@
+{
+    "_id": "552aa3515d49bfdd2cd7bfdf",
+    "id": "9cb23070-e134-11e4-8184-9d61e06a0350",
+    "code": "DKfWukYffsE",
+    "title": "ShmooCon 2015: No Budget Threat Intelligence - Tracking Malware Campaigns on the Cheap",
+    "slug": "shmoocon-2015-no-budget-threat-intelligence-tracking-malware-campaigns-on-the-cheap",
+    "description": "In this talk, I'll be discussing my experience developing intelligence-gathering capabilities to track several different independent groups of threat actors on a very limited budget (read: virtually no budget whatsoever). I'll discuss discovering the groups using open source intelligence gathering and honeypots, monitoring attacks, collecting and analyzing malware artifacts to figure out what their capabilities are, and reverse engineering their malware to develop the capability to track their targets in real time. Finally, I'll chat about defensive strategies and provide recommendations for enterprise security analysts and other security researchers. I'll also be releasing a suite of tools I created to help threat researchers perform tracking and attribution.",
+    "author": {
+        "id": "41356f60-cd56-11e4-b3d6-b148b158a4ae",
+        "username": "tlksio",
+        "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "smoothcon",
+        "2015",
+        "tracking",
+        "malware",
+        "campains"
+    ],
+    "created": 1428857681144,
+    "updated": 1428890514213
+}

@@ -1,0 +1,38 @@
+{
+    "_id": "5526a5b6323c41ec167f9c32",
+    "id": "b03226e0-ded3-11e4-b471-49f281e8f20e",
+    "code": "8aGhZQkoFbQ",
+    "title": "Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014",
+    "slug": "philip-roberts-what-the-heck-is-the-event-loop-anyway-or-jsconf-eu-2014",
+    "description": "JavaScript programmers like to use words like, “event-loop”, “non-blocking”, “callback”, “asynchronous”, “single-threaded” and “concurrency”.\r\nWe say things like “don’t block the event loop”, “make sure your code runs at 60 frames-per-second”, “well of course, it won’t work, that function is an asynchronous callback!”\r\nIf you’re anything like me, you nod and agree, as if it’s all obvious, even though you don’t actually know what the words mean; and yet, finding good explanations of how JavaScript actually works isn’t all that easy, so let’s learn!\r\nWith some handy visualisations, and fun hacks, let’s get an intuitive understanding of what happens when JavaScript runs.\r\n",
+    "author": {
+        "id": "41356f60-cd56-11e4-b3d6-b148b158a4ae",
+        "username": "tlksio",
+        "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
+    },
+    "viewCount": 4,
+    "voteCount": 1,
+    "votes": [
+        "41356f60-cd56-11e4-b3d6-b148b158a4ae"
+    ],
+    "favoriteCount": 1,
+    "favorites": [
+        "41356f60-cd56-11e4-b3d6-b148b158a4ae"
+    ],
+    "tags": [
+        "jsconf",
+        "jsconf eu",
+        "2014",
+        "philip roberts",
+        "event-loop",
+        "non-blocking",
+        "callback",
+        "asynchronous",
+        "single-threaded",
+        "concurrency",
+        "javascript"
+    ],
+    "created": 1428596150351,
+    "updated": 1428883949797,
+    "ranking": 0.019231906578769165
+}
