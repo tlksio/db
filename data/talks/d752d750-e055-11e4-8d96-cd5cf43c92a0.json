@@ -1,0 +1,26 @@
+{
+    "_id": "55292d936bdf737f38c20733",
+    "id": "d752d750-e055-11e4-8d96-cd5cf43c92a0",
+    "code": "zScOSgtRAVo",
+    "title": "NYLUG Presents: Sean O'Meara on Introduction to Chef",
+    "slug": "nylug-presents-sean-omeara-on-introduction-to-chef",
+    "description": "Chef is a platform for building automated application infrastructure. This talk examines infrastructure as code, the evolution of a typical application's infrastructure over time, and how Chef's strategy to configuration management makes it easy to develop, scale and change. Example code will be examined showing how to achieve emergent topology, and contrasts Chef with other CM strategies such as golden image cloning.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 2,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "nylug",
+        "2012",
+        "sean o'meara",
+        "chef"
+    ],
+    "created": 1428762001734,
+    "updated": 1428795848221
+}

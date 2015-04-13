@@ -1,0 +1,25 @@
+{
+    "_id": "5527fc6b36d8d0303915c1c3",
+    "id": "f5410270-df9f-11e4-9e78-198459893285",
+    "code": "3uV3ngl1Z8g",
+    "title": "Models and Service Layers in PHP",
+    "slug": "models-and-service-layers-in-php",
+    "description": "In this talk, we'll look at different schools of thought for managing your code's truly important parts and the impact on related areas like testing or form libraries. From plain models to service layers, DDD to CQRS, we'll try to apply them to an average application using PHP libraries and see where they stand up or fall down.\r\n",
+    "author": {
+        "id": "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7",
+        "username": "josgilmo",
+        "avatar": "http://pbs.twimg.com/profile_images/3183563149/f3b8241c3e620583214361b4a55cdc54_normal.jpeg"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "php",
+        "ddd",
+        "cqrs"
+    ],
+    "created": 1428683883544,
+    "updated": 1428691037950
+}

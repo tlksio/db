@@ -10,7 +10,7 @@
         "username": "octante",
         "avatar": "http://pbs.twimg.com/profile_images/1129032572/android-logo1_normal.png"
     },
-    "viewCount": 2,
+    "viewCount": 3,
     "voteCount": 0,
     "votes": [],
     "favoriteCount": 0,
@@ -22,5 +22,6 @@
         "php uk conference 2014"
     ],
     "created": 1427155623079,
-    "updated": 1427972874617
+    "updated": 1428319594678,
+    "ranking": 0
 }

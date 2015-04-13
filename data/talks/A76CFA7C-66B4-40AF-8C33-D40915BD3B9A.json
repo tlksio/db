@@ -9,7 +9,9 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
-    "votes": [],
+    "votes": [
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
     "likes": 0,
     "tags": [
         "google",
@@ -21,10 +23,11 @@
         "channel"
     ],
     "created": 1423328738854,
-    "updated": 1427901567422,
-    "viewCount": 11,
-    "voteCount": 0,
+    "updated": 1428795543581,
+    "viewCount": 14,
+    "voteCount": 1,
     "favoriteCount": 0,
     "favorites": [],
-    "slug": "google-io-2012-go-concurrency-patterns"
+    "slug": "google-io-2012-go-concurrency-patterns",
+    "ranking": 0.000001984658916647483
 }

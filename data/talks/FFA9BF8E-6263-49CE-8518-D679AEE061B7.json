@@ -12,7 +12,8 @@
     "votes": [
         "19DF9868-2538-4A51-9263-642129DE57C4",
         "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7",
-        "098e0ba0-d1b4-11e4-8faf-8d4748d78495"
+        "098e0ba0-d1b4-11e4-8faf-8d4748d78495",
+        "41356f60-cd56-11e4-b3d6-b148b158a4ae"
     ],
     "tags": [
         "nsq",
@@ -22,14 +23,15 @@
         "realtime"
     ],
     "created": 1423328738852,
-    "updated": 1428019312341,
-    "viewCount": 57,
-    "voteCount": 3,
+    "updated": 1428863124600,
+    "viewCount": 67,
+    "voteCount": 4,
     "favoriteCount": 3,
     "favorites": [
         "19DF9868-2538-4A51-9263-642129DE57C4",
         "098e0ba0-d1b4-11e4-8faf-8d4748d78495",
         "95b7ac30-d3f8-11e4-bbc3-d1d70859b2cd"
     ],
-    "slug": "realtime-distributed-message-processing-at-scale-with-nsq"
+    "slug": "realtime-distributed-message-processing-at-scale-with-nsq",
+    "ranking": 0.000007938635658501117
 }

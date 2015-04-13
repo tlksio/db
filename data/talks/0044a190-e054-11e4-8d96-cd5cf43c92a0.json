@@ -1,0 +1,27 @@
+{
+    "_id": "55292a7c6bdf737f38c20730",
+    "id": "0044a190-e054-11e4-8d96-cd5cf43c92a0",
+    "code": "QM29gWA55WE",
+    "title": "FOSDEM 2013: Has The Gnome Community Gone Crazy?",
+    "slug": "fosdem-2013-has-the-gnome-community-gone-crazy",
+    "description": "In the last year, GNOME has been a hot topic for many. The move to GNOME 3 comes with a different user experience, and the reaction to this new direction has been a mix of love and hate. If anything, such reactions show that people still care about the desktop!",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 2,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "fosdem",
+        "2013",
+        "gnome",
+        "community",
+        "desktop"
+    ],
+    "created": 1428761211433,
+    "updated": 1428795861766
+}

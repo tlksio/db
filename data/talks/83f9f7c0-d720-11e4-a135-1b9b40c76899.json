@@ -10,11 +10,16 @@
         "username": "octante",
         "avatar": "http://pbs.twimg.com/profile_images/1129032572/android-logo1_normal.png"
     },
-    "viewCount": 2,
-    "voteCount": 0,
-    "votes": [],
-    "favoriteCount": 0,
-    "favorites": [],
+    "viewCount": 8,
+    "voteCount": 2,
+    "votes": [
+        "19DF9868-2538-4A51-9263-642129DE57C4",
+        "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7"
+    ],
+    "favoriteCount": 1,
+    "favorites": [
+        "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7"
+    ],
     "tags": [
         "microservices",
         "martin fowler",
@@ -23,5 +28,6 @@
         "application design"
     ],
     "created": 1427749538109,
-    "updated": 1427901462455
+    "updated": 1428881480033,
+    "ranking": 0.0000503749618474787
 }

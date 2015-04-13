@@ -1,0 +1,29 @@
+{
+    "_id": "5522e04c1ac868ab415843ae",
+    "id": "41956da0-dc94-11e4-81fd-7f1d78d2acb4",
+    "code": "oCPT3L33848",
+    "title": "Arne Martin Aurlien: Implement an Esoteric Programming Language for Fun | JSConf EU 2014",
+    "slug": "arne-martin-aurlien-implement-an-esoteric-programming-language-for-fun-or-jsconf-eu-2014",
+    "description": "Inside most of us there’s a befunge programmer who wants to come out. When doing day-to-day “serious” programming it is usually a good idea to keep them as firmly locked up as possible. Let’s ignore that instinct for a little while.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 5,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "arne martin aurlien",
+        "esoteric programming language",
+        "fun",
+        "jsconf",
+        "2014",
+        "befunge"
+    ],
+    "created": 1428349004155,
+    "updated": 1428903232769,
+    "ranking": 0
+}

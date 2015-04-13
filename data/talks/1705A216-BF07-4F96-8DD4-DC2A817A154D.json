@@ -9,7 +9,9 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
-    "votes": [],
+    "votes": [
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
     "likes": 0,
     "tags": [
         "ruby",
@@ -22,10 +24,11 @@
         "mobile"
     ],
     "created": 1423328738852,
-    "updated": 1427511030120,
-    "viewCount": 10,
-    "voteCount": 0,
+    "updated": 1428528400492,
+    "viewCount": 12,
+    "voteCount": 1,
     "favoriteCount": 0,
     "favorites": [],
-    "slug": "rails-conf-2013-designing-great-apis-learning-from-jony-ive-orwell-and-the-kano-model"
+    "slug": "rails-conf-2013-designing-great-apis-learning-from-jony-ive-orwell-and-the-kano-model",
+    "ranking": 0.0000019846589146252794
 }

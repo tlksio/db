@@ -1,0 +1,31 @@
+{
+    "_id": "5524ef28944ac501294cb6ec",
+    "id": "49524f50-ddce-11e4-9ef8-07cea082c923",
+    "code": "VXaintVZzwA",
+    "title": " TechTalk on Objective-C with Steven Brunwasser",
+    "slug": "techtalk-on-objective-c-with-steven-brunwasser",
+    "description": "Objective-C is a Smalltalk-like Object-Oriented layer on top of the C language. It is the official language of OS X and iOS. Assuming you have a background in Object-Oriented Programming and a basic understanding of the C language or syntax, this talk will cover everything you need to know about Objective-C. By the end of the talk, you will understand how to make and use your own objects, the Foundation Framework and the data structures it provides, and the Objective-C specific language constructs and syntactic-sugar.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 3,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "objective-c",
+        "smalltalk",
+        "oop",
+        "osx",
+        "ios",
+        "language",
+        "foundation",
+        "framework"
+    ],
+    "created": 1428483879110,
+    "updated": 1428779527182,
+    "ranking": 0
+}

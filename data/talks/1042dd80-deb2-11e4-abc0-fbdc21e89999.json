@@ -1,0 +1,28 @@
+{
+    "_id": "55266d4dd80d29270e5a9e08",
+    "id": "1042dd80-deb2-11e4-abc0-fbdc21e89999",
+    "code": "Klh4AhgONAU",
+    "title": "PHP 7, what's coming",
+    "slug": "php-7-whats-coming",
+    "description": "PHP 7 is on track. Release planing is being heavily discussed, dozen of patches have reached the branch, promising RFCs are being worked on.\r\nThis talk will introduce php 7, its performance, how does it compare to the various alternative, hhvm or other. New features and changes in the core will be covered.",
+    "author": {
+        "id": "41356f60-cd56-11e4-b3d6-b148b158a4ae",
+        "username": "tlksio",
+        "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "php",
+        "php7",
+        "performance",
+        "hhvm",
+        "pierre joye"
+    ],
+    "created": 1428581708633,
+    "updated": 1428691020088,
+    "ranking": 0
+}

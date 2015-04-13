@@ -1,0 +1,26 @@
+{
+    "_id": "552aa41b5d49bfdd2cd7bfe0",
+    "id": "153f3e20-e135-11e4-8184-9d61e06a0350",
+    "code": "ytDamqTjPwg",
+    "title": " DEFCON 17: Stealing Profits from Spammers or: How I learned to Stop Worrying and Love the Spam",
+    "slug": "defcon-17-stealing-profits-from-spammers-or-how-i-learned-to-stop-worrying-and-love-the-spam",
+    "description": "Every time you look at your inbox, there it is... SPAM! Your penis needs enlargement, a horny single girl from Russia \"accidentally\" emailed you, and a former Nigerian prince knows that you're just the man to safeguard his millions. But in 2007, while still a student at MIT, one particular kind caught my eye: stock spam. Those bizarre stock market \"tips\" that claim you should buy a particular stock because it's \"about to go through the roof!!!!\" Like most people, I initially thought nothing of these ridiculous emails. That was until Kyle Vogt (now of Justin.tv) proposed the stupidest idea I had ever heard: \"There has to be some way we can make money off these spammers\". After trying, and failing, to prove Kyle wrong, the two of us embarked on a 4-month study into the dark depths of stock spam. In this talk, I'll explain how we went from hand-sorting tens of thousands of spam emails to developing a trading strategy able to take a piece of the spammers' profits. And how, in the process, our work produced data that disproved the results of nearly all the existing stock spam research.",
+    "author": {
+        "id": "41356f60-cd56-11e4-b3d6-b148b158a4ae",
+        "username": "tlksio",
+        "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
+    },
+    "viewCount": 3,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "defcon",
+        "profit",
+        "spam",
+        "stealing"
+    ],
+    "created": 1428857883395,
+    "updated": 1428909791814
+}

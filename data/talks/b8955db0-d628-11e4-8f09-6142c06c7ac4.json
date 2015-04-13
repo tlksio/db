@@ -10,11 +10,15 @@
         "username": "tlksio",
         "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
     },
-    "viewCount": 2,
-    "voteCount": 0,
-    "votes": [],
-    "favoriteCount": 0,
-    "favorites": [],
+    "viewCount": 4,
+    "voteCount": 1,
+    "votes": [
+        "41356f60-cd56-11e4-b3d6-b148b158a4ae"
+    ],
+    "favoriteCount": 1,
+    "favorites": [
+        "41356f60-cd56-11e4-b3d6-b148b158a4ae"
+    ],
     "tags": [
         "rob pike",
         "concurrency",
@@ -27,5 +31,6 @@
         "patterns"
     ],
     "created": 1427643111179,
-    "updated": 1427901767922
+    "updated": 1428825191993,
+    "ranking": 0.00004100769194133262
 }

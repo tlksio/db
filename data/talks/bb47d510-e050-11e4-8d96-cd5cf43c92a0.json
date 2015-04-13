@@ -1,0 +1,31 @@
+{
+    "_id": "552925006bdf737f38c2072f",
+    "id": "bb47d510-e050-11e4-8d96-cd5cf43c92a0",
+    "code": "oVXmWnfARC4",
+    "title": "TechTalk on Esoteric Programming Languages with Stephen Yingling",
+    "slug": "techtalk-on-esoteric-programming-languages-with-stephen-yingling",
+    "description": "Do you want to see the odd side of programming? The side where programming anything in a language can once again become a goal in itself? Come see a talk about Esoteric Languages, a collection of misfits and oddities lampooning and/or showing-up their more practical brethren. The talk will include INTERCAL, BrainF***, Piet, Shakespeare, and Malbolge; all languages that strive to challenge the contemporary ideas of programming either seriously or not-so-seriously",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 2,
+    "voteCount": 1,
+    "votes": [
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "esoteric",
+        "language",
+        "stephen yingling",
+        "intercal",
+        "brainfuck",
+        "piet",
+        "2013"
+    ],
+    "created": 1428759807202,
+    "updated": 1428795852302
+}

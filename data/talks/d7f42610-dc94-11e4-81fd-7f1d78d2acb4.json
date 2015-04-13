@@ -1,0 +1,27 @@
+{
+    "_id": "5522e1491ac868ab415843b0",
+    "id": "d7f42610-dc94-11e4-81fd-7f1d78d2acb4",
+    "code": "ea5DiCg8HOY",
+    "title": "Writing Quick Code in C++, Quickly",
+    "slug": "writing-quick-code-in-c-quickly",
+    "description": "So how to write quick code, quickly? Turns out it's quite difficult because today's complex architectures defy simple rules to be applied everywhere. It is not uncommon that innocuous high-level artifacts have a surprisingly high impact on the bottom line of an application's run time (and power consumed).",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 3,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "c++",
+        "quick",
+        "code",
+        "2013"
+    ],
+    "created": 1428349256434,
+    "updated": 1428891265812,
+    "ranking": 0
+}
