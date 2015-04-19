@@ -1,3 +1,5 @@
+var path = require('path');
+
 var fs = require('fs');
 var MongoClient = require('mongodb').MongoClient;
 
@@ -13,6 +15,7 @@ MongoClient.connect(config.mongodb, function(err, db) {
     var talks = db.collection('talks');
     var files = fs.readdirSync(data_path);
     files.forEach(function(file_path) {
+        var talk_path = path.join(path.resolve(data_path), file_path);
         var talk = require(talk_path);
         console.log("Import : " + talk.title);
     });
