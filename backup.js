@@ -1,7 +1,7 @@
 var fs = require('fs');
 var MongoClient = require('mongodb').MongoClient;
 
-var config = require('../front/config.json');
+var config = require('./config.json');
 
 MongoClient.connect(config.mongodb, function(err, db) {
     if (err) { 
