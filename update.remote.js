@@ -2,7 +2,7 @@ var fs = require('fs');
 var slug = require('slug');
 var MongoClient = require('mongodb').MongoClient;
 
-var config = require('../front/config.json');
+var config = require('./config.json');
 
 function updateTalk(talk) {
     if (talk.created === undefined) {

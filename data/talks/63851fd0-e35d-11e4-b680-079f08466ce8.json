@@ -1,0 +1,30 @@
+{
+    "_id": "552e42b97ee804fa0561543f",
+    "id": "63851fd0-e35d-11e4-b680-079f08466ce8",
+    "code": "fiENlfVU7Ys",
+    "title": " \"The Makings of a Modern Application Architecture\" - Sam Ramji Keynote",
+    "slug": "the-makings-of-a-modern-application-architecture-sam-ramji-keynote",
+    "description": "It wasn’t too long ago that artisans, bathed in the glow of molten metal, forged parts that would go on to make up bigger, more powerful machines. Today, we call those artisans developers. Instead of metal, they use bits and bytes in the cloud to forge a modern application architecture.\r\nIt’s an architecture that supports public, private and hybrid application deployment. One that enables users and developers to move their applications wherever they need to go. And it’s built on a growing, vibrant ecosystem.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 3,
+    "voteCount": 1,
+    "votes": [
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "sam ramji",
+        "2015",
+        "modern",
+        "application",
+        "architecture",
+        "cloudfoundry"
+    ],
+    "created": 1429095096911,
+    "updated": 1429199072826
+}
