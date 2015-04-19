@@ -37,6 +37,7 @@
   "dependencies": {
     "librank": "git://github.com/tlksio/librank#develop",
     "moment": "^2.9.0",
+    "mongodb": "^2.0.27",
     "slug": "^0.8.0"
   }
 }
