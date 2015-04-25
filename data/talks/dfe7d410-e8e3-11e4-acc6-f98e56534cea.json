@@ -1,0 +1,27 @@
+{
+    "_id": "553787d60bbbe1330b6a66ee",
+    "id": "dfe7d410-e8e3-11e4-acc6-f98e56534cea",
+    "code": "RpD_Sz_ZWPk",
+    "title": " DEF CON 13 - Paul Graham, Inequality and Risk",
+    "slug": "def-con-13-paul-graham-inequality-and-risk",
+    "description": "Previous attempts to hack the connection between wealth and power have aimed mainly at eliminating economic inequality. They've all ended in disaster, because economic inequality is closely related to risk: you can't eliminate inequality without eliminating startups, and with them growth. So if you want to get rid of injustice, the place to attack is one step downstream, where wealth turns into power.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 5,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "defcon",
+        "2013",
+        "paul graham",
+        "inequality",
+        "risk"
+    ],
+    "created": 1429702613970,
+    "updated": 1429906425562
+}

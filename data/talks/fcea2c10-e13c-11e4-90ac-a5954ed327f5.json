@@ -10,9 +10,11 @@
         "username": "josgilmo",
         "avatar": "http://pbs.twimg.com/profile_images/3183563149/f3b8241c3e620583214361b4a55cdc54_normal.jpeg"
     },
-    "viewCount": 3,
-    "voteCount": 0,
-    "votes": [],
+    "viewCount": 6,
+    "voteCount": 1,
+    "votes": [
+        "098e0ba0-d1b4-11e4-8faf-8d4748d78495"
+    ],
     "favoriteCount": 0,
     "favorites": [],
     "tags": [
@@ -22,6 +24,6 @@
         "phpunit"
     ],
     "created": 1428861278547,
-    "updated": 1428910069870,
-    "ranking": 0
+    "updated": 1429949546682,
+    "ranking": 0.0000981575185521504
 }
