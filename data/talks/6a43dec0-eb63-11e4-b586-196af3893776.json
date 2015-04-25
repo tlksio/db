@@ -1,0 +1,27 @@
+{
+    "_id": "553bb8cf7ccf7f7618faac79",
+    "id": "6a43dec0-eb63-11e4-b586-196af3893776",
+    "code": "png0Lkpk8Nw",
+    "title": "Porting Gameboy emulator to FirefoxOS",
+    "slug": "porting-gameboy-emulator-to-firefoxos",
+    "description": "'FirefoxOS is the new project of Mozilla - a global movement to empower and bring choice in the lives of new billions of Internet users. FirefoxOS runs on very cheap hardware, bringing the web to people in development markets and opportunities to new web developers. In this talk we will demo some of the capabilities of FirefoxOS.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "firefoxos",
+        "mozilla",
+        "gameboy",
+        "emulator",
+        "javascript"
+    ],
+    "created": 1429977294508,
+    "updated": 1429977294508
+}

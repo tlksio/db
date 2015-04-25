@@ -1,0 +1,30 @@
+{
+    "_id": "5533d28e72549c835a9694a4",
+    "id": "0f313aa0-e6ae-11e4-b8e4-f1946ff0b8fe",
+    "code": "yRFmiXNbkW4",
+    "title": "Scaling Search at Trovit with Solr & Hadoop, Marc Sturlese, Trovit, Eurocon 2011",
+    "slug": "scaling-search-at-trovit-with-solr-and-hadoop-marc-sturlese-trovit-eurocon-2011",
+    "description": "Trovit is a global classified advertising service covering real estate, jobs and more in 27 countries worldwide. Until recently, our distributed Lucene/Solr search indexes used a customized Data Import Handler to draw data out of MySQL, but they no longer adequately handle our volumes with acceptable performance. We have moved Lucene/Solr indexes using MapReduce and came up with a new way to build indexes which is into production since months ago. Here at Trovit, we deal with many countries and different business categories, each with its own index -- and not all of them have similar size or structure.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 7,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "trovit",
+        "eurocon",
+        "2011",
+        "solr",
+        "hadoop",
+        "search",
+        "scaling"
+    ],
+    "created": 1429459598155,
+    "updated": 1429974727740,
+    "ranking": 0
+}

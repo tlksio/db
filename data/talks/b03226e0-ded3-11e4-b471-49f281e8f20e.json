@@ -10,7 +10,7 @@
         "username": "tlksio",
         "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
     },
-    "viewCount": 6,
+    "viewCount": 7,
     "voteCount": 1,
     "votes": [
         "41356f60-cd56-11e4-b3d6-b148b158a4ae"
@@ -33,6 +33,6 @@
         "javascript"
     ],
     "created": 1428596150351,
-    "updated": 1429118293308,
-    "ranking": 0.0002450925649305976
+    "updated": 1429949669965,
+    "ranking": 0.00005111186494092483
 }

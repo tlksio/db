@@ -1,0 +1,33 @@
+{
+    "_id": "55337acbec41c8fd5207aece",
+    "id": "bfab3fa0-e679-11e4-ac23-a15a9aaba76f",
+    "code": "Kd8EqTvW5EQ",
+    "title": "Andrew Gerrand: The State of Go - FOSDEM 2015",
+    "slug": "andrew-gerrand-the-state-of-go-fosdem-2015",
+    "description": "Reviewing the state of Go, past, present and future with Andrew Gerrand @ FOSDEM 2015\r\n\r\nSlides: https://talks.golang.org/2015/state-of-go.slide",
+    "author": {
+        "id": "098e0ba0-d1b4-11e4-8faf-8d4748d78495",
+        "username": "_dawnangel_",
+        "avatar": "http://pbs.twimg.com/profile_images/551060818146492418/6jWE1xoC_normal.jpeg"
+    },
+    "viewCount": 5,
+    "voteCount": 2,
+    "votes": [
+        "098e0ba0-d1b4-11e4-8faf-8d4748d78495",
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "favoriteCount": 1,
+    "favorites": [
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "tags": [
+        "go",
+        "golang",
+        "andrew gerrand",
+        "fosdem",
+        "2015"
+    ],
+    "created": 1429437130907,
+    "updated": 1429906417079,
+    "ranking": 0.04172955897946826
+}

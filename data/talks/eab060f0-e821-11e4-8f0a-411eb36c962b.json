@@ -1,0 +1,33 @@
+{
+    "_id": "5536426e9f5ad11266551195",
+    "id": "eab060f0-e821-11e4-8f0a-411eb36c962b",
+    "code": "2rKEveL55TY",
+    "title": "Baruco 2012: Micro-Service Architecture, by Fred George",
+    "slug": "baruco-2012-micro-service-architecture-by-fred-george",
+    "description": "SOA, service-oriented architectures, burst on the scene in the new millennium as the latest technology to support application growth. In concert with the Web, SOA ushered in new paradigms for structuring enterprise applications.\r\nAt the Forward Internet Group in London, we are implementing SOA in unusual ways. Rather than a few, business-related services being implemented per the original vision, we have developed systems made of myriads of very small, usually short-lived services. In this workshop, we will start by exploring the evolution of SOA implementations by the speaker. In particular, lessons learned from each implementation will be discussed, and re-application of these lessons on the next implementation. Challenges (and even failures) will be explicitly identified.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 6,
+    "voteCount": 1,
+    "votes": [
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "favoriteCount": 1,
+    "favorites": [
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "tags": [
+        "barcelona",
+        "ruby",
+        "2012",
+        "fred george",
+        "microservice",
+        "architecture",
+        "soa"
+    ],
+    "created": 1429619309697,
+    "updated": 1429906421680
+}

@@ -1,0 +1,28 @@
+{
+    "_id": "553bb86d7ccf7f7618faac78",
+    "id": "2fa32c30-eb63-11e4-b586-196af3893776",
+    "code": "upor8W4vkX4",
+    "title": "BarcelonaJS July 2013: Real-time Motion Detection in JavaScript (Paulo Avila)",
+    "slug": "barcelonajs-july-2013-real-time-motion-detection-in-javascript-paulo-avila",
+    "description": "Paulo Ávila demos how to detect motion in a video in JavaScript (in the browser) in real-time. Presented on July 4, 2013 at BarcelonaJS (http://barcelonajs.org/).",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "barcelonajs",
+        "2013",
+        "motion",
+        "detection",
+        "javascript",
+        "paulo avila"
+    ],
+    "created": 1429977196147,
+    "updated": 1429977196147
+}

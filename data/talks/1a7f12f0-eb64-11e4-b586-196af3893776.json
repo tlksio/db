@@ -1,0 +1,27 @@
+{
+    "_id": "553bb9f87ccf7f7618faac7a",
+    "id": "1a7f12f0-eb64-11e4-b586-196af3893776",
+    "code": "ZsRRCnque2E",
+    "title": "25c3: The Ultimate Commodore 64 Talk",
+    "slug": "25c3-the-ultimate-commodore-64-talk",
+    "description": "Everything about the C64 in 64 Minutes. Retrocomputing is cool as never before. People play C64 games in emulators and listen to SID music, but few people know much about the C64 architecture. This talk attempts to communicate \"everything about the C64\" to the listener, including its internals and quirks, as well as the tricks that have been used in the demoscene, trying to revive the spirit of times when programmers counted clock cycles and hardware limitations were seen as a challenge.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "25c3",
+        "commodore",
+        "c64",
+        "emulator",
+        "demoscene"
+    ],
+    "created": 1429977590175,
+    "updated": 1429977590175
+}
