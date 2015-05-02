@@ -1,0 +1,30 @@
+{
+    "_id": "553e2fb7bcb9fb1e4cd46f2c",
+    "id": "7749b670-ecdb-11e4-886e-3b6b99688656",
+    "code": "TcbmRRy-vno",
+    "title": "Lean Enterprise - Jez Humble and Gary Gruver",
+    "slug": "lean-enterprise-jez-humble-and-gary-gruver",
+    "description": "Large organizations often struggle to leverage software to create innovative products. This is due to a number of organizational factors, including culture, governance and financial management, and the application of portfolio and program management strategies that do not take advantage of the unique characteristics of software. This talk discusses how to take a lean approach to developing new products and running large scale programs of work, and how to grow a culture that enables organizations to turn software into a competitive advantage.",
+    "author": {
+        "id": "535d6a90-dc46-11e4-81fd-7f1d78d2acb4",
+        "username": "sdepablos",
+        "avatar": "http://pbs.twimg.com/profile_images/87105575/profile_50x50_normal.png"
+    },
+    "viewCount": 4,
+    "voteCount": 1,
+    "votes": [
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "favoriteCount": 1,
+    "favorites": [
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "tags": [
+        "lean",
+        "enterprise",
+        "operations",
+        "build-measure-learn"
+    ],
+    "created": 1430138807128,
+    "updated": 1430423147730
+}

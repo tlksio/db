@@ -1,0 +1,28 @@
+{
+    "_id": "553cac06074b54e618ec2795",
+    "id": "61de8c80-ebf4-11e4-bcf1-bf93a71cfdd9",
+    "code": "Xa8r2xcK1e4",
+    "title": "Baruco 2012: Unsucking Your Team's Development Environment, by Zach Holman",
+    "slug": "baruco-2012-unsucking-your-teams-development-environment-by-zach-holman",
+    "description": "Success can bring many glamorous changes to your company: hiring more employees, getting free coffee, and giving everyone a private jet filled with cash and endangered African predatory cats.\r\nSuccess can lead to less-glamorous problems, though. As you grow, your team's development environment becomes really important. How long does it take to clone, set up, and boot your apps? Can your employees still be productive on an aging codebase? How can you automate CI, hooks, and other setup for new projects? Is any of this fun anymore?\r\nGitHub ran into these problems as we expanded our team tremendously over the last two years. Let's look at some of the ways we've improved our employees' development environments.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 5,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "baruco",
+        "2012",
+        "unsucking",
+        "development",
+        "environment",
+        "zach holman"
+    ],
+    "created": 1430039557449,
+    "updated": 1430331200013
+}

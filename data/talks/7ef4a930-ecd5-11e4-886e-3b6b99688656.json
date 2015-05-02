@@ -1,0 +1,30 @@
+{
+    "_id": "553e25b3bcb9fb1e4cd46f2b",
+    "id": "7ef4a930-ecd5-11e4-886e-3b6b99688656",
+    "code": "OX4rLAJC7lw",
+    "title": "Clean Architecture - VIPER by Redbooth",
+    "slug": "clean-architecture-viper-by-redbooth",
+    "description": "The Redbooth iOS Team is adopting a new architecture: VIPER. We explain what's viper and our experience with it (demo included). We gave this talk in our Barcelona HQ publishing the event in the NSBarcelona meetup group. ",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 3,
+    "voteCount": 1,
+    "votes": [
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "clean",
+        "architecture",
+        "sergi garcia",
+        "viper",
+        "ios",
+        "redbooth"
+    ],
+    "created": 1430136243011,
+    "updated": 1430423115182
+}
