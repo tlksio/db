@@ -1,0 +1,30 @@
+{
+    "_id": "553e251dbcb9fb1e4cd46f2a",
+    "id": "25dbf9c0-ecd5-11e4-886e-3b6b99688656",
+    "code": "-TDMa9qArY0",
+    "title": "HTML5DevConf: Nicolas Grenie, 3scale.net: Building Hypermedia APIs in Javascript",
+    "slug": "html5devconf-nicolas-grenie-3scalenet-building-hypermedia-apis-in-javascript",
+    "description": "There is currently a major shift sweeping over the software industry. With each passing day the world is becoming more and more API-driven. When building an API there are many design options and Hypermedia is the new emerging way of designing APIs. Hypermedia APIs are widely used by companies such as Paypal and Amazon. In this session I will discuss the principles of Hypermedia APIs and the different ways to implement one in Node.js. I will first introduce you to a basic implementation using Express and then move on to a more advanced solution using a dedicated framework: Fortune.js. I will also share my experience of building APIbunny (http://apibunny.com), an API-driven easter game.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 2,
+    "voteCount": 1,
+    "votes": [
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "nicolas grenie",
+        "3scale",
+        "html5devconf",
+        "hypermedia",
+        "apis",
+        "javascript"
+    ],
+    "created": 1430136093533,
+    "updated": 1430392064127
+}

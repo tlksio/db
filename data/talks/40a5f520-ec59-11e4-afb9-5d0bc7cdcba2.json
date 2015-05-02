@@ -1,0 +1,28 @@
+{
+    "_id": "553d5543edcb3d1b3bf981e7",
+    "id": "40a5f520-ec59-11e4-afb9-5d0bc7cdcba2",
+    "code": "ZR3Jirqk6W8",
+    "title": "Running a startup on Haskell",
+    "slug": "running-a-startup-on-haskell",
+    "description": "Bryan O'Sullivan presents a case study of a small startup that chose Haskell for its server-side code, outlining the advantages and disadvantages of using Haskell to quickly create a solid solution. Strange Loop is a multi-disciplinary conference that aims to bring together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, mobile development, and the web.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 5,
+    "voteCount": 1,
+    "votes": [
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "running",
+        "startup",
+        "haskell",
+        "2013"
+    ],
+    "created": 1430082880883,
+    "updated": 1430411635418
+}

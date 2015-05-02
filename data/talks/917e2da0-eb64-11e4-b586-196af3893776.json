@@ -10,9 +10,11 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
-    "viewCount": 0,
-    "voteCount": 0,
-    "votes": [],
+    "viewCount": 5,
+    "voteCount": 1,
+    "votes": [
+        "098e0ba0-d1b4-11e4-8faf-8d4748d78495"
+    ],
     "favoriteCount": 0,
     "favorites": [],
     "tags": [
@@ -25,5 +27,6 @@
         "charlie miller"
     ],
     "created": 1429977789818,
-    "updated": 1429977789818
+    "updated": 1430410502555,
+    "ranking": 0
 }

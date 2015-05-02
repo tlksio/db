@@ -1,0 +1,27 @@
+{
+    "_id": "5541ec235bd2e95938f60000",
+    "id": "89d7cb10-ef15-11e4-89e9-6fb6251560ec",
+    "code": "Fcb4aoSAZ98",
+    "title": "Docker Containers and Kubernetes with Brian Dorsey",
+    "slug": "docker-containers-and-kubernetes-with-brian-dorsey",
+    "description": "Kubernetes is a recently open sourced cluster manager and scheduler that simplifies the complex tasks of deploying and managing your application. You simply declare the desired state, and Kubernetes does the work to keep it that way. In this talk, I'll do a hands-on demonstration of how you can move from a single Docker container to many containers running across a cluster of machines with Kubernetes.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 2,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "codemotion",
+        "docker",
+        "kubernetes",
+        "container",
+        "brian dorsey"
+    ],
+    "created": 1430383651394,
+    "updated": 1430510738968
+}

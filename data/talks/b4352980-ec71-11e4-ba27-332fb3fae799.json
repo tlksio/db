@@ -1,0 +1,31 @@
+{
+    "_id": "553d7e47c0576e9a3df8951b",
+    "id": "b4352980-ec71-11e4-ba27-332fb3fae799",
+    "code": "kDQigkxyiqE",
+    "title": "Microformats with Tantek Çelik",
+    "slug": "microformats-with-tantek-celik",
+    "description": "Join Mozilla's Tantek Çelik discuss how new HTML5 elements and microformats give us a simple way to represent web data without additional URLs, file formats, or callbacks. Microformats2 and HTML5 improvements bring better accessibility, simpler markup, improved semantics, and a direct mapping to JSON APIs for data consumers.  Millions of web sites use microformats to make their data available. Other approaches have emerged as well (e.g. RDFa, microdata, OGP, schema, Twitter Cards). Tantek will discuss which microformats to use for search engines and for public APIs.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 4,
+    "voteCount": 1,
+    "votes": [
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "favoriteCount": 1,
+    "favorites": [
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "tags": [
+        "microformats",
+        "tantek çelik",
+        "html5",
+        "json",
+        "apis"
+    ],
+    "created": 1430093382681,
+    "updated": 1430392017918
+}

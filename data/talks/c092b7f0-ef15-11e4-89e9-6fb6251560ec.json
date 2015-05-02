@@ -1,0 +1,28 @@
+{
+    "_id": "5541ec7f5bd2e95938f60001",
+    "id": "c092b7f0-ef15-11e4-89e9-6fb6251560ec",
+    "code": "9vfkk_rNwyw",
+    "title": "Extending OpenStack IaaS with Cloud Foundry PaaS",
+    "slug": "extending-openstack-iaas-with-cloud-foundry-paas",
+    "description": "What if enterprise developers could have an idea for an app, code it and deploy it into production in less than a day? Intel IT is addressing that very challenge by establishing PaaS for the developers of custom applications that land in Intel s enterprise private cloud.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "openstack",
+        "iaas",
+        "paas",
+        "intel",
+        "cloud",
+        "cloud foundry"
+    ],
+    "created": 1430383743216,
+    "updated": 1430392052483
+}

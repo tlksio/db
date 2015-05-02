@@ -1,0 +1,27 @@
+{
+    "_id": "5543db73c08d375a723b04fe",
+    "id": "c4279570-f03c-11e4-b589-3db83a5e0f20",
+    "code": "GZeUntdObCA",
+    "title": "IPMI - because ACPI and UEFI weren't terrifying enough",
+    "slug": "ipmi-because-acpi-and-uefi-werent-terrifying-enough",
+    "description": "Meet IPMI - the Intelligent Platform Management Interface. A protocol that allows admins to power machines on and off remotely. A protocol that permits remote querying and reporting of hardware errors, fan speeds, temperatures and more. A protocol so poorly designed that it explicitly defines passwordless authentication. A protocol that's generally implemented by gluing a small insecure embedded Linux device to your server motherboards. A protocol implemented by people who don't understand the importance of avoiding leaking bits of the heap in network packets. A protocol that's frequently exposed to the public internet. A protocol that's… well. You get the idea.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "ipmi",
+        "acpi",
+        "uefi",
+        "2015",
+        "matthew garrett"
+    ],
+    "created": 1430510450789,
+    "updated": 1430510450789
+}

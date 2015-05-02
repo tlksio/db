@@ -1,0 +1,28 @@
+{
+    "_id": "5543dc1dc08d375a723b04ff",
+    "id": "29955000-f03d-11e4-b589-3db83a5e0f20",
+    "code": "-ItFjEG3LaA",
+    "title": "Considering the Future of Copyleft: How Will The Next Generation Perceive GPL?",
+    "slug": "considering-the-future-of-copyleft-how-will-the-next-generation-perceive-gpl",
+    "description": "This talk discusses all aspects of the complicated situation that copyleft now faces, including younger developers apparent preference for non-copyleft licensing (as expressed, in part, in the so-called \"post-open source\" debates - http://en.wikipedia.org/wiki/Post_Ope...), the widespread and common failures in GPL compliance, and how licensing choices are today - unlike in the past - rarely in the hands of individual developers, but instead their corporate employers.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "copyleft",
+        "future",
+        "gpl",
+        "open source",
+        "2015",
+        "bradley kuhn"
+    ],
+    "created": 1430510620928,
+    "updated": 1430510620929
+}

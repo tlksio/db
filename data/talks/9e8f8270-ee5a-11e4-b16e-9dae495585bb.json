@@ -1,0 +1,31 @@
+{
+    "_id": "5540b28a418bba6f1770125a",
+    "id": "9e8f8270-ee5a-11e4-b16e-9dae495585bb",
+    "code": "luNeSIemhxY",
+    "title": "Meet Elcodi, the flexible e-commerce components built on Symfony2",
+    "slug": "meet-elcodi-the-flexible-e-commerce-components-built-on-symfony2",
+    "description": "Elcodi is a suite of bundles for Symfony2 which aim to help developers build and quickly scale e-commerce websites. It is written in a clean, straightforward way to ease and smooth the learning curve and it promotes development productivity, SOLID, DRY principles without adding too many layers of indirection. Some of the goals we think we've reached: Balance between flexibility and development speed, Reusable components and foundations for writing custom Model. We'd like to share some insights on how we are approaching those topics by using rigorous coding standards, enforcing coherence and loose coupling, aiming for comprehensible and self-explaining code. See how you can leverage Symfony components for addressing similar challenges and let's discuss the rationales behind some good practices. And above all, see how to do it without pain, because we think that coding should always be a pleasure and crafting developer-friendly software is in our DNA!",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 2,
+    "voteCount": 2,
+    "votes": [
+        "2aa91870-ee65-11e4-863f-e937bb3999c5",
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "symfony2",
+        "elcodi",
+        "marc morera",
+        "e-commerce",
+        "solid",
+        "dry"
+    ],
+    "created": 1430303370265,
+    "updated": 1430423153346
+}

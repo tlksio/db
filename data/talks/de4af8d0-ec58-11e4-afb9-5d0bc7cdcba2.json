@@ -1,0 +1,28 @@
+{
+    "_id": "553d549dedcb3d1b3bf981e6",
+    "id": "de4af8d0-ec58-11e4-afb9-5d0bc7cdcba2",
+    "code": "ekN2zvFytZk",
+    "title": "Deep Dive Into State Restoration (en) - Cyril Mottier, Capitaine Train - Droidcon Paris 2014",
+    "slug": "deep-dive-into-state-restoration-en-cyril-mottier-capitaine-train-droidcon-paris-2014",
+    "description": "Come learn about how Android saves state in general in order to be able to restore an application in the exact same state the process was prior being killed because of a low memory condition or a configuration change. In this talk we will mainly focus on the Parcelable and Parcel objects and how Android uses them to save/restore some important stateful information such as the complete UI state.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 6,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "state",
+        "restoration",
+        "cyril mottier",
+        "capitaine train",
+        "droidcon",
+        "2014"
+    ],
+    "created": 1430082715869,
+    "updated": 1430418786080
+}
