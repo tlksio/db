@@ -23,11 +23,12 @@
         "channel"
     ],
     "created": 1423328738854,
-    "updated": 1429418037849,
-    "viewCount": 18,
+    "updated": 1430599484745,
+    "viewCount": 19,
     "voteCount": 1,
     "favoriteCount": 0,
     "favorites": [],
     "slug": "google-io-2012-go-concurrency-patterns",
-    "ranking": 0.0000013164893680500736
+    "ranking": 0.0000013164893680500736,
+    "type": "youtube"
 }

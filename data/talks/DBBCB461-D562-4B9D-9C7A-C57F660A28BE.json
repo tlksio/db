@@ -13,7 +13,8 @@
     "votes": [
         "19DF9868-2538-4A51-9263-642129DE57C4",
         "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7",
-        "098e0ba0-d1b4-11e4-8faf-8d4748d78495"
+        "098e0ba0-d1b4-11e4-8faf-8d4748d78495",
+        "46c63880-f19e-11e4-a2a2-edef0af2c559"
     ],
     "tags": [
         "javascript",
@@ -23,10 +24,11 @@
     "created": 1423328738847,
     "updated": 1430466966704,
     "viewCount": 81,
-    "voteCount": 3,
-    "favoriteCount": 1,
+    "voteCount": 4,
+    "favoriteCount": 2,
     "favorites": [
-        "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7"
+        "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7",
+        "46c63880-f19e-11e4-a2a2-edef0af2c559"
     ],
     "slug": "javascript-the-good-parts",
     "ranking": 0.000003949468062503303

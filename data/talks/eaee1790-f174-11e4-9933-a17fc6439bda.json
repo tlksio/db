@@ -1,0 +1,24 @@
+{
+    "_id": "5545e72836c492f9338983f9",
+    "id": "eaee1790-f174-11e4-9933-a17fc6439bda",
+    "code": "yY1FSsUV-8c",
+    "title": "Andrew Sorensen Keynote: \"The Concert Programmer\"",
+    "slug": "andrew-sorensen-keynote-the-concert-programmer",
+    "description": "From OSCON 2014: Is it possible to imagine a future where “concert programmers” are as common a fixture in the worlds auditoriums as concert pianists? In this presentation Andrew will be live-coding the generative algorithms that will be producing the music that the audience will be listening too. As Andrew is typing he will also attempt to narrate the journey, discussing the various computational and musical choices made along the way. A must see for anyone interested in creative computing.",
+    "author": {
+        "id": "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7",
+        "username": "josgilmo",
+        "avatar": "http://pbs.twimg.com/profile_images/3183563149/f3b8241c3e620583214361b4a55cdc54_normal.jpeg"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "algorithms",
+        "oscon 2014"
+    ],
+    "created": 1430644518793,
+    "updated": 1430644518793
+}

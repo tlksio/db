@@ -1,0 +1,24 @@
+{
+    "_id": "5546067fa24f730648a6f31a",
+    "id": "99dfd6a0-f187-11e4-b7e3-eb8e729b9bbe",
+    "code": "VkTCL6Nqm6Y",
+    "title": "How Instagram.com Works; Pete Hunt",
+    "slug": "how-instagramcom-works-pete-hunt",
+    "description": "Instagram.com renders almost all of its UI in JavaScript. I'll talk about how our packaging and push systems work in great detail, which are clever combinations of existing open-source tools. Anyone building a large site using lots of JavaScript would find what we've learned interesting!",
+    "author": {
+        "id": "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7",
+        "username": "josgilmo",
+        "avatar": "http://pbs.twimg.com/profile_images/3183563149/f3b8241c3e620583214361b4a55cdc54_normal.jpeg"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "instagram",
+        "pete hunt"
+    ],
+    "created": 1430652543243,
+    "updated": 1430652543243
+}
