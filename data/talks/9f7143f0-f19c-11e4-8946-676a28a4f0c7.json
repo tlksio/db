@@ -1,0 +1,27 @@
+{
+    "_id": "554629c4a777fab44e1c8b60",
+    "id": "9f7143f0-f19c-11e4-8946-676a28a4f0c7",
+    "code": "f8kJ1oJnqCQ",
+    "title": "Marc Canaleta - Social Point CTO (Ironhack Keynote Hackshow #4)",
+    "slug": "marc-canaleta-social-point-cto-ironhack-keynote-hackshow-4",
+    "description": "Mobile games create high and ever-increasing traffic, and they use high performance graphics across multiple platforms. They have unique and interesting features, such as real-time multiplayer, and generate a lot of data to analyze. They also provide immersive fun and engagement across a worldwide player base.",
+    "author": {
+        "id": "41356f60-cd56-11e4-b3d6-b148b158a4ae",
+        "username": "tlksio",
+        "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "marc canaleta",
+        "mobile",
+        "games",
+        "social point"
+    ],
+    "created": 1430661572018,
+    "updated": 1430661572018,
+    "type": "youtube"
+}

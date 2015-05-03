@@ -10,7 +10,7 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
-    "viewCount": 7,
+    "viewCount": 8,
     "voteCount": 0,
     "votes": [],
     "favoriteCount": 0,
@@ -22,6 +22,7 @@
         "chef"
     ],
     "created": 1428762001734,
-    "updated": 1429666351641,
-    "ranking": 0
+    "updated": 1430621582647,
+    "ranking": 0,
+    "type": "youtube"
 }

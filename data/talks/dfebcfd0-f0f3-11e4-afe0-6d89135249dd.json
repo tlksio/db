@@ -1,0 +1,26 @@
+{
+    "_id": "55450ea728f840992478c9f0",
+    "id": "dfebcfd0-f0f3-11e4-afe0-6d89135249dd",
+    "code": "fF8tpdlnyaE",
+    "title": "Symfony Security Voters",
+    "slug": "symfony-security-voters",
+    "description": "Symfony Voters are the work horses of authorization. But they're not well-understood and are totally under-utilized. So let's take our wild security business logic and see how a customer voter can centralize things and make your controller and templates dead simple.",
+    "author": {
+        "id": "df4da170-cdbc-11e4-bb0d-bfceb313c1f0",
+        "username": "octante",
+        "avatar": "http://pbs.twimg.com/profile_images/1129032572/android-logo1_normal.png"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "symfony2",
+        "security voters",
+        "symfony2 security bundle"
+    ],
+    "created": 1430589095246,
+    "updated": 1430604710570,
+    "type": "youtube"
+}

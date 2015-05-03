@@ -10,14 +10,21 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
-    "viewCount": 2,
-    "voteCount": 2,
+    "viewCount": 3,
+    "voteCount": 5,
     "votes": [
         "2aa91870-ee65-11e4-863f-e937bb3999c5",
-        "19DF9868-2538-4A51-9263-642129DE57C4"
+        "19DF9868-2538-4A51-9263-642129DE57C4",
+        "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7",
+        "1c667b30-cfc6-11e4-8991-f9cf3eda7381",
+        "46c63880-f19e-11e4-a2a2-edef0af2c559"
     ],
-    "favoriteCount": 0,
-    "favorites": [],
+    "favoriteCount": 3,
+    "favorites": [
+        "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7",
+        "46c63880-f19e-11e4-a2a2-edef0af2c559",
+        "2aa91870-ee65-11e4-863f-e937bb3999c5"
+    ],
     "tags": [
         "symfony2",
         "elcodi",
@@ -27,5 +34,6 @@
         "dry"
     ],
     "created": 1430303370265,
-    "updated": 1430423153346
+    "updated": 1430582677891,
+    "type": "youtube"
 }

@@ -15,10 +15,8 @@
     "votes": [
         "1c667b30-cfc6-11e4-8991-f9cf3eda7381"
     ],
-    "favoriteCount": 1,
-    "favorites": [
-        "1c667b30-cfc6-11e4-8991-f9cf3eda7381"
-    ],
+    "favoriteCount": 0,
+    "favorites": [],
     "tags": [
         "php",
         "ddd",
@@ -26,5 +24,6 @@
     ],
     "created": 1427560138660,
     "updated": 1429991014036,
-    "ranking": 0.000008102130816617877
+    "ranking": 0.000008102130816617877,
+    "type": "youtube"
 }

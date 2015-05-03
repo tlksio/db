@@ -26,12 +26,12 @@
     "updated": 1430296403878,
     "viewCount": 79,
     "voteCount": 4,
-    "favoriteCount": 3,
+    "favoriteCount": 2,
     "favorites": [
-        "19DF9868-2538-4A51-9263-642129DE57C4",
         "098e0ba0-d1b4-11e4-8faf-8d4748d78495",
         "95b7ac30-d3f8-11e4-bbc3-d1d70859b2cd"
     ],
     "slug": "realtime-distributed-message-processing-at-scale-with-nsq",
-    "ranking": 0.000005265957467928815
+    "ranking": 0.000005265957467928815,
+    "type": "youtube"
 }

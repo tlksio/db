@@ -10,7 +10,7 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
-    "viewCount": 19,
+    "viewCount": 20,
     "voteCount": 0,
     "votes": [],
     "favoriteCount": 0,
@@ -25,6 +25,7 @@
         "2014"
     ],
     "created": 1428349548678,
-    "updated": 1429996901075,
-    "ranking": 0
+    "updated": 1430673740464,
+    "ranking": 0,
+    "type": "youtube"
 }
