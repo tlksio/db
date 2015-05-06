@@ -20,6 +20,7 @@ function countHours(start, end) {
 
 // calculate ranking for all elements in the database
 res.forEach(function(element) {
+    /*
     // full fs file path
     var talk_path = data_path + element;
     // get its data
@@ -33,4 +34,5 @@ res.forEach(function(element) {
     // ranking calculation
     var score = rank.rank(points, hours, gravity);
     console.log(score, " - ", talk.title);
+    */
 });
