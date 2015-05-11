@@ -1,0 +1,26 @@
+{
+    "_id": "5546c1fe1441f0f896aef2ce",
+    "id": "5aaa64d0-f1f7-11e4-bc67-5f1151d26d13",
+    "code": "BcaqdXh566E",
+    "title": "Build a RESTful API in Go",
+    "slug": "build-a-restful-api-in-go",
+    "description": "In this talk, I'm planning to live code a RESTful API in Go that controls a Sphero (http://www.gosphero.com/). This'll be a tutorial to show you how to build fun stuff with Go.",
+    "author": {
+        "id": "1c667b30-cfc6-11e4-8991-f9cf3eda7381",
+        "username": "GorkaLopez",
+        "avatar": "http://pbs.twimg.com/profile_images/1462148715/image_normal.jpg"
+    },
+    "viewCount": 7,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "golang",
+        "rest",
+        "api"
+    ],
+    "created": 1430700540830,
+    "updated": 1431351493774,
+    "type": "youtube"
+}

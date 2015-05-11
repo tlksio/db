@@ -1,0 +1,26 @@
+{
+    "_id": "554daa6571b58050360d1c23",
+    "id": "6858e580-f615-11e4-b6d7-6bed0ff4934e",
+    "code": "e_1a6bHGQGo",
+    "title": "Don Knuth - Constraint Based Composition",
+    "slug": "don-knuth-constraint-based-composition",
+    "description": "Don Knuth will discuss/explain the peculiar(?) methods that he is using as he tries to compose a major work for pipe organ.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 4,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "don knuth",
+        "constraint",
+        "composition"
+    ],
+    "created": 1431153253342,
+    "updated": 1431351560437,
+    "type": "youtube"
+}

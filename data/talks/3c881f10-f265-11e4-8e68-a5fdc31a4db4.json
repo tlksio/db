@@ -1,0 +1,26 @@
+{
+    "_id": "55477a57809cc5120b28b20c",
+    "id": "3c881f10-f265-11e4-8e68-a5fdc31a4db4",
+    "code": "wASCH_gPnDw",
+    "title": "Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure",
+    "slug": "expert-to-expert-rich-hickey-and-brian-beckman-inside-clojure",
+    "description": "Clojure is a dynamic programming language created by Rich Hickey that targets both the Java Virtual Machine and the CLR. It is designed to be a general-purpose language, combining the approachability and interactive development of a scripting language with an efficient and robust infrastructure for multithreaded programming. Clojure is a compiled language - it compiles directly to JVM bytecode, yet remains completely dynamic. Every feature supported by Clojure is supported at runtime. Clojure provides easy access to the Java frameworks, with optional type hints and type inference, to ensure that calls to Java can avoid reflection.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 7,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "rich hickey",
+        "brian beckman",
+        "clojure"
+    ],
+    "created": 1430747734913,
+    "updated": 1431369495894,
+    "type": "youtube"
+}

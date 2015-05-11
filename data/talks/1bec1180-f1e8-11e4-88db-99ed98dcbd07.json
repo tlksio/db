@@ -1,0 +1,27 @@
+{
+    "_id": "5546a86a8b5704157ad38995",
+    "id": "1bec1180-f1e8-11e4-88db-99ed98dcbd07",
+    "code": null,
+    "title": "Building JavaScript applications based on DDD, CQRS and EventSourcing",
+    "slug": "building-javascript-applications-based-on-ddd-cqrs-and-eventsourcing",
+    "description": "...",
+    "author": {
+        "id": "1c667b30-cfc6-11e4-8991-f9cf3eda7381",
+        "username": "GorkaLopez",
+        "avatar": "http://pbs.twimg.com/profile_images/1462148715/image_normal.jpg"
+    },
+    "viewCount": 6,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "javascript",
+        "ddd",
+        "cqrs",
+        "event sourcing"
+    ],
+    "created": 1430693993113,
+    "updated": 1431351497724,
+    "type": "youtube"
+}

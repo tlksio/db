@@ -1,0 +1,26 @@
+{
+    "_id": "5547793a809cc5120b28b20a",
+    "id": "92a0f170-f264-11e4-8e68-a5fdc31a4db4",
+    "code": "BXPV3vJF99k",
+    "title": "An OpenBSD talk by Michael Lucas",
+    "slug": "an-openbsd-talk-by-michael-lucas",
+    "description": "OpenBSD is known for incredible security, but that's not what it's really about and that's not what the project exists for. Lucas will present on OpenBSD's history, its technology, and what drives the community. You'll learn not only what makes OpenBSD unique, but why you should keep an eye on it even if you would never dream of switching away from your current operating system.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 6,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "michael lucas",
+        "openbsd",
+        "os"
+    ],
+    "created": 1430747449865,
+    "updated": 1431351351485,
+    "type": "youtube"
+}

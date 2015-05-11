@@ -1,0 +1,26 @@
+{
+    "_id": "554b18194158bbf56da770c6",
+    "id": "073ef4d0-f48d-11e4-8a4a-bdb7cb5a4c84",
+    "code": "g0SDY4MuFWE",
+    "title": "Ubiquitous Language as a Driving Force of the Project with Marek Matulka",
+    "slug": "ubiquitous-language-as-a-driving-force-of-the-project-with-marek-matulka",
+    "description": "Marek Matulka from SensioLabs UK will talk about combining BDD and DDD together using ubiquitous language as a driving force for both communication and code.",
+    "author": {
+        "id": "1c667b30-cfc6-11e4-8991-f9cf3eda7381",
+        "username": "GorkaLopez",
+        "avatar": "http://pbs.twimg.com/profile_images/1462148715/image_normal.jpg"
+    },
+    "viewCount": 6,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "ubiquitous language",
+        "bdd",
+        "ddd"
+    ],
+    "created": 1430984727711,
+    "updated": 1431303107002,
+    "type": "youtube"
+}
