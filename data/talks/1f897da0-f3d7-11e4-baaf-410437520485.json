@@ -1,0 +1,36 @@
+{
+    "_id": "5549e6e8729ace28502fd3bc",
+    "id": "1f897da0-f3d7-11e4-baaf-410437520485",
+    "code": "mxdpqr-loyA",
+    "title": "Call Me Maybe: Carly Rae Jepsen and the Perils of Network Partitions",
+    "slug": "call-me-maybe-carly-rae-jepsen-and-the-perils-of-network-partitions",
+    "description": "Network partitions are real, but their practical consequences on complex applications are poorly understood. I want to talk about some of the neat ways I've found to lose important data, the challenge of building systems which are reliable under partitions, and what it means for you, an application developer.",
+    "author": {
+        "id": "dcc7a5a0-f3d6-11e4-baaf-410437520485",
+        "username": "lant",
+        "avatar": "http://pbs.twimg.com/profile_images/2766076078/ac7d63ab3ce9fbf039b6cf9ec132e8bd_normal.jpeg"
+    },
+    "viewCount": 10,
+    "voteCount": 3,
+    "votes": [
+        "19DF9868-2538-4A51-9263-642129DE57C4",
+        "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7",
+        "098e0ba0-d1b4-11e4-8faf-8d4748d78495"
+    ],
+    "favoriteCount": 2,
+    "favorites": [
+        "19DF9868-2538-4A51-9263-642129DE57C4",
+        "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7"
+    ],
+    "tags": [
+        "nosql",
+        "distributed systems",
+        "nosql",
+        "cap",
+        "network partitions",
+        "resilience"
+    ],
+    "created": 1430906600061,
+    "updated": 1431376866805,
+    "type": "youtube"
+}

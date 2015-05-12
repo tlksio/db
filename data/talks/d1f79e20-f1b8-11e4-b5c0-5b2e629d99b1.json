@@ -1,0 +1,30 @@
+{
+    "_id": "5546591344fd352b58e60ec2",
+    "id": "d1f79e20-f1b8-11e4-b5c0-5b2e629d99b1",
+    "code": "115776445",
+    "title": "7 Common mistakes in Go and how to avoid them by Steve Francia",
+    "slug": "7-common-mistakes-in-go-and-how-to-avoid-them-by-steve-francia",
+    "description": "Steve Francia is the creator of hugo, cobra, nitro & spf13-vim. An author of multiple O'Reilly books, Steve also blogs at spf13.com and gives many talks and workshops around the world. He is the Chief Developer Advocate at MongoDB responsible for the developer experience of MongoDB and leads the software engineering team responsible for drivers and integrations with all languages, libraries and frameworks. He loves open source and is thrilled to be able to work on it full time. When not coding he enjoys skateboarding and having fun outdoors with his wife and four children.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 10,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "mistake",
+        "go",
+        "steve francia",
+        "mongodb",
+        "hugo",
+        "spf13-vim"
+    ],
+    "created": 1430673682692,
+    "updated": 1431351347332,
+    "type": "vimeo",
+    "thumb": "https://i.vimeocdn.com/video/501906141_200x150.webp"
+}

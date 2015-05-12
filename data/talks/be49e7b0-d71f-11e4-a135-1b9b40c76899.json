@@ -10,7 +10,7 @@
         "username": "octante",
         "avatar": "http://pbs.twimg.com/profile_images/1129032572/android-logo1_normal.png"
     },
-    "viewCount": 10,
+    "viewCount": 15,
     "voteCount": 0,
     "votes": [],
     "favoriteCount": 0,
@@ -22,6 +22,7 @@
         "cqrs in cloud"
     ],
     "created": 1427749206444,
-    "updated": 1429996862497,
-    "ranking": 0
+    "updated": 1431351511512,
+    "ranking": 0,
+    "type": "youtube"
 }

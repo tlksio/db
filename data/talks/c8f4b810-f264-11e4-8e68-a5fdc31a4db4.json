@@ -1,0 +1,27 @@
+{
+    "_id": "55477995809cc5120b28b20b",
+    "id": "c8f4b810-f264-11e4-8e68-a5fdc31a4db4",
+    "code": "6ORn6_35kKo",
+    "title": "From Weak to Weedy: Effective Use of Memory Barriers in the ARM Linux Kernel - W. Deacon, ARM",
+    "slug": "from-weak-to-weedy-effective-use-of-memory-barriers-in-the-arm-linux-kernel-w-deacon-arm",
+    "description": "The ARMv7/v8 architectures feature weakly-ordered memory models, allowing hardware designers to implement a variety of optimisations in the memory subsystem. Whilst this can improve the performance and power consumption of embedded ARM CPUs, it can also lead to subtle software bugs which are incredibly hard to debug. As a result, software engineers tend to use either too many barrier instructions or heavyweight variants to err on the side of caution. Both of these practices have performance costs, which will increase as the number of cores on a typical SoC continues to rise. This presentation describes the various barrier instructions in the ARM architecture and how to use them in the Linux kernel. It will also introduce changes proposed to the ARM kernel port allowing users of barriers to control their propagation within the system and measurably improve performance.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 5,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "arm",
+        "linux",
+        "kernel",
+        "w. deacon"
+    ],
+    "created": 1430747541010,
+    "updated": 1431303062394,
+    "type": "youtube"
+}

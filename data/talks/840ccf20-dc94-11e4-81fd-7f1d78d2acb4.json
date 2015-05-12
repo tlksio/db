@@ -10,7 +10,7 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
-    "viewCount": 13,
+    "viewCount": 14,
     "voteCount": 0,
     "votes": [],
     "favoriteCount": 0,
@@ -22,6 +22,7 @@
         "devil advocate"
     ],
     "created": 1428349115667,
-    "updated": 1430001203947,
-    "ranking": 0
+    "updated": 1431350647615,
+    "ranking": 0,
+    "type": "youtube"
 }

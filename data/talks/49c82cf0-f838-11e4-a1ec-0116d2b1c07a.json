@@ -1,0 +1,28 @@
+{
+    "_id": "55513fea9ed76eb92dcd182a",
+    "id": "49c82cf0-f838-11e4-a1ec-0116d2b1c07a",
+    "code": "UalzJq40xMk",
+    "title": "SaltConf15 - Steven Gonzales, EMC - SaltStack at Scale – Automating the Automation",
+    "slug": "saltconf15-steven-gonzales-emc-saltstack-at-scale-automating-the-automation",
+    "description": "At EMC, Rubicon Cloud Services operates an exabyte-scale object storage platform, running on thousands of nodes, in data centers around the world. This talk will focus on the architecture and workflows for automating the building, testing and deployment of SaltStack formulas, states and pillars across a large infrastructure.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "saltconf15",
+        "steven gonzales",
+        "emc",
+        "automating",
+        "python"
+    ],
+    "created": 1431388136768,
+    "updated": 1431388136768,
+    "type": "youtube"
+}

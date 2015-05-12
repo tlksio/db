@@ -1,0 +1,27 @@
+{
+    "_id": "555141249ed76eb92dcd182b",
+    "id": "05a4d3b0-f839-11e4-a1ec-0116d2b1c07a",
+    "code": "K7gzUwlVhE4",
+    "title": "Cloud Foundry - your PaaS on OpenStack",
+    "slug": "cloud-foundry-your-paas-on-openstack",
+    "description": "Dekel Tankel, Director of Product Marketing for Cloud Foundry, will present a broad introduction to Cloud Foundry, its core features and unique position in the PaaS landscape. Ferran Rodenas, Staff Engineer for Cloud Foundry, will discuss how the Cloud Foundry operational management tool, BOSH, interfaces with OpenStack to run PaaS on a wide range of infrastructure. If you are interested in PaaS, Cloud Foundry, or how the OpenStack ecosystem is enabling a new breed of cloud abstraction, then be sure to attend this session.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "cloud foundry",
+        "paas",
+        "openstack",
+        "dekel tankel"
+    ],
+    "created": 1431388451948,
+    "updated": 1431388451948,
+    "type": "youtube"
+}
