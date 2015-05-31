@@ -1,0 +1,26 @@
+{
+    "_id": "556687fe5a340de9207aed7f",
+    "id": "991a9200-04e7-11e5-8bfb-47d20a09732f",
+    "code": "hcahQfN5u9Y",
+    "title": "Schema.org - What, How, Why?",
+    "slug": "schemaorg-what-how-why",
+    "description": "This presentation explains why search engines now want metadata, how it works, and what you need to know as a dev (as seen in the context of Yandex, Russia's most used search engine, and schema.org).",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "schema.org",
+        "yandex",
+        "metadata"
+    ],
+    "created": 1432782845732,
+    "updated": 1432804349768,
+    "type": "youtube"
+}

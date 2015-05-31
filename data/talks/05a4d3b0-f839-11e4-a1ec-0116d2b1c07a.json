@@ -10,7 +10,7 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
-    "viewCount": 0,
+    "viewCount": 10,
     "voteCount": 0,
     "votes": [],
     "favoriteCount": 0,
@@ -22,6 +22,7 @@
         "dekel tankel"
     ],
     "created": 1431388451948,
-    "updated": 1431388451948,
-    "type": "youtube"
+    "updated": 1432886372403,
+    "type": "youtube",
+    "ranking": 0
 }
