@@ -25,7 +25,6 @@
     "tags": [
         "nosql",
         "distributed systems",
-        "nosql",
         "cap",
         "network partitions",
         "resilience"

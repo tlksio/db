@@ -11,8 +11,10 @@
         "avatar": "http://pbs.twimg.com/profile_images/2538924804/image_normal.jpg"
     },
     "viewCount": 6,
-    "voteCount": 0,
-    "votes": [],
+    "voteCount": 1,
+    "votes": [
+        "2c308c10-fd69-11e4-81f0-f3cac10fef64"
+    ],
     "favoriteCount": 0,
     "favorites": [],
     "tags": [

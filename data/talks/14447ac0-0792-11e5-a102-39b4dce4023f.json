@@ -1,0 +1,28 @@
+{
+    "_id": "556b0101abe21616399f12f0",
+    "id": "14447ac0-0792-11e5-a102-39b4dce4023f",
+    "code": "-5r6um5VICI",
+    "title": "Lambda Days - Jamie Allen - FP Performance and Scala: Beyond Big O Notation",
+    "slug": "lambda-days-jamie-allen-fp-performance-and-scala-beyond-big-o-notation",
+    "description": "While Functional Programming is a hot topic, many developers looking to optimize their code have a difficult time understanding how to identify areas of concern and mitigate them. How do we identify and limit the number of intermediate objects being created? How do we leverage threads appropriately for the machines on which our application will be deployed? How do we tune the JVM garbage collector to match our application's memory profile? Which operations and data structures have the greatest cost and affect these metrics the most? These topics and more will be discussed, giving all of us more tools for writing performant code on the JVM while still remaining as functional as possible.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 3,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "lambda days",
+        "jamie allen",
+        "functional programming",
+        "scala",
+        "big o"
+    ],
+    "created": 1433075969134,
+    "updated": 1433416654960,
+    "type": "youtube"
+}
