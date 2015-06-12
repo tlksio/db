@@ -10,7 +10,11 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
+<<<<<<< HEAD
     "viewCount": 26,
+=======
+    "viewCount": 3,
+>>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "voteCount": 0,
     "votes": [],
     "favoriteCount": 0,
@@ -23,7 +27,11 @@
         "brian dorsey"
     ],
     "created": 1430383651394,
+<<<<<<< HEAD
     "updated": 1433870488940,
     "type": "youtube",
     "ranking": 0
+=======
+    "updated": 1430620652867
+>>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
 }

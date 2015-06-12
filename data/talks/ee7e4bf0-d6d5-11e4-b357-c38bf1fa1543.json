@@ -10,7 +10,11 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
+<<<<<<< HEAD
     "viewCount": 50,
+=======
+    "viewCount": 22,
+>>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "voteCount": 0,
     "votes": [],
     "favoriteCount": 0,
@@ -25,7 +29,11 @@
         "moore's law"
     ],
     "created": 1427717504559,
+<<<<<<< HEAD
     "updated": 1434098653278,
+=======
+    "updated": 1430607466031,
+>>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "ranking": 0,
     "type": "youtube"
 }

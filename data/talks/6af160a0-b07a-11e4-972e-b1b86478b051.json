@@ -10,7 +10,11 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
+<<<<<<< HEAD
     "viewCount": 21,
+=======
+    "viewCount": 16,
+>>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "voteCount": 1,
     "votes": [
         "19DF9868-2538-4A51-9263-642129DE57C4"
@@ -29,7 +33,12 @@
         "game"
     ],
     "created": 1423500055468,
+<<<<<<< HEAD
     "updated": 1433663260495,
     "ranking": 9.699410036350555e-7,
+=======
+    "updated": 1429990940589,
+    "ranking": 0.00000137974154138586,
+>>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "type": "youtube"
 }

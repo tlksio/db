@@ -10,7 +10,11 @@
         "username": "tlksio",
         "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
     },
+<<<<<<< HEAD
     "viewCount": 13,
+=======
+    "viewCount": 11,
+>>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "voteCount": 0,
     "votes": [],
     "favoriteCount": 0,
@@ -24,7 +28,11 @@
         "maintanable code"
     ],
     "created": 1427643267939,
+<<<<<<< HEAD
     "updated": 1431432705550,
+=======
+    "updated": 1429996843663,
+>>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "ranking": 0,
     "type": "youtube"
 }

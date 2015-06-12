@@ -10,7 +10,11 @@
         "username": "tlksio",
         "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
     },
+<<<<<<< HEAD
     "viewCount": 7,
+=======
+    "viewCount": 4,
+>>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "voteCount": 0,
     "votes": [],
     "favoriteCount": 0,
@@ -23,7 +27,11 @@
         "pierre joye"
     ],
     "created": 1428581708633,
+<<<<<<< HEAD
     "updated": 1431749095591,
+=======
+    "updated": 1429949673306,
+>>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "ranking": 0,
     "type": "youtube"
 }

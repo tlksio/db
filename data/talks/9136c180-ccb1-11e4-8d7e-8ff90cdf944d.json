@@ -10,7 +10,11 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
+<<<<<<< HEAD
     "viewCount": 41,
+=======
+    "viewCount": 22,
+>>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "voteCount": 3,
     "votes": [
         "19DF9868-2538-4A51-9263-642129DE57C4",
@@ -32,7 +36,12 @@
         "simplicity"
     ],
     "created": 1426602374552,
+<<<<<<< HEAD
     "updated": 1434093777474,
     "ranking": 0.000007152702751726942,
+=======
+    "updated": 1430617393265,
+    "ranking": 0.00001335326080116312,
+>>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "type": "youtube"
 }

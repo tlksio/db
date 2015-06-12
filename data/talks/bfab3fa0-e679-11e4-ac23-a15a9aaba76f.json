@@ -10,7 +10,11 @@
         "username": "_dawnangel_",
         "avatar": "http://pbs.twimg.com/profile_images/551060818146492418/6jWE1xoC_normal.jpeg"
     },
+<<<<<<< HEAD
     "viewCount": 23,
+=======
+    "viewCount": 12,
+>>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "voteCount": 2,
     "votes": [
         "098e0ba0-d1b4-11e4-8faf-8d4748d78495",
@@ -28,7 +32,12 @@
         "2015"
     ],
     "created": 1429437130907,
+<<<<<<< HEAD
     "updated": 1433743996100,
     "ranking": 0.00002397198910319062,
     "type": "youtube"
+=======
+    "updated": 1430569519945,
+    "ranking": 0.00023517456378460819
+>>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
 }

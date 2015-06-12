@@ -10,7 +10,11 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
+<<<<<<< HEAD
     "viewCount": 12,
+=======
+    "viewCount": 6,
+>>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "voteCount": 0,
     "votes": [],
     "favoriteCount": 0,
@@ -24,7 +28,11 @@
         "avro"
     ],
     "created": 1427244874631,
+<<<<<<< HEAD
     "updated": 1431756656227,
+=======
+    "updated": 1430484384196,
+>>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "ranking": 0,
     "type": "youtube"
 }

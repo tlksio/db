@@ -10,7 +10,11 @@
         "username": "josgilmo",
         "avatar": "http://pbs.twimg.com/profile_images/3183563149/f3b8241c3e620583214361b4a55cdc54_normal.jpeg"
     },
+<<<<<<< HEAD
     "viewCount": 5,
+=======
+    "viewCount": 0,
+>>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "voteCount": 0,
     "votes": [],
     "favoriteCount": 0,
@@ -20,7 +24,11 @@
         "pete hunt"
     ],
     "created": 1430652543243,
+<<<<<<< HEAD
     "updated": 1432962471880,
     "type": "youtube",
     "ranking": 0
+=======
+    "updated": 1430652543243
+>>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
 }
