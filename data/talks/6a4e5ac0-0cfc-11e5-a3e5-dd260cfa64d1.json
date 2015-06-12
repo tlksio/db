@@ -1,0 +1,31 @@
+{
+    "_id": "557416e400bd4e0c1880d88f",
+    "id": "6a4e5ac0-0cfc-11e5-a3e5-dd260cfa64d1",
+    "code": "0LKDImgRfrg",
+    "title": "Best Practices in Javascript Library Design",
+    "slug": "best-practices-in-javascript-library-design",
+    "description": "This talk explores all the techniques used to build a robust, reusable, cross-platform JavaScript Library. We'll look at how to write a solid JavaScript API, show you how to use functional programming to create contained, concise, code, and delve deep into common cross browser issues that you'll have to solve in order to have a successful library.<br>\r\nJohn Resig is a JavaScript Evangelist, working for the Mozilla Corporation, and the author of the book 'Pro Javascript Techniques.' He's also the creator and lead developer of the jQuery JavaScript library and the co-designer of the FUEL JavaScript library (included in Firefox 3).",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 5,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "javascript",
+        "library",
+        "design",
+        "google",
+        "john resig",
+        "mozilla",
+        "jquery",
+        "fuel"
+    ],
+    "created": 1433671395952,
+    "updated": 1434070397960,
+    "type": "youtube"
+}

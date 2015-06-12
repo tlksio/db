@@ -1,0 +1,30 @@
+{
+    "_id": "557415ca00bd4e0c1880d88e",
+    "id": "c2102230-0cfb-11e5-a3e5-dd260cfa64d1",
+    "code": "hdSrT4yjS1g",
+    "title": "REST+JSON API Design - Best Practices for Developers",
+    "slug": "restjson-api-design-best-practices-for-developers",
+    "description": "Designing a really clean and intuitive REST + JSON API is no small feat. You have to worry about resources, collections of resources, pagination, query parameters, references to other resources, which HTTP Methods to use, HTTP Caching, security, and more! And you have to make sure it lasts and doesn't break clients as you add features over time. Further, while there are many references on creating REST APIs with XML, there are much fewer references for REST + JSON.<br>\r\nIn this presentation, Les Hazlewood - Stormpath CTO and Apache Shiro PMC Chair - will share all of the golden nuggets learned while designing, implementing and supporting JSON-based REST APIs, using examples from a clean real-world REST+JSON API built with Java technologies.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 2,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "java",
+        "rest",
+        "json",
+        "api",
+        "design",
+        "les hazlewood",
+        "stormpath"
+    ],
+    "created": 1433671113687,
+    "updated": 1434070421969,
+    "type": "youtube"
+}
