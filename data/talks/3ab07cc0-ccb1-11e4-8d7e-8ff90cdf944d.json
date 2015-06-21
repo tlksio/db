@@ -10,11 +10,7 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
-<<<<<<< HEAD
-    "viewCount": 15,
-=======
-    "viewCount": 11,
->>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
+    "viewCount": 16,
     "voteCount": 1,
     "votes": [
         "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7"
@@ -31,12 +27,7 @@
         "alan shreve"
     ],
     "created": 1426602229389,
-<<<<<<< HEAD
-    "updated": 1433772181615,
+    "updated": 1434227131550,
     "ranking": 0.0000023841040963157428,
-=======
-    "updated": 1430001208549,
-    "ranking": 0.000004450743224226239,
->>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "type": "youtube"
 }

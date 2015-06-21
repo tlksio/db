@@ -1,0 +1,29 @@
+{
+    "_id": "5585e38c0ce2c9407363d768",
+    "id": "64df45d0-1798-11e5-8864-673e660c83fc",
+    "code": "g9H-WO_RY3k",
+    "title": "DEF CON 22 - Nemus - An Introduction to Back Dooring Operating Systems for Fun and Trolling",
+    "slug": "def-con-22-nemus-an-introduction-to-back-dooring-operating-systems-for-fun-and-trolling",
+    "description": "Nemus is a security enthusiast at night and spends his days working in the payment card industry developing RESTFul APIs for bill pay using cash payments. Lance works with open source systems, and enjoys setting up and hardening Linux systems. He has over 11 years of experience working in information technology focusing on system administration and software development and has begun to focus his career on information security. He developed a love for security at Salt Lake Community College after being immersed into it by his professors. Nemus help found the Defcon 801 hackerspace and currently holds the position on the board of directors for 801 Labs, which is the corporation that runs the DC801 hackerspace located in downtown Salt Lake City.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "defcon 22",
+        "nemus",
+        "back door",
+        "os",
+        "fun",
+        "troll"
+    ],
+    "created": 1434837899951,
+    "updated": 1434837899951,
+    "type": "youtube"
+}

@@ -10,11 +10,7 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
-<<<<<<< HEAD
-    "viewCount": 20,
-=======
-    "viewCount": 18,
->>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
+    "viewCount": 22,
     "voteCount": 1,
     "votes": [
         "2fce3c50-af35-11e4-b774-c199d71ca8d3"
@@ -29,12 +25,7 @@
         "alan key"
     ],
     "created": 1423497279746,
-<<<<<<< HEAD
-    "updated": 1431432755362,
+    "updated": 1434334732652,
     "ranking": 9.693269849297182e-7,
-=======
-    "updated": 1429949609037,
-    "ranking": 0.0000013786793162231883,
->>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "type": "youtube"
 }

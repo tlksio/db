@@ -1,0 +1,26 @@
+{
+    "_id": "5583cad80a9bf54c06455120",
+    "id": "7e9f4b50-1658-11e5-ae66-f97523037ab2",
+    "code": "Dg_vPMnC7_k",
+    "title": "Improve your development environments with virtualization ",
+    "slug": "improve-your-development-environments-with-virtualization",
+    "description": "<br>\r\nA talk on how to employ virtualization to make development easier, more portable, and have it more closely adhere to production environments.",
+    "author": {
+        "id": "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7",
+        "username": "josgilmo",
+        "avatar": "http://pbs.twimg.com/profile_images/3183563149/f3b8241c3e620583214361b4a55cdc54_normal.jpeg"
+    },
+    "viewCount": 3,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "luke sneeringer",
+        "virtualization",
+        "production environments"
+    ],
+    "created": 1434700504199,
+    "updated": 1434844186618,
+    "type": "youtube"
+}

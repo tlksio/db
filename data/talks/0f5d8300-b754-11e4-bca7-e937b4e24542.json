@@ -10,7 +10,7 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
-    "viewCount": 30,
+    "viewCount": 34,
     "voteCount": 1,
     "votes": [
         "2fce3c50-af35-11e4-b774-c199d71ca8d3"
@@ -24,12 +24,7 @@
         "linuxfest"
     ],
     "created": 1424253239090,
-<<<<<<< HEAD
-    "updated": 1431351778568,
+    "updated": 1434302636398,
     "ranking": 0.0000011619581812819187,
-=======
-    "updated": 1429949634860,
-    "ranking": 0.000001723039860992445,
->>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "type": "youtube"
 }

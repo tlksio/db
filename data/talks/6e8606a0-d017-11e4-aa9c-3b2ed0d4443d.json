@@ -10,11 +10,7 @@
         "username": "josgilmo",
         "avatar": "http://pbs.twimg.com/profile_images/3183563149/f3b8241c3e620583214361b4a55cdc54_normal.jpeg"
     },
-<<<<<<< HEAD
-    "viewCount": 17,
-=======
-    "viewCount": 12,
->>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
+    "viewCount": 18,
     "voteCount": 1,
     "votes": [
         "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7"
@@ -26,12 +22,7 @@
         "rasmus lerdorf"
     ],
     "created": 1426975978508,
-<<<<<<< HEAD
-    "updated": 1432758201344,
+    "updated": 1434273887153,
     "ranking": 0.0000027598273208942904,
-=======
-    "updated": 1430021608457,
-    "ranking": 0.000005494524496079808,
->>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "type": "youtube"
 }

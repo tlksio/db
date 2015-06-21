@@ -10,11 +10,7 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
-<<<<<<< HEAD
-    "viewCount": 10,
-=======
-    "viewCount": 6,
->>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
+    "viewCount": 11,
     "voteCount": 1,
     "votes": [
         "098e0ba0-d1b4-11e4-8faf-8d4748d78495"
@@ -31,12 +27,7 @@
         "charlie miller"
     ],
     "created": 1429977789818,
-<<<<<<< HEAD
-    "updated": 1432864204906,
+    "updated": 1434167828150,
     "ranking": 0.000021491869801057237,
     "type": "youtube"
-=======
-    "updated": 1430584475201,
-    "ranking": 0
->>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
 }

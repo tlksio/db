@@ -10,11 +10,7 @@
         "username": "octante",
         "avatar": "http://pbs.twimg.com/profile_images/1129032572/android-logo1_normal.png"
     },
-<<<<<<< HEAD
     "viewCount": 14,
-=======
-    "viewCount": 12,
->>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "voteCount": 0,
     "votes": [],
     "favoriteCount": 0,
@@ -27,11 +23,7 @@
         "bigdata"
     ],
     "created": 1427155888965,
-<<<<<<< HEAD
     "updated": 1431432800665,
-=======
-    "updated": 1430236603300,
->>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "ranking": 0,
     "type": "youtube"
 }

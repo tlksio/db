@@ -10,17 +10,11 @@
         "username": "octante",
         "avatar": "http://pbs.twimg.com/profile_images/1129032572/android-logo1_normal.png"
     },
-<<<<<<< HEAD
-    "viewCount": 8,
+    "viewCount": 9,
     "voteCount": 1,
     "votes": [
         "df4da170-cdbc-11e4-bb0d-bfceb313c1f0"
     ],
-=======
-    "viewCount": 1,
-    "voteCount": 0,
-    "votes": [],
->>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     "favoriteCount": 0,
     "favorites": [],
     "tags": [
@@ -29,11 +23,7 @@
         "symfony2 security bundle"
     ],
     "created": 1430589095246,
-<<<<<<< HEAD
-    "updated": 1433572656840,
+    "updated": 1434299824721,
     "type": "youtube",
     "ranking": 0.00005973367412412641
-=======
-    "updated": 1430604710570
->>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
 }
