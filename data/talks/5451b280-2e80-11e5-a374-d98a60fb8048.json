@@ -1,0 +1,26 @@
+{
+    "_id": "55ac5199aa317e153c9a2724",
+    "id": "5451b280-2e80-11e5-a374-d98a60fb8048",
+    "code": "RnW7m0acxg0",
+    "title": "Creating iOS Apps with C# Using Xamarin.iOS",
+    "slug": "creating-ios-apps-with-c-using-xamarinios",
+    "description": "In this video, Brent Schooley shows you how to create iOS applications using your existing C# skills.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "ios",
+        "xamarin.ios",
+        "brent schooley"
+    ],
+    "created": 1437356441000,
+    "updated": 1437356441000,
+    "type": "youtube"
+}

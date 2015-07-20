@@ -14,5 +14,6 @@
     },
     "api": {
         "port": 9002
-    }
+    },
+    "ranking": null
 }

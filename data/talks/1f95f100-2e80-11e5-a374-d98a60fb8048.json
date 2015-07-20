@@ -1,0 +1,27 @@
+{
+    "_id": "55ac5140aa317e153c9a2723",
+    "id": "1f95f100-2e80-11e5-a374-d98a60fb8048",
+    "code": "H9uzJFM2Hl0",
+    "title": "Xamarin Evolve 2014: Mobile App Development in F# - Rachael Reese, Firefly Logic",
+    "slug": "xamarin-evolve-2014-mobile-app-development-in-f-rachael-reese-firefly-logic",
+    "description": "With each new release of Xamarin Studio, the mobile story gets even better for functional programming. It’s possible to write fully native, cross-platform mobile apps — iOS, Android, Mac, Windows Phone 7, and Windows 8 — entirely in F#! Rachel Reese will concentrate on iOS development, starting with the basics, and show you tips and tricks that will keep you productive. You’ll practically be a master app dev when we’re done -- all that’s missing is your idea!",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "xamarin",
+        "mobile",
+        "f#",
+        "rachael reese"
+    ],
+    "created": 1437356352531,
+    "updated": 1437356352531,
+    "type": "youtube"
+}

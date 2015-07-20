@@ -10,7 +10,7 @@
         "username": "adriacidre",
         "avatar": "http://pbs.twimg.com/profile_images/2538924804/image_normal.jpg"
     },
-    "viewCount": 10,
+    "viewCount": 23,
     "voteCount": 1,
     "votes": [
         "2c308c10-fd69-11e4-81f0-f3cac10fef64"
@@ -23,6 +23,7 @@
         "concurrency"
     ],
     "created": 1431958934278,
-    "updated": 1434731568597,
-    "type": "youtube"
+    "updated": 1437320905001,
+    "type": "youtube",
+    "ranking": 0.00000570932099820485
 }

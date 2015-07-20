@@ -1,0 +1,31 @@
+{
+    "_id": "55a39050aa317e153c9a271c",
+    "id": "6b5ded50-2948-11e5-a374-d98a60fb8048",
+    "code": "zi89DZiWfqg",
+    "title": "Orchestrating Docker with Terraform and Consul by Mitchell Hashimoto",
+    "slug": "orchestrating-docker-with-terraform-and-consul-by-mitchell-hashimoto",
+    "description": "Terraform is a tool for building and safely iterating on infrastructure, while Consul provides service discovery, monitoring and orchestration. In this talk we discuss using Terraform and Consul together to build a Docker-based Service Oriented Architecture at scale. We use Consul to provide the runtime control plane for the datacenter, and Terraform is used to modify the underlying infrastructure to allow for elastic scalability.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 5,
+    "voteCount": 1,
+    "votes": [
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "favoriteCount": 1,
+    "favorites": [
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "tags": [
+        "terraform",
+        "docker",
+        "orchestration",
+        "mitchell hashimoto"
+    ],
+    "created": 1436782672039,
+    "updated": 1437320967504,
+    "type": "youtube"
+}

@@ -1,0 +1,27 @@
+{
+    "_id": "55a19d446709384c67d176db",
+    "id": "f6e6d100-281e-11e5-8d93-4542daed98aa",
+    "code": "eyAeVl9pMCM",
+    "title": "Go for Front End Developers - GopherConIndia 2015",
+    "slug": "go-for-front-end-developers-gopherconindia-2015",
+    "description": "Julia works mainly in JavaScript on web applications, and has recently picked up Go in the past year.<br>\r\n“Go is a better designed language than JavaScript”. She’s heard this a lot from people in the Go community, but wants to present her perspective as a JavaScript programmer.<br>\r\nJavaScript is great - very beginner friendly, you can do things on both the server-side with Node and, of course, the front-end side.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 7,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "frontend",
+        "developers",
+        "gophercon",
+        "2015"
+    ],
+    "created": 1436654916113,
+    "updated": 1437319011114,
+    "type": "youtube"
+}

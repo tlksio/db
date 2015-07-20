@@ -1,0 +1,29 @@
+{
+    "_id": "5594ed95c4d3796503d6964b",
+    "id": "31a5cdb0-208f-11e5-8557-43415f7fcd7b",
+    "code": "J9emzl_VmIs",
+    "title": " Tips and Tricks in PhpStorm",
+    "slug": "tips-and-tricks-in-phpstorm",
+    "description": "This is a recording of the talk PhpStorm: 42 Tips and Tricks presented by Mikhail Vink at Dutch PHP Conference 2015, Amsterdam, the Netherlands.",
+    "author": {
+        "id": "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7",
+        "username": "josgilmo",
+        "avatar": "http://pbs.twimg.com/profile_images/3183563149/f3b8241c3e620583214361b4a55cdc54_normal.jpeg"
+    },
+    "viewCount": 11,
+    "voteCount": 2,
+    "votes": [
+        "1c667b30-cfc6-11e4-8991-f9cf3eda7381",
+        "535d6a90-dc46-11e4-81fd-7f1d78d2acb4"
+    ],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "phpstorm",
+        "mikhail vink",
+        "dutch php conference"
+    ],
+    "created": 1435823509005,
+    "updated": 1437410511908,
+    "type": "youtube"
+}

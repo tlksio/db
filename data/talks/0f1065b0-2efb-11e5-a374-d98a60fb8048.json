@@ -1,0 +1,28 @@
+{
+    "_id": "55ad1f81aa317e153c9a2725",
+    "id": "0f1065b0-2efb-11e5-a374-d98a60fb8048",
+    "code": "RrX_28s70ww",
+    "title": "ITT 2015 - Chad Fowler - The Wunderlist 3 Story",
+    "slug": "itt-2015-chad-fowler-the-wunderlist-3-story",
+    "description": "Chad Fowler recounts the pains and joys of migration. This talks has its bases on the following questions: How do you maintain a radically heterogeneous system with a small group of developers? How do you monitor a fleet of disparate microservices? How do you make it perform acceptably? How does it change the way you think about deployment?",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "itt",
+        "2015",
+        "chad fowler",
+        "wunderlist",
+        "microservices"
+    ],
+    "created": 1437409152908,
+    "updated": 1437409152908,
+    "type": "youtube"
+}

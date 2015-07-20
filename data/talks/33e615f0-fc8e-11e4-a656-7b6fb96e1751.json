@@ -10,7 +10,7 @@
         "username": "josgilmo",
         "avatar": "http://pbs.twimg.com/profile_images/3183563149/f3b8241c3e620583214361b4a55cdc54_normal.jpeg"
     },
-    "viewCount": 12,
+    "viewCount": 21,
     "voteCount": 0,
     "votes": [],
     "favoriteCount": 0,
@@ -22,6 +22,7 @@
         "david heinemeier"
     ],
     "created": 1431864841426,
-    "updated": 1434289109230,
-    "type": "youtube"
+    "updated": 1437319050467,
+    "type": "youtube",
+    "ranking": 0
 }

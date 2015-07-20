@@ -1,0 +1,29 @@
+{
+    "_id": "55a19cca6709384c67d176da",
+    "id": "ae003fd0-281e-11e5-8d93-4542daed98aa",
+    "code": "VZrL0UB5RnI",
+    "title": "A Journey From Ruby to Go - GopherConIndia 2015",
+    "slug": "a-journey-from-ruby-to-go-gopherconindia-2015",
+    "description": "Mike’s talk is called “A Rubyist Journey to Go”. Mike works at Pivotal Labs, and one of their biggest products is CloudFoundry. He’s been on the team for over 2 years and he’s gonna tell us the story about his journey from Ruby to Go.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 8,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "ruby",
+        "go",
+        "gophercon",
+        "2015",
+        "cloudfoundry",
+        "mike"
+    ],
+    "created": 1436654793805,
+    "updated": 1437318975780,
+    "type": "youtube"
+}

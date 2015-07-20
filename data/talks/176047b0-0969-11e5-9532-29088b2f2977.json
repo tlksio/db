@@ -10,7 +10,7 @@
         "username": "adriacidre",
         "avatar": "http://pbs.twimg.com/profile_images/2538924804/image_normal.jpg"
     },
-    "viewCount": 6,
+    "viewCount": 14,
     "voteCount": 0,
     "votes": [],
     "favoriteCount": 0,
@@ -22,6 +22,7 @@
         "oscon"
     ],
     "created": 1433278267311,
-    "updated": 1434093325917,
-    "type": "youtube"
+    "updated": 1436524446129,
+    "type": "youtube",
+    "ranking": 0
 }

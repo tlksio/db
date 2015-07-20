@@ -1,0 +1,28 @@
+{
+    "_id": "55a4f4edaa317e153c9a271d",
+    "id": "fa4142e0-2a1c-11e5-a374-d98a60fb8048",
+    "code": "eR0899h_1Ac",
+    "title": "RICON 2014: Armon Dadgar, Hashicorp - Consul: Service Oriented at Scale",
+    "slug": "ricon-2014-armon-dadgar-hashicorp-consul-service-oriented-at-scale",
+    "description": "In this talk we present Consul, a distributed control plane for the datacenter. Consul aims to provide unified service discovery, monitoring, configuration and orchestration. In addition to providing high-level features, it offers low-level primitives like locking which can be used to effectively build distributed systems. We talk about how Consul can be used to solve the challenges presented by large-scale Service Oriented Architectures. We explore the real world usage of Consul both in powering VagrantCloud and other large enterprises in industry.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 5,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "ricon",
+        "2014",
+        "armon dadgar",
+        "hashicorp",
+        "consul"
+    ],
+    "created": 1436873965072,
+    "updated": 1437320985180,
+    "type": "youtube"
+}
