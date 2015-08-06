@@ -10,9 +10,11 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
-    "viewCount": 14,
-    "voteCount": 0,
-    "votes": [],
+    "viewCount": 17,
+    "voteCount": 1,
+    "votes": [
+        "1c667b30-cfc6-11e4-8991-f9cf3eda7381"
+    ],
     "favoriteCount": 0,
     "favorites": [],
     "tags": [
@@ -24,7 +26,7 @@
         "spf13-vim"
     ],
     "created": 1430673682692,
-    "updated": 1436842338143,
+    "updated": 1438550216590,
     "type": "vimeo",
     "thumb": "https://i.vimeocdn.com/video/501906141_200x150.webp",
     "ranking": 0

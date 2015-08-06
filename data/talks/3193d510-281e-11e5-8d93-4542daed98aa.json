@@ -10,7 +10,7 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
-    "viewCount": 6,
+    "viewCount": 7,
     "voteCount": 0,
     "votes": [],
     "favoriteCount": 0,
@@ -24,6 +24,7 @@
         "francesc campoy"
     ],
     "created": 1436654585059,
-    "updated": 1437319006994,
-    "type": "youtube"
+    "updated": 1438074519083,
+    "type": "youtube",
+    "ranking": 0
 }
