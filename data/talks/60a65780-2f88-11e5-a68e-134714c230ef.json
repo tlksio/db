@@ -10,9 +10,11 @@
         "username": "tlksio",
         "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
     },
-    "viewCount": 13,
-    "voteCount": 0,
-    "votes": [],
+    "viewCount": 23,
+    "voteCount": 1,
+    "votes": [
+        "35946f00-4edc-11e5-9ac3-2d21e3809db8"
+    ],
     "favoriteCount": 0,
     "favorites": [],
     "tags": [
@@ -25,6 +27,6 @@
         "ciaran mcnulty"
     ],
     "created": 1437469848825,
-    "updated": 1439553796154,
+    "updated": 1441349197601,
     "type": "youtube"
 }

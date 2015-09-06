@@ -1,0 +1,28 @@
+{
+    "_id": "55e7f7c9fe92ecaa1331cba4",
+    "id": "122ff220-520e-11e5-8e80-b39ed2574457",
+    "code": "ndmB0bj7eyw",
+    "title": "Go testing techniques",
+    "slug": "go-testing-techniques",
+    "description": "This talk was initially presented by Andrew Gerrand at Google I/O 2014 at the Go Developer Sandbox. This recording is from the (somewhat informal) golang-syd meetup in July 2014.",
+    "author": {
+        "id": "2c308c10-fd69-11e4-81f0-f3cac10fef64",
+        "username": "adriacidre",
+        "avatar": "http://pbs.twimg.com/profile_images/2538924804/image_normal.jpg"
+    },
+    "viewCount": 5,
+    "voteCount": 1,
+    "votes": [
+        "2c308c10-fd69-11e4-81f0-f3cac10fef64"
+    ],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "golang",
+        "test",
+        "go"
+    ],
+    "created": 1441265609284,
+    "updated": 1441523134198,
+    "type": "youtube"
+}

@@ -10,18 +10,20 @@
         "username": "repejota",
         "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
     },
-    "viewCount": 19,
-    "voteCount": 4,
+    "viewCount": 28,
+    "voteCount": 5,
     "votes": [
         "e119efd0-2aec-11e5-a374-d98a60fb8048",
         "19DF9868-2538-4A51-9263-642129DE57C4",
         "1c667b30-cfc6-11e4-8991-f9cf3eda7381",
-        "098e0ba0-d1b4-11e4-8faf-8d4748d78495"
+        "098e0ba0-d1b4-11e4-8faf-8d4748d78495",
+        "7229ff60-481b-11e5-81f5-07a8ab3a5ce0"
     ],
-    "favoriteCount": 2,
+    "favoriteCount": 3,
     "favorites": [
         "19DF9868-2538-4A51-9263-642129DE57C4",
-        "098e0ba0-d1b4-11e4-8faf-8d4748d78495"
+        "098e0ba0-d1b4-11e4-8faf-8d4748d78495",
+        "7229ff60-481b-11e5-81f5-07a8ab3a5ce0"
     ],
     "tags": [
         "scale",
@@ -31,7 +33,7 @@
         "microservices"
     ],
     "created": 1436956398076,
-    "updated": 1439425205486,
+    "updated": 1441326544643,
     "type": "youtube",
     "ranking": 0.000558836828759951
 }
