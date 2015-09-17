@@ -1,0 +1,25 @@
+{
+    "_id": "55f16039e936142610c7884e",
+    "id": "9cb75be0-57a9-11e5-b8b6-59cba8eb0821",
+    "code": "lIVVX-RnGps",
+    "title": "Domain-Driven Design: Aggregates (Spanish)",
+    "slug": "domain-driven-design-aggregates-spanish",
+    "description": "Charla sobre DDD y Aggregates",
+    "author": {
+        "id": "f92c8eb0-57a7-11e5-b8b6-59cba8eb0821",
+        "username": "_natman",
+        "avatar": "http://pbs.twimg.com/profile_images/523508114285293571/esFBxYAs_normal.jpeg"
+    },
+    "viewCount": 7,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "php",
+        "ddd"
+    ],
+    "created": 1441882169503,
+    "updated": 1442432200375,
+    "type": "youtube"
+}

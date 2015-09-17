@@ -1,0 +1,27 @@
+{
+    "_id": "55f5f45d17a9a5072bbeb2f5",
+    "id": "42c8bf30-5a64-11e5-bfb8-4d6ff4581869",
+    "code": "jTTlBc2-T9Q",
+    "title": "Dave Nielsen: Top 5 uses of Redis as a Database",
+    "slug": "dave-nielsen-top-5-uses-of-redis-as-a-database",
+    "description": "Top 5 uses of Redis as a Database",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 3,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "redis",
+        "pydata",
+        "2015",
+        "dave nielsen"
+    ],
+    "created": 1442182236838,
+    "updated": 1442238486080,
+    "type": "youtube"
+}

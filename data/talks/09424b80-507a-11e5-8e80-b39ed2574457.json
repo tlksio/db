@@ -10,7 +10,7 @@
         "username": "s_bergmann",
         "avatar": "http://pbs.twimg.com/profile_images/609666956615122944/64BstuOp_normal.png"
     },
-    "viewCount": 9,
+    "viewCount": 18,
     "voteCount": 2,
     "votes": [
         "35946f00-4edc-11e5-9ac3-2d21e3809db8",
@@ -27,7 +27,8 @@
         "tdd"
     ],
     "created": 1441092077628,
-    "updated": 1441421832492,
+    "updated": 1442267905638,
     "type": "vimeo",
-    "thumb": "https://i.vimeocdn.com/video/531473520_200x150.jpg"
+    "thumb": "https://i.vimeocdn.com/video/531473520_200x150.jpg",
+    "ranking": 0.0003105018968966053
 }

@@ -1,0 +1,25 @@
+{
+    "_id": "55f15ed5e936142610c7884b",
+    "id": "c83a89f0-57a8-11e5-b8b6-59cba8eb0821",
+    "code": "DYvK9j-jEcU",
+    "title": "PHP Barcelona Monthly Talk: Persistencia con Doctrine",
+    "slug": "php-barcelona-monthly-talk-persistencia-con-doctrine",
+    "description": "El grupo de programadores PHPBarcelona se complace en anunciar la segunda PHP Monthly Talk. Después de ver diferentes estilos arquitecturales toca revisar los diferentes adaptadores de nuestras aplicaciones. El primero es la persistencia así que Doctrine va a ser el protagonista.<br>\r\n",
+    "author": {
+        "id": "f92c8eb0-57a7-11e5-b8b6-59cba8eb0821",
+        "username": "_natman",
+        "avatar": "http://pbs.twimg.com/profile_images/523508114285293571/esFBxYAs_normal.jpeg"
+    },
+    "viewCount": 2,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "php",
+        "doctrine"
+    ],
+    "created": 1441881813011,
+    "updated": 1442094109582,
+    "type": "youtube"
+}

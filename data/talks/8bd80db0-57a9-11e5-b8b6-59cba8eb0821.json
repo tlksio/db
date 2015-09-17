@@ -1,0 +1,25 @@
+{
+    "_id": "55f1601de936142610c7884d",
+    "id": "8bd80db0-57a9-11e5-b8b6-59cba8eb0821",
+    "code": "lD-JIbhrvr0",
+    "title": "Domain-Driven Design: Value Objects and Entities (Spanish)",
+    "slug": "domain-driven-design-value-objects-and-entities-spanish",
+    "description": "Charla sobre DDD, Value Objects y Entities",
+    "author": {
+        "id": "f92c8eb0-57a7-11e5-b8b6-59cba8eb0821",
+        "username": "_natman",
+        "avatar": "http://pbs.twimg.com/profile_images/523508114285293571/esFBxYAs_normal.jpeg"
+    },
+    "viewCount": 6,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "php",
+        "ddd"
+    ],
+    "created": 1441882141195,
+    "updated": 1442298577068,
+    "type": "youtube"
+}
