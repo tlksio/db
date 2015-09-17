@@ -1,0 +1,28 @@
+{
+    "_id": "556b0067abe21616399f12ef",
+    "id": "b887fb80-0791-11e5-a102-39b4dce4023f",
+    "code": "K4rmFxT6p9g",
+    "title": "How to Use Scala on Hadoop by Adam Ilardi",
+    "slug": "how-to-use-scala-on-hadoop-by-adam-ilardi",
+    "description": "This talk is by Adam Ilardi, a data scientist at eBay, and was recorded at the NY Scala meetup at eBay NYC. Adam talks about eBay's transition from Pig and raw Cascading to Scalding and explains other ways they use Scala.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 22,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "adam ilardi",
+        "ebay",
+        "scala",
+        "hadoop"
+    ],
+    "created": 1433075815226,
+    "updated": 1442077107873,
+    "type": "youtube",
+    "ranking": 0
+}

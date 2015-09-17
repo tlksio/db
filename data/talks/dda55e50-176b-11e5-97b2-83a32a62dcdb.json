@@ -1,0 +1,29 @@
+{
+    "_id": "558598d738a5c7584d79bfbc",
+    "id": "dda55e50-176b-11e5-97b2-83a32a62dcdb",
+    "code": "w04ZAXftQ_Y",
+    "title": "Black Hat USA 2013 - Lessons from Surviving a 300Gbps Denial of Service Attack",
+    "slug": "black-hat-usa-2013-lessons-from-surviving-a-300gbps-denial-of-service-attack",
+    "description": "On Saturday, March 23, 2013, a distributed denial of service (DDoS) attack against Spamhaus that had been growing for weeks culminated with over 300 Gigabits per second of attack traffic targeting the anti-spam organization's network. At that point it became the largest such attack ever reported in history — at least 4x the size of the attacks that crippled US banks just a few months earlier. The attackers launched the full range DDoS methods at Spamhaus — simultaneously targeting Layer 3, Layer 4, and Layer 7. Spamhaus has given us permission to tell the full, behind-the-scenes story of what happened, show how the attacks were launched, outline the techniques the attackers used, and detail how Spamhaus.com was able to stay online throughout. While the Spamhaus story has a happy ending, the massive DDoS exposed key vulnerabilities throughout the Internet that we will need address if the network is to survive the next",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 37,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "black hat",
+        "2013",
+        "cloudfare",
+        "dos",
+        "survive"
+    ],
+    "created": 1434818775223,
+    "updated": 1441948322888,
+    "type": "youtube",
+    "ranking": 0
+}

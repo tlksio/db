@@ -1,0 +1,29 @@
+{
+    "_id": "5559f596b8efea5c376ede2f",
+    "id": "479c0c40-fd69-11e4-81f0-f3cac10fef64",
+    "code": "QDDwwePbDtw",
+    "title": "Advanced Go Concurrency Patterns",
+    "slug": "advanced-go-concurrency-patterns",
+    "description": "Concurrency is the key to designing high performance network services. This talk expands on last year's popular Go Concurrency Patterns talk t",
+    "author": {
+        "id": "2c308c10-fd69-11e4-81f0-f3cac10fef64",
+        "username": "adriacidre",
+        "avatar": "http://pbs.twimg.com/profile_images/2538924804/image_normal.jpg"
+    },
+    "viewCount": 41,
+    "voteCount": 1,
+    "votes": [
+        "2c308c10-fd69-11e4-81f0-f3cac10fef64"
+    ],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "go",
+        "golang",
+        "concurrency"
+    ],
+    "created": 1431958934278,
+    "updated": 1441909066511,
+    "type": "youtube",
+    "ranking": 6.807289380442764e-7
+}

@@ -1,0 +1,26 @@
+{
+    "_id": "55f15e51e936142610c78849",
+    "id": "79752230-57a8-11e5-b8b6-59cba8eb0821",
+    "code": "0Pzmp27c3u4",
+    "title": "PHP Barcelona Monthly Talk: Reverse Proxy Caching with Varnish",
+    "slug": "php-barcelona-monthly-talk-reverse-proxy-caching-with-varnish",
+    "description": "El grupo de programadores PHPBarcelona se complace en anunciar la sexta PHP Monthly Talk. Para la ocasión vamos a contar con los chicos de Emagister (@EmagisterTech), en concreto a Jose Luís Sánchez (@chepins) que nos va a explicar cómo mejorar la performance de backends a través de Varnish. Además vamos a ver, cómo breve introducción, qué ventajas nos ofrece Symfony en ese aspecto.",
+    "author": {
+        "id": "f92c8eb0-57a7-11e5-b8b6-59cba8eb0821",
+        "username": "_natman",
+        "avatar": "http://pbs.twimg.com/profile_images/523508114285293571/esFBxYAs_normal.jpeg"
+    },
+    "viewCount": 2,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "php",
+        "varnish",
+        "symfony"
+    ],
+    "created": 1441881680854,
+    "updated": 1442094112912,
+    "type": "youtube"
+}

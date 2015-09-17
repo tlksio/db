@@ -1,0 +1,28 @@
+{
+    "_id": "556e9e6147102ec61cf8c3f9",
+    "id": "a4ff1b50-09b9-11e5-9ff7-3b362d8ac600",
+    "code": "43684882",
+    "title": "How GitHub Works",
+    "slug": "how-github-works",
+    "description": "GitHub consists of a bunch of employees who have worked at other companies in the past and despised it. Okay, maybe they weren't all terrible jobs, but a lot of us remain skeptical of most software development practices.\r\nWe do things differently at GitHub. We don't have meetings, we don't have managers, we don't do traditional code review, and we aren't always in the same room, much less on the same continent. And we couldn't be happier about it. We ship code quickly, without a lot of red tape, and still maintain an incredibly high level of code quality.\r\nIt's a great way to keep your developers happy, and we think it can work in your company, too.",
+    "author": {
+        "id": "2c308c10-fd69-11e4-81f0-f3cac10fef64",
+        "username": "adriacidre",
+        "avatar": "http://pbs.twimg.com/profile_images/2538924804/image_normal.jpg"
+    },
+    "viewCount": 17,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "github",
+        "remote working",
+        "zack holoman"
+    ],
+    "created": 1433312864647,
+    "updated": 1441693650790,
+    "type": "vimeo",
+    "thumb": "https://i.vimeocdn.com/video/303342248_200x150.webp",
+    "ranking": 0
+}

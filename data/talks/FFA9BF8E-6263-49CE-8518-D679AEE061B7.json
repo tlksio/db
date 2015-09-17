@@ -23,8 +23,8 @@
         "realtime"
     ],
     "created": 1423328738852,
-    "updated": 1431303087314,
-    "viewCount": 83,
+    "updated": 1442000189368,
+    "viewCount": 124,
     "voteCount": 4,
     "favoriteCount": 2,
     "favorites": [
@@ -32,6 +32,6 @@
         "95b7ac30-d3f8-11e4-bbc3-d1d70859b2cd"
     ],
     "slug": "realtime-distributed-message-processing-at-scale-with-nsq",
-    "ranking": 0.000005265957467928815,
+    "ranking": 8.586804242117796e-7,
     "type": "youtube"
 }

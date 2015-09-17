@@ -1,0 +1,31 @@
+{
+    "_id": "55ae0b352a8d91da78650997",
+    "id": "8c705290-2f87-11e5-a68e-134714c230ef",
+    "code": "64202297",
+    "title": "Paul Irish - The Mobile Web is Dying and Needs Your Help - BDConf, April 2013",
+    "slug": "paul-irish-the-mobile-web-is-dying-and-needs-your-help-bdconf-april-2013",
+    "description": "Paul Irish is Developer Advocate for Chrome. He's thinking a lot about how to make you more productive with tools that improve your workflow and assist your web app development.<br>\r\nPaul Irish is a front-end developer who loves the web. He is a Developer Advocate for Google Chrome by day. He develops Yeoman, the HTML5/CSS3 feature detection library Modernizr, HTML5 Boilerplate, HTML5 Please, CSS3 Please, and other bits and bobs of open source code.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 15,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "paul irish",
+        "mobile",
+        "web",
+        "dying",
+        "bdconf",
+        "2013"
+    ],
+    "created": 1437469492795,
+    "updated": 1441693820020,
+    "type": "vimeo",
+    "thumb": "https://i.vimeocdn.com/video/434788198_200x150.jpg",
+    "ranking": 0
+}

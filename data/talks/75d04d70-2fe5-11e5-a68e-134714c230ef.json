@@ -1,0 +1,27 @@
+{
+    "_id": "55aea8c32a8d91da7865099a",
+    "id": "75d04d70-2fe5-11e5-a68e-134714c230ef",
+    "code": "t2jL0OrpILw",
+    "title": "Garden City Ruby Conference - Fun with Ruby and Arduino",
+    "slug": "garden-city-ruby-conference-fun-with-ruby-and-arduino",
+    "description": "“Internet of things” is the concept of basically connecting any device with an on and off switch to the Internet. IoT has been possible through devices like Arduino, Raspberry Pi and many more. Although most of the APIs to work with them are available in Ruby, I haven’t seen many projects programmed in Ruby, but C++, Python or JS. I would like to share my approach, resources etc I learned from and show things that are possible. I hope audience would learn new possibilities with Ruby and not have to spent time learning a new language to interact with hardware.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 24,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "iot",
+        "ruby",
+        "arduino"
+    ],
+    "created": 1437509827529,
+    "updated": 1441917862265,
+    "type": "youtube",
+    "ranking": 0
+}

@@ -1,0 +1,33 @@
+{
+    "_id": "55ae0c992a8d91da78650998",
+    "id": "60a65780-2f88-11e5-a68e-134714c230ef",
+    "code": "DlgadZLOK-M",
+    "title": "Ciaran McNulty - Why Your Test Suite Sucks",
+    "slug": "ciaran-mcnulty-why-your-test-suite-sucks",
+    "description": "Many teams adopt TDD attracted by the promise of a more productive workflow, fewer regressions and higher code quality. Sometimes this goes wrong and these benefits do not materialise, despite a healthy-seeming test suite. In this talk we will look at what the common pitfalls of testing are, why teams fall into these traps, and they can dig themselves out.",
+    "author": {
+        "id": "41356f60-cd56-11e4-b3d6-b148b158a4ae",
+        "username": "tlksio",
+        "avatar": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png"
+    },
+    "viewCount": 26,
+    "voteCount": 1,
+    "votes": [
+        "35946f00-4edc-11e5-9ac3-2d21e3809db8"
+    ],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "php",
+        "uk",
+        "2015",
+        "test",
+        "suite",
+        "sucks",
+        "ciaran mcnulty"
+    ],
+    "created": 1437469848825,
+    "updated": 1442267870701,
+    "type": "youtube",
+    "ranking": 0.0000031604964508729535
+}

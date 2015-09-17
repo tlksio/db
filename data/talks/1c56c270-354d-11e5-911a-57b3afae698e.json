@@ -1,0 +1,33 @@
+{
+    "_id": "55b7ba25201cc78e03526dea",
+    "id": "1c56c270-354d-11e5-911a-57b3afae698e",
+    "code": "aCs9TCEk1Ks",
+    "title": "Microservices: notes from the field",
+    "slug": "microservices-notes-from-the-field",
+    "description": "Josh Ellithorpe, Software Architect at Aptera, reviews the good, bad and amazing of emerging Microservices platforms and best practices,  based on feedback collected from 250+ early adopters",
+    "author": {
+        "id": "1c667b30-cfc6-11e4-8991-f9cf3eda7381",
+        "username": "GorkaLopez",
+        "avatar": "http://pbs.twimg.com/profile_images/1462148715/image_normal.jpg"
+    },
+    "viewCount": 28,
+    "voteCount": 3,
+    "votes": [
+        "1c667b30-cfc6-11e4-8991-f9cf3eda7381",
+        "a0cd4f70-3bb4-11e5-bb4f-c76b2308485f",
+        "e119efd0-2aec-11e5-a374-d98a60fb8048"
+    ],
+    "favoriteCount": 1,
+    "favorites": [
+        "a0cd4f70-3bb4-11e5-bb4f-c76b2308485f"
+    ],
+    "tags": [
+        "microservices",
+        "josh ellithorpe",
+        "apcera"
+    ],
+    "created": 1438104100900,
+    "updated": 1442282452270,
+    "type": "youtube",
+    "ranking": 0.00001283847450071413
+}

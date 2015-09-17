@@ -10,9 +10,11 @@
         "username": "octante",
         "avatar": "http://pbs.twimg.com/profile_images/1129032572/android-logo1_normal.png"
     },
-    "viewCount": 1,
-    "voteCount": 0,
-    "votes": [],
+    "viewCount": 29,
+    "voteCount": 1,
+    "votes": [
+        "df4da170-cdbc-11e4-bb0d-bfceb313c1f0"
+    ],
     "favoriteCount": 0,
     "favorites": [],
     "tags": [
@@ -21,5 +23,7 @@
         "symfony2 security bundle"
     ],
     "created": 1430589095246,
-    "updated": 1430604710570
+    "updated": 1442000266969,
+    "type": "youtube",
+    "ranking": 5.354725248718243e-7
 }

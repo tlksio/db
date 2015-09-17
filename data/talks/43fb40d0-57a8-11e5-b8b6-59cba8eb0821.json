@@ -1,0 +1,26 @@
+{
+    "_id": "55f15df7e936142610c78848",
+    "id": "43fb40d0-57a8-11e5-b8b6-59cba8eb0821",
+    "code": "DDcNP5QrAiQ",
+    "title": "PHP Barcelona Monthly Talk: From Silex to Symfony and viceversa",
+    "slug": "php-barcelona-monthly-talk-from-silex-to-symfony-and-viceversa",
+    "description": "El grupo de programadores PHPBarcelona se complace en anunciar la siguiente PHP Monthly Talk. Para la ocasión vamos a contar con Ronny López (@ronnylt) Technical Lead en SocialPoint (@SocialPointEng), que nos va a contar cómo plantear la arquitectura de una aplicación de tal forma que se pueda cambiar el mecanismo de entrega sin mucho trauma, usando dos entry points distintos: uno con Symfony y otro Silex con el mismo “core” de la app.",
+    "author": {
+        "id": "f92c8eb0-57a7-11e5-b8b6-59cba8eb0821",
+        "username": "_natman",
+        "avatar": "http://pbs.twimg.com/profile_images/523508114285293571/esFBxYAs_normal.jpeg"
+    },
+    "viewCount": 2,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "php",
+        "silex",
+        "symfony"
+    ],
+    "created": 1441881591135,
+    "updated": 1442094102591,
+    "type": "youtube"
+}

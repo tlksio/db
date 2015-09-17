@@ -1,0 +1,27 @@
+{
+    "_id": "55f15e80e936142610c7884a",
+    "id": "95e1beb0-57a8-11e5-b8b6-59cba8eb0821",
+    "code": "c0pMrPdHJJU",
+    "title": "PHP Barcelona Monthly Talk: Looking beyond PHP",
+    "slug": "php-barcelona-monthly-talk-looking-beyond-php",
+    "description": "El grupo de programadores PHPBarcelona se complace en anunciar la quinta PHP Monthly Talk. Para la ocasión vamos a contar con los chicos de SocialPoint (http://twitter.com/socialpointeng), Ronny López (http://twitter.com/ronnylt), Marcos Quesada (http://twitter.com/marcos_quesada) y Gonzalo Serrano (http://twitter.com/gonzaloserrano), que nos van a explicar que hay más allá de PHP y veremos qué posibilidades tenemos para integrar PHP con otros lenguajes y plataformas (en concreto: LUA, Erlang y Go) además de ver cómo podemos conseguir interoperabilidad estableciendo PHP cómo base.",
+    "author": {
+        "id": "f92c8eb0-57a7-11e5-b8b6-59cba8eb0821",
+        "username": "_natman",
+        "avatar": "http://pbs.twimg.com/profile_images/523508114285293571/esFBxYAs_normal.jpeg"
+    },
+    "viewCount": 4,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "php",
+        "lua",
+        "erlang",
+        "go"
+    ],
+    "created": 1441881728542,
+    "updated": 1442094105962,
+    "type": "youtube"
+}

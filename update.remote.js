@@ -17,7 +17,18 @@ function updateTalk(talk) {
     return talk;
 }
 
+<<<<<<< HEAD
+function uniq(a) {
+    var seen = {};
+    return a.filter(function(item) {
+        return seen.hasOwnProperty(item) ? false : (seen[item] = true);
+    });
+}
+
+MongoClient.connect(config.mongodb, function (err, db) {
+=======
 MongoClient.connect(config.mongodb, function(err, db) {
+>>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
     if (err) { 
         throw new Error(err);
     }
@@ -28,6 +39,21 @@ MongoClient.connect(config.mongodb, function(err, db) {
         }
         docs.forEach(function(talk) {
             talk = updateTalk(talk);
+<<<<<<< HEAD
+            var pre = talk.tags;
+            talk.tags = uniq(talk.tags);
+            if (pre.length!=talk.tags.length) {
+                console.log(talk.tags.toString());
+                talks.update({
+                    "id": talk.id
+                }, talk, function (error) {
+                    if (err) {
+                        throw new Error(err);
+                    }
+                    db.close();
+                });
+            }
+=======
             talks.update({
                 "id": talk.id
             }, talk, function(error) {
@@ -36,6 +62,7 @@ MongoClient.connect(config.mongodb, function(err, db) {
                 }
                 db.close();
             });
+>>>>>>> 4f08548bc1912999c9776ac5c6ea223d0d5285c9
         });
     });
 });

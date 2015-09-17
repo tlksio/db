@@ -1,0 +1,29 @@
+{
+    "_id": "557aa6da0a4b061f18755785",
+    "id": "bff75200-10e5-11e5-9217-3d55fcfecba2",
+    "code": "HxaD_trXwRE",
+    "title": "Lexical Scanning in Go - Rob Pike",
+    "slug": "lexical-scanning-in-go-rob-pike",
+    "description": "Lexical Scanning in Go, a talk by Rob Pike at Google Technology User Group given on Tuesday, 30 August 2011.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 44,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "lexical",
+        "scanning",
+        "golang",
+        "robpike",
+        "2011"
+    ],
+    "created": 1434101465890,
+    "updated": 1442087064026,
+    "type": "youtube",
+    "ranking": 0
+}

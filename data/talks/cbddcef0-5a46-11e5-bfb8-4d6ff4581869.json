@@ -1,0 +1,27 @@
+{
+    "_id": "55f5c2ee17a9a5072bbeb2f4",
+    "id": "cbddcef0-5a46-11e5-bfb8-4d6ff4581869",
+    "code": "tIm8UkSf6RA",
+    "title": "Golang UK Conference 2015 - Mat Ryer - Building APIs",
+    "slug": "golang-uk-conference-2015-mat-ryer-building-apis",
+    "description": "Go is great for quickly putting together APIs addressing all kinds of problems, from simple data persistence or composing external services, to exposing complicated business logic that makes up you the heart of your product or service. What's different about Go is that these \"knocked-up\" services are, if built correctly, ready to deploy, scale, and live out in the wild. This talk would deep dive on the simple `http.Handler` and `http.HandlerFunc` types and how they can be used along with some cool techniques to solve a myriad of real world problems.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 4,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "golang",
+        "gouk",
+        "building apis",
+        "mat tyer"
+    ],
+    "created": 1442169581922,
+    "updated": 1442460717041,
+    "type": "youtube"
+}

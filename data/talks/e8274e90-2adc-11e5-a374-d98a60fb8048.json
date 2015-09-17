@@ -1,0 +1,39 @@
+{
+    "_id": "55a636eeaa317e153c9a271e",
+    "id": "e8274e90-2adc-11e5-a374-d98a60fb8048",
+    "code": "5GcAgMPECxE",
+    "title": "[SCaLE 13x] Derek Collison | NATS: A new nervous system for distributed cloud platforms",
+    "slug": "scale-13x-derek-collison-or-nats-a-new-nervous-system-for-distributed-cloud-platforms",
+    "description": "Designing multi agent systems for scale creates a number of unique challenges for messaging infrastructure.  A key pattern in a pooled multi agent system is broadcast request with single response.  As the number of potential responders grows large most messaging platforms just can't handle the load because of the way they are designed.  Existing messaging platforms do have a lot of great tooling and resiliency features, but they often come at the expense of latency and throughput, and lead to design that comes to depend on those features.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 34,
+    "voteCount": 5,
+    "votes": [
+        "e119efd0-2aec-11e5-a374-d98a60fb8048",
+        "19DF9868-2538-4A51-9263-642129DE57C4",
+        "1c667b30-cfc6-11e4-8991-f9cf3eda7381",
+        "098e0ba0-d1b4-11e4-8faf-8d4748d78495",
+        "7229ff60-481b-11e5-81f5-07a8ab3a5ce0"
+    ],
+    "favoriteCount": 3,
+    "favorites": [
+        "19DF9868-2538-4A51-9263-642129DE57C4",
+        "098e0ba0-d1b4-11e4-8faf-8d4748d78495",
+        "7229ff60-481b-11e5-81f5-07a8ab3a5ce0"
+    ],
+    "tags": [
+        "scale",
+        "derek collison",
+        "nats",
+        "message system",
+        "microservices"
+    ],
+    "created": 1436956398076,
+    "updated": 1442267927836,
+    "type": "youtube",
+    "ranking": 0.00001277412890439927
+}

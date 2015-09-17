@@ -1,0 +1,28 @@
+{
+    "_id": "55ac509faa317e153c9a2721",
+    "id": "be9c0b50-2e7f-11e5-a374-d98a60fb8048",
+    "code": "132194544",
+    "title": "Microservices, cutting through the Gordian Knot - Ian Cooper",
+    "slug": "microservices-cutting-through-the-gordian-knot-ian-cooper",
+    "description": "Microservcies is the latest industry buzzword, but it's definition seems to be shifting and elusive. In this presentation we will cut through the hype and debate to expose the underlying original ideas that form the pillars upon which the Microservices idea is built. With an understanding of those pillars we will look at what makes Microservices different from it's predecessors, what we need to do to deliver on those differences and how to leverage them to support agile delivery. Finally we will look at impementation, with a focus on libraries and frameworks that can help us deliver Microservices under .NET.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 15,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "microservices",
+        "gordian knot",
+        "ian cooper"
+    ],
+    "created": 1437356189831,
+    "updated": 1442282556019,
+    "type": "vimeo",
+    "thumb": "https://i.vimeocdn.com/video/524763923_200x150.jpg",
+    "ranking": 0
+}

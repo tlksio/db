@@ -1,0 +1,25 @@
+{
+    "_id": "55f1609ae936142610c78851",
+    "id": "d64ba780-57a9-11e5-b8b6-59cba8eb0821",
+    "code": "W3yIuw_-t84",
+    "title": "Domain-Driven Design: Code Structure and Application Services (Spanish)",
+    "slug": "domain-driven-design-code-structure-and-application-services-spanish",
+    "description": "Charla sobre DDD, Estructura de Código y Application Services",
+    "author": {
+        "id": "f92c8eb0-57a7-11e5-b8b6-59cba8eb0821",
+        "username": "_natman",
+        "avatar": "http://pbs.twimg.com/profile_images/523508114285293571/esFBxYAs_normal.jpeg"
+    },
+    "viewCount": 9,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "php",
+        "ddd"
+    ],
+    "created": 1441882266106,
+    "updated": 1442321993282,
+    "type": "youtube"
+}

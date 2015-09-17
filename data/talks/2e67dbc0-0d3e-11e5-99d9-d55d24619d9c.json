@@ -1,0 +1,34 @@
+{
+    "_id": "5574853aecb0fe362951810f",
+    "id": "2e67dbc0-0d3e-11e5-99d9-d55d24619d9c",
+    "code": "RsPufohpplQ",
+    "title": "Intro to Clojure",
+    "slug": "intro-to-clojure",
+    "description": "Clojure is a dynamic programming language that targets the Java Virtual Machine (and the CLR, and JavaScript). It is designed to be a general-purpose language, combining the approachability and interactive development of a scripting language with an efficient and robust infrastructure for multithreaded programming. Clojure is a compiled language - it compiles directly to JVM bytecode, yet remains completely dynamic. Every feature supported by Clojure is supported at runtime. Clojure provides easy access to the Java frameworks, with optional type hints and type inference, to ensure that calls to Java can avoid reflection.<br>\r\nClojure is a dialect of Lisp, and shares with Lisp the code-as-data philosophy and a powerful macro system. Clojure is predominantly a functional programming language, and features a rich set of immutable, persistent data structures. When mutable state is needed, Clojure offers a software transactional memory system and reactive Agent system that ensure clean, correct, multithreaded designs.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 23,
+    "voteCount": 2,
+    "votes": [
+        "19DF9868-2538-4A51-9263-642129DE57C4",
+        "1c667b30-cfc6-11e4-8991-f9cf3eda7381"
+    ],
+    "favoriteCount": 1,
+    "favorites": [
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "tags": [
+        "clojure",
+        "jvm",
+        "clr",
+        "lisp",
+        "javascript"
+    ],
+    "created": 1433699642238,
+    "updated": 1442441870522,
+    "type": "youtube",
+    "ranking": 0.000001951370789078223
+}

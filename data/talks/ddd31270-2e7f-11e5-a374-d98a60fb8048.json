@@ -1,0 +1,28 @@
+{
+    "_id": "55ac50d3aa317e153c9a2722",
+    "id": "ddd31270-2e7f-11e5-a374-d98a60fb8048",
+    "code": "133137606",
+    "title": "JavaScript Forensics - Todd H Gardner",
+    "slug": "javascript-forensics-todd-h-gardner",
+    "description": "Something terrible happened here. Traces of errors litter the floor; memory leaking from cracks in the ceiling. Someone lost their object context in the corner. Everything reeks of jank. In this session, a JavaScript error tracking expert breaks down a series of common and complex crimes against web applications. You’ll leave the session armed with techniques and tools to detect, diagnose, and fix your JavaScript web applications. Bring your bugs and let’s fix up our web.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 13,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "javascript",
+        "forensics",
+        "todd h gardner"
+    ],
+    "created": 1437356242200,
+    "updated": 1442070552181,
+    "type": "vimeo",
+    "thumb": "https://i.vimeocdn.com/video/526094046_200x150.jpg",
+    "ranking": 0
+}

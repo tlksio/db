@@ -1,0 +1,27 @@
+{
+    "_id": "55fb2cc328cdc3bc601a447b",
+    "id": "d1294cd0-5d80-11e5-aaca-99bcc09a0c80",
+    "code": "UECh7X07m6E",
+    "title": "Golang UK Conference 2015 - Andrew Gerrand - Stupid Gopher Tricks",
+    "slug": "golang-uk-conference-2015-andrew-gerrand-stupid-gopher-tricks",
+    "description": "They say you can't teach an old dog new tricks, but what about a gopher? <br>\r\nIn this talk we'll investigate a bunch of odd corners of the language, libraries, and tools that even seasoned Go programmers might not know.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "golang uk",
+        "2015",
+        "andrew gerrand",
+        "tricks"
+    ],
+    "created": 1442524355106,
+    "updated": 1442524355106,
+    "type": "youtube"
+}

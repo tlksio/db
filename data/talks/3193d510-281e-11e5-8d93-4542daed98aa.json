@@ -1,0 +1,30 @@
+{
+    "_id": "55a19bf96709384c67d176d9",
+    "id": "3193d510-281e-11e5-8d93-4542daed98aa",
+    "code": "5iD0Hl0alZ0",
+    "title": "Evolution of a Gopher - GopherConIndia 2015",
+    "slug": "evolution-of-a-gopher-gopherconindia-2015",
+    "description": "After interviewing multiple members of the community I have identified some stages in the evolution of a Gopher. From the newcomer to the expert, this talk will give you hints and advice on how to identify them and how to become a more skilled member of the Go community.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 12,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "evolution",
+        "gopher",
+        "programmer",
+        "gophercon",
+        "2015",
+        "francesc campoy"
+    ],
+    "created": 1436654585059,
+    "updated": 1441693543191,
+    "type": "youtube",
+    "ranking": 0
+}

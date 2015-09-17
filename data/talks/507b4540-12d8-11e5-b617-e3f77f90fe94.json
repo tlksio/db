@@ -1,0 +1,28 @@
+{
+    "_id": "557deb4e154100ef273e18ff",
+    "id": "507b4540-12d8-11e5-b617-e3f77f90fe94",
+    "code": "ghEmQSxT6tw",
+    "title": "Visualizing and Understanding Deep Neural Networks by Matt Zeiler",
+    "slug": "visualizing-and-understanding-deep-neural-networks-by-matt-zeiler",
+    "description": "Matthew Zeiler, PhD, Founder and CEO of Clarifai Inc, speaks about large convolutional neural networks. These networks have recently demonstrated impressive object recognition performance making real world applications possible. However, there was no clear understanding of why they perform so well, or how they might be improved. In this talk, Matt covers a novel visualization technique that gives insight into the function of intermediate feature layers and the operation of the overall classifier. Used in a diagnostic role, these visualizations allow us to find model architectures that perform exceedingly well.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 42,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "matthew zeiler",
+        "visualizing",
+        "understanding",
+        "deep neural network"
+    ],
+    "created": 1434315597718,
+    "updated": 1442302802648,
+    "type": "youtube",
+    "ranking": 0
+}

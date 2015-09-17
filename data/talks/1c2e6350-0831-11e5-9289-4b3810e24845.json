@@ -1,0 +1,39 @@
+{
+    "_id": "556c0bd09fdd8c8e58da7c96",
+    "id": "1c2e6350-0831-11e5-9289-4b3810e24845",
+    "code": "fD2As5RmM8Q",
+    "title": "Google I/O 2015 - Polymer and modern web APIs: In production at Google scale ",
+    "slug": "google-io-2015-polymer-and-modern-web-apis-in-production-at-google-scale",
+    "description": "The latest version of Polymer is fast and lean. \r\n\r\nLearn how teams at Google have successfully launched sites using Polymer and the latest platform APIs: Web Animations, Service Workers for offline and push notifications, and material design. And if you're new to Polymer we'll show you how to get started building mobile-first apps.\r\n\r\nSpeaker(s):\r\nAddy Osmani; Eric Bidelman; Matthew McNulty; Taylor Savage",
+    "author": {
+        "id": "098e0ba0-d1b4-11e4-8faf-8d4748d78495",
+        "username": "_dawnangel_",
+        "avatar": "http://pbs.twimg.com/profile_images/551060818146492418/6jWE1xoC_normal.jpeg"
+    },
+    "viewCount": 22,
+    "voteCount": 2,
+    "votes": [
+        "098e0ba0-d1b4-11e4-8faf-8d4748d78495",
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "favoriteCount": 1,
+    "favorites": [
+        "098e0ba0-d1b4-11e4-8faf-8d4748d78495"
+    ],
+    "tags": [
+        "google",
+        "io",
+        "2015",
+        "polymer",
+        "web api",
+        "scale",
+        "addy osmani",
+        "eric bidelman",
+        "matthew mcnulty",
+        "taylor savage"
+    ],
+    "created": 1433144272391,
+    "updated": 1442359846698,
+    "type": "youtube",
+    "ranking": 0.0000017257850249955485
+}

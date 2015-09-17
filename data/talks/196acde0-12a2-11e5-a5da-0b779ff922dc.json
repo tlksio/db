@@ -1,0 +1,27 @@
+{
+    "_id": "557d905883527e7b0fd153a7",
+    "id": "196acde0-12a2-11e5-a5da-0b779ff922dc",
+    "code": "91564681",
+    "title": "Node.js + Express + Handlebars tutorial",
+    "slug": "nodejs-express-handlebars-tutorial",
+    "description": "Basic tutorial about how-to use nodejs with express.",
+    "author": {
+        "id": "df4da170-cdbc-11e4-bb0d-bfceb313c1f0",
+        "username": "octante",
+        "avatar": "http://pbs.twimg.com/profile_images/1129032572/android-logo1_normal.png"
+    },
+    "viewCount": 22,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "nodejs",
+        "express"
+    ],
+    "created": 1434292312514,
+    "updated": 1441877755861,
+    "type": "vimeo",
+    "thumb": "http://i.vimeocdn.com/video/470987617_200x150.webp",
+    "ranking": 0
+}

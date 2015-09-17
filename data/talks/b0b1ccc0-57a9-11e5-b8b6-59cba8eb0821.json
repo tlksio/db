@@ -1,0 +1,25 @@
+{
+    "_id": "55f1605be936142610c7884f",
+    "id": "b0b1ccc0-57a9-11e5-b8b6-59cba8eb0821",
+    "code": "1OtzKkJwPvc",
+    "title": "Domain-Driven Design: Bounded Context Integration (Spanish)",
+    "slug": "domain-driven-design-bounded-context-integration-spanish",
+    "description": "Charla sobre Strategical, Aggregates, Domain Events y Bounded Context Integration impartida en Software Craftsmanship Barcelona 2014 ",
+    "author": {
+        "id": "f92c8eb0-57a7-11e5-b8b6-59cba8eb0821",
+        "username": "_natman",
+        "avatar": "http://pbs.twimg.com/profile_images/523508114285293571/esFBxYAs_normal.jpeg"
+    },
+    "viewCount": 10,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "php",
+        "ddd"
+    ],
+    "created": 1441882203021,
+    "updated": 1442359594859,
+    "type": "youtube"
+}

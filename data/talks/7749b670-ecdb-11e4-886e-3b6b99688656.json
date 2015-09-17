@@ -10,7 +10,7 @@
         "username": "sdepablos",
         "avatar": "http://pbs.twimg.com/profile_images/87105575/profile_50x50_normal.png"
     },
-    "viewCount": 5,
+    "viewCount": 36,
     "voteCount": 1,
     "votes": [
         "19DF9868-2538-4A51-9263-642129DE57C4"
@@ -26,5 +26,7 @@
         "build-measure-learn"
     ],
     "created": 1430138807128,
-    "updated": 1430641679203
+    "updated": 1441911267235,
+    "type": "youtube",
+    "ranking": 4.980806752515453e-7
 }

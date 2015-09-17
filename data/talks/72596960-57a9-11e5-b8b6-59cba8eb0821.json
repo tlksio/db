@@ -1,0 +1,26 @@
+{
+    "_id": "55f15ff2e936142610c7884c",
+    "id": "72596960-57a9-11e5-b8b6-59cba8eb0821",
+    "code": "uvKS6UCUZes",
+    "title": "Domain-Driven Design Tactical Patterns and CI at @AtrapaloEng",
+    "slug": "domain-driven-design-tactical-patterns-and-ci-at-atrapaloeng",
+    "description": "Charla sobre DDD y su lado Táctico, así como los procesos asociados a la Integración Continua de Atrápalo. Charla impartida en el grupo de usuarios de PHP de Barcelona.",
+    "author": {
+        "id": "f92c8eb0-57a7-11e5-b8b6-59cba8eb0821",
+        "username": "_natman",
+        "avatar": "http://pbs.twimg.com/profile_images/523508114285293571/esFBxYAs_normal.jpeg"
+    },
+    "viewCount": 2,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "php",
+        "ddd",
+        "continuos integration"
+    ],
+    "created": 1441882098424,
+    "updated": 1442094098652,
+    "type": "youtube"
+}

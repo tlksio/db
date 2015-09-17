@@ -1,0 +1,27 @@
+{
+    "_id": "5586b4dd19ed9546d8b493ee",
+    "id": "27a4cdc0-1815-11e5-ab48-e5b62b77338f",
+    "code": "h5PRvBpLuJs",
+    "title": "Hack All The Things: 20 Devices in 45 Minutes",
+    "slug": "hack-all-the-things-20-devices-in-45-minutes",
+    "description": "When we heard Hack All The Things, we took it as a challenge. So at DEF CON this year we're doing exactly that, we're hacking everything. We've taken all of our previous experience exploiting embedded devices and used it to bring you a presentation filled with more exploits than ever before™. This presentation will feature exploits for over 20 devices including but not limited to TVs, baby monitors, media streamers, network cameras, home automation devices, and VoIP gateways. Gain root on your devices, run unsigned kernels; it's your hardware, it's internet connected, and it's horribly insecure.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 43,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "defcon",
+        "hack",
+        "devices"
+    ],
+    "created": 1434891484317,
+    "updated": 1442122283745,
+    "type": "youtube",
+    "ranking": 0
+}

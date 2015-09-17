@@ -1,0 +1,33 @@
+{
+    "_id": "55a8a746aa317e153c9a2720",
+    "id": "0afaa640-2c51-11e5-a374-d98a60fb8048",
+    "code": "131632250",
+    "title": "Principles Of Microservices - Sam Newman",
+    "slug": "principles-of-microservices-sam-newman",
+    "description": "This talk is distillation of what makes microservices different from normal services. While this talk can serve as an introduction to microservices the real goal is to help tease out the key areas of what is a very broard topic.<br>\r\n<br>\r\nThere has been lots of buzz around Microservices over the last year, but there has often been a lack of clarity as to what Microservices are, or how to implement them well. I've been working to distill down the principles of Microservices to help ensure that we don't just end up repeating the mistakes we made during the last 20 years of service oriented architecture. I'll talk about the history of where Microservices came from, what they are, the benefits and downsides, and the core principles to stick to do to them well.",
+    "author": {
+        "id": "1c667b30-cfc6-11e4-8991-f9cf3eda7381",
+        "username": "GorkaLopez",
+        "avatar": "http://pbs.twimg.com/profile_images/1462148715/image_normal.jpg"
+    },
+    "viewCount": 21,
+    "voteCount": 2,
+    "votes": [
+        "1c667b30-cfc6-11e4-8991-f9cf3eda7381",
+        "19DF9868-2538-4A51-9263-642129DE57C4"
+    ],
+    "favoriteCount": 1,
+    "favorites": [
+        "1c667b30-cfc6-11e4-8991-f9cf3eda7381"
+    ],
+    "tags": [
+        "microservices",
+        "sam newman",
+        "ndc"
+    ],
+    "created": 1437116229286,
+    "updated": 1442282383576,
+    "type": "vimeo",
+    "thumb": "https://i.vimeocdn.com/video/523960449_200x150.jpg",
+    "ranking": 0.0000054450222535341395
+}

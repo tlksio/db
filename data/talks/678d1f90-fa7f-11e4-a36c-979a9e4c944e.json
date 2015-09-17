@@ -1,0 +1,27 @@
+{
+    "_id": "55551237257ae341332cc4c3",
+    "id": "678d1f90-fa7f-11e4-a36c-979a9e4c944e",
+    "code": "fwGrKXzocg4",
+    "title": "How Twitter Uses Ansible",
+    "slug": "how-twitter-uses-ansible",
+    "description": "This video features Steve Salevan, a site reliability engineer for Twitter. Steve discusses how Twitter is migrating to Ansible for \"managing the flock\" - or, Twitter's thousands of servers and applications.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 34,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "steve salevan",
+        "twitter",
+        "ansible"
+    ],
+    "created": 1431638583306,
+    "updated": 1441693665732,
+    "type": "youtube",
+    "ranking": 0
+}

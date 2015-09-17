@@ -1,0 +1,27 @@
+{
+    "_id": "55f6eb8217a9a5072bbeb2f6",
+    "id": "9174efd0-5af7-11e5-bfb8-4d6ff4581869",
+    "code": "32406329",
+    "title": "Natural Language Search in Solr",
+    "slug": "natural-language-search-in-solr",
+    "description": "This presentation aims to showcase how to build and implement a search engine which is able to understand a query written in a way much nearer to spoken language than to keyword-based search using Apache Lucene/Solr and Apache UIMA. A system which can recognize semantics in natural language can be very handy for non expert users, e-learning systems, customer care systems, etc. With such a system it's possible to submit queries such as \"hotels near Rome\" or \"people working at Google\" without having to manually transform a user entered natural language query to a Lucene/Solr query.",
+    "author": {
+        "id": "21f1f400-cbc8-11e4-8a3c-ffa9981de9d7",
+        "username": "josgilmo",
+        "avatar": "http://pbs.twimg.com/profile_images/3183563149/f3b8241c3e620583214361b4a55cdc54_normal.jpeg"
+    },
+    "viewCount": 1,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "solr",
+        "entity recognition",
+        "tommaso teofili"
+    ],
+    "created": 1442245504846,
+    "updated": 1442276491091,
+    "type": "vimeo",
+    "thumb": "https://i.vimeocdn.com/video/219197563_200x150.jpg"
+}

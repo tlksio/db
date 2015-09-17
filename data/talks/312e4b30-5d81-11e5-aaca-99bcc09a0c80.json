@@ -1,0 +1,27 @@
+{
+    "_id": "55fb2d6428cdc3bc601a447d",
+    "id": "312e4b30-5d81-11e5-aaca-99bcc09a0c80",
+    "code": "MPIOK1lSo9s",
+    "title": "Phil Pennock of Apcera - \"Real-time dynamic site provisioning with NATS\"",
+    "slug": "phil-pennock-of-apcera-real-time-dynamic-site-provisioning-with-nats",
+    "description": "This lightning talk was given at the 2014 NGINX User Summit in San Francisco.",
+    "author": {
+        "id": "19DF9868-2538-4A51-9263-642129DE57C4",
+        "username": "repejota",
+        "avatar": "http://pbs.twimg.com/profile_images/3762983363/ede6dbb190b231797dca2c893a337adf_normal.jpeg"
+    },
+    "viewCount": 0,
+    "voteCount": 0,
+    "votes": [],
+    "favoriteCount": 0,
+    "favorites": [],
+    "tags": [
+        "nginx",
+        "phil pennock",
+        "apcera",
+        "nats"
+    ],
+    "created": 1442524516196,
+    "updated": 1442524516196,
+    "type": "youtube"
+}

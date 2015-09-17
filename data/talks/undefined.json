@@ -1,0 +1,19 @@
+{
+    "_id": "557e17e5b4be846c2c229c66",
+    "vhost": "tlks.local",
+    "twitterCallbackURL": "http://tlks.local:8081/auth/twitter/callback",
+    "twitterConsumerKey": "geLmqBbnxszuEZzgB7AaafKiB",
+    "twitterConsumerSecret": "7CdedM2kEWQ4cG9meth3pK7RPOn16HmE2cnXxW1pCrx0lOUCB6",
+    "mongodb": "mongodb://dbuser:dbpass@ds043180.mongolab.com:43180/techtalks",
+    "elasticsearch": "https://xuxikj44y5:jb06gkb4zo@tlksio-7785082337.eu-west-1.bonsai.io",
+    "server": {
+        "port": 80
+    },
+    "front": {
+        "port": 9001
+    },
+    "api": {
+        "port": 9002
+    },
+    "ranking": null
+}

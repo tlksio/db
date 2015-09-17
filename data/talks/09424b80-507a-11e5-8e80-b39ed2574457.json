@@ -1,0 +1,34 @@
+{
+    "_id": "55e551eefe92ecaa1331cba3",
+    "id": "09424b80-507a-11e5-8e80-b39ed2574457",
+    "code": "134281522",
+    "title": "Driving Quality with PhpSpec",
+    "slug": "driving-quality-with-phpspec",
+    "description": "Is a SpecBDD tool the same as a TDD tool, or something quite different? This talk will answer these questions, and show how PhpSpec can be integrated into your development workflow to drive quality in your Object Oriented design.",
+    "author": {
+        "id": "35946f00-4edc-11e5-9ac3-2d21e3809db8",
+        "username": "s_bergmann",
+        "avatar": "http://pbs.twimg.com/profile_images/609666956615122944/64BstuOp_normal.png"
+    },
+    "viewCount": 18,
+    "voteCount": 2,
+    "votes": [
+        "35946f00-4edc-11e5-9ac3-2d21e3809db8",
+        "1c667b30-cfc6-11e4-8991-f9cf3eda7381"
+    ],
+    "favoriteCount": 1,
+    "favorites": [
+        "1c667b30-cfc6-11e4-8991-f9cf3eda7381"
+    ],
+    "tags": [
+        "php",
+        "phpspec",
+        "bdd",
+        "tdd"
+    ],
+    "created": 1441092077628,
+    "updated": 1442267905638,
+    "type": "vimeo",
+    "thumb": "https://i.vimeocdn.com/video/531473520_200x150.jpg",
+    "ranking": 0.0003105018968966053
+}
